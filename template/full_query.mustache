@@ -1,0 +1,28 @@
+{
+    "query": {
+        "function_score": {
+            "query": {
+                "bool": {
+                    "must": [
+                        {{queries}}
+                    ]
+                }
+            },
+            "boost_mode": "sum",
+            "score_mode": "sum",
+            "script_score": {
+                "script": {
+                    {{function}}
+                }
+            }
+        }
+    },
+    "min_score": 0,
+    "size": {{size}},
+    "sort": {
+        {{sort}}
+    },
+    "aggs": {
+        {{aggs}}
+    }
+}

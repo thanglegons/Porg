@@ -1,0 +1,3695 @@
+{"id": 1, "name": "Italo Calvino"}
+{"id": 2, "name": "Avi"}
+{"id": 3, "name": "Sergei Lukyanenko"}
+{"id": 4, "name": "Louise Penny"}
+{"id": 5, "name": "Simon Winchester"}
+{"id": 6, "name": "Rachel Hawkins"}
+{"id": 7, "name": "Robert Kirkman"}
+{"id": 8, "name": "David Mitchell"}
+{"id": 9, "name": "Olivia Cunning"}
+{"id": 10, "name": "Noelle Stevenson"}
+{"id": 11, "name": "Rhys Bowen"}
+{"id": 12, "name": "Dean Koontz"}
+{"id": 13, "name": "Malcolm Gladwell"}
+{"id": 14, "name": "Vince Flynn"}
+{"id": 15, "name": "Darren Shan"}
+{"id": 16, "name": "James Patterson"}
+{"id": 17, "name": "Eric Van Lustbader"}
+{"id": 18, "name": "Neil Gaiman"}
+{"id": 19, "name": "Zadie Smith"}
+{"id": 20, "name": "CLAMP"}
+{"id": 21, "name": "Sarah  Young"}
+{"id": 22, "name": "Paul Tough"}
+{"id": 23, "name": "Madeline Sheehan"}
+{"id": 24, "name": "J.D. Robb"}
+{"id": 25, "name": "Tomie dePaola"}
+{"id": 26, "name": "Charles Bukowski"}
+{"id": 27, "name": "Sebastian Barry"}
+{"id": 28, "name": "Raymond E. Feist"}
+{"id": 29, "name": "A.S.A. Harrison"}
+{"id": 30, "name": "Janette Sebring Lowrey"}
+{"id": 31, "name": "Jesmyn Ward"}
+{"id": 32, "name": "P.G. Wodehouse"}
+{"id": 33, "name": "Roald Dahl"}
+{"id": 34, "name": "Pierre Boulle"}
+{"id": 35, "name": "Bill Bryson"}
+{"id": 36, "name": "Cecelia Ahern"}
+{"id": 37, "name": "Arthur C. Clarke"}
+{"id": 38, "name": "Haruki Murakami"}
+{"id": 39, "name": "T. Harv Eker"}
+{"id": 40, "name": "Lorna Landvik"}
+{"id": 41, "name": "Paul O. Zelinsky"}
+{"id": 42, "name": "P.D. Eastman"}
+{"id": 43, "name": "Orhan Pamuk"}
+{"id": 44, "name": "John Keegan"}
+{"id": 45, "name": "Jon Stone"}
+{"id": 46, "name": "Kalayna Price"}
+{"id": 47, "name": "Dominic Smith"}
+{"id": 48, "name": "Nora Roberts"}
+{"id": 49, "name": "David Sedaris"}
+{"id": 50, "name": "Y\u014dko Ogawa"}
+{"id": 51, "name": "Ian Caldwell"}
+{"id": 52, "name": "A.N. Roquelaure"}
+{"id": 53, "name": "Daniel Abraham"}
+{"id": 54, "name": "Suzanne Collins"}
+{"id": 55, "name": "Terry Brooks"}
+{"id": 56, "name": "Esi Edugyan"}
+{"id": 57, "name": "Gary Larson"}
+{"id": 58, "name": "H.A. Rey"}
+{"id": 59, "name": "Ann Brashares"}
+{"id": 60, "name": "Gosho Aoyama"}
+{"id": 61, "name": "Carrie Fisher"}
+{"id": 62, "name": "Peter F. Hamilton"}
+{"id": 63, "name": "Alexandre Dumas"}
+{"id": 64, "name": "Ishmael Beah"}
+{"id": 65, "name": "Peter Lynch"}
+{"id": 66, "name": "L.J. Smith"}
+{"id": 67, "name": "Eben Alexander"}
+{"id": 68, "name": "Carl Sagan"}
+{"id": 69, "name": "Ben Aaronovitch"}
+{"id": 70, "name": "Judith Kerr"}
+{"id": 71, "name": "Bisco Hatori"}
+{"id": 72, "name": "Seth Grahame-Smith"}
+{"id": 73, "name": "Rebecca Housel"}
+{"id": 74, "name": "Scott Snyder"}
+{"id": 75, "name": "Don Richardson"}
+{"id": 76, "name": "Anton Chekhov"}
+{"id": 77, "name": "Isaac Asimov"}
+{"id": 78, "name": "John Marsden"}
+{"id": 79, "name": "Tsugumi Ohba"}
+{"id": 80, "name": "Brian Azzarello"}
+{"id": 81, "name": "Frank Bettger"}
+{"id": 82, "name": "David McCullough"}
+{"id": 83, "name": "Jeph Loeb"}
+{"id": 84, "name": "Ellen Hopkins"}
+{"id": 85, "name": "David Eddings"}
+{"id": 86, "name": "Catherine Marshall"}
+{"id": 87, "name": "Albert Camus"}
+{"id": 88, "name": "Michael Moore"}
+{"id": 89, "name": "Milan Kundera"}
+{"id": 90, "name": "Stephen King"}
+{"id": 91, "name": "Jack McCallum"}
+{"id": 92, "name": "Lisa McMann"}
+{"id": 93, "name": "Judith McNaught"}
+{"id": 94, "name": "Lee Child"}
+{"id": 95, "name": "Frederick Douglass"}
+{"id": 96, "name": "Ren\u00e9 Descartes"}
+{"id": 97, "name": "Lauren Kate"}
+{"id": 98, "name": "Sara Zarr"}
+{"id": 99, "name": "Virginia Lee Burton"}
+{"id": 100, "name": "D.H. Lawrence"}
+{"id": 101, "name": "Samuel Shem"}
+{"id": 102, "name": "Liz Kessler"}
+{"id": 103, "name": "Gwyn Hyman Rubio"}
+{"id": 104, "name": "Anne McCaffrey"}
+{"id": 105, "name": "Jules Verne"}
+{"id": 106, "name": "Michael Pollan"}
+{"id": 107, "name": "Carl Hiaasen"}
+{"id": 108, "name": "Elif Shafak"}
+{"id": 109, "name": "Leila Meacham"}
+{"id": 110, "name": "Elizabeth Haydon"}
+{"id": 111, "name": "Lois Lowry"}
+{"id": 112, "name": "Jasper Fforde"}
+{"id": 113, "name": "Lao Tzu"}
+{"id": 114, "name": "Carrie Vaughn"}
+{"id": 115, "name": "Jane Green"}
+{"id": 116, "name": "Bertrand Russell"}
+{"id": 117, "name": "Charles Dickens"}
+{"id": 118, "name": "S.E. Hinton"}
+{"id": 119, "name": "Leil Lowndes"}
+{"id": 120, "name": "Lena Dunham"}
+{"id": 121, "name": "Astrid Lindgren"}
+{"id": 122, "name": "Al Dempster"}
+{"id": 123, "name": "Jeffrey Archer"}
+{"id": 124, "name": "Janette Oke"}
+{"id": 125, "name": "Eva Ibbotson"}
+{"id": 126, "name": "Rosamunde Pilcher"}
+{"id": 127, "name": "Tess Gerritsen"}
+{"id": 128, "name": "Masami Tsuda"}
+{"id": 129, "name": "Stephanie Kallos"}
+{"id": 130, "name": "Anne Lamott"}
+{"id": 131, "name": "Jacob Grimm"}
+{"id": 132, "name": "Robert Graves"}
+{"id": 133, "name": "Kevin Hearne"}
+{"id": 134, "name": "David Baldacci"}
+{"id": 135, "name": "Lara Adrian"}
+{"id": 136, "name": "Sharon M. Draper"}
+{"id": 137, "name": "Terry Goodkind"}
+{"id": 138, "name": "Julia Alvarez"}
+{"id": 139, "name": "Orson Scott Card"}
+{"id": 140, "name": "John Medina"}
+{"id": 141, "name": "Conn Iggulden"}
+{"id": 142, "name": "Kody Keplinger"}
+{"id": 143, "name": "Karen Cushman"}
+{"id": 144, "name": "Janet Evanovich"}
+{"id": 145, "name": "Belle Aurora"}
+{"id": 146, "name": "Chuck Klosterman"}
+{"id": 147, "name": "Yotam Ottolenghi"}
+{"id": 148, "name": "Diana Gabaldon"}
+{"id": 149, "name": "Jean M. Auel"}
+{"id": 150, "name": "Stephenie Meyer"}
+{"id": 151, "name": "Josh Kilmer-Purcell"}
+{"id": 152, "name": "Elizabeth George Speare"}
+{"id": 153, "name": "Paul Bowles"}
+{"id": 154, "name": "Brent Weeks"}
+{"id": 155, "name": "Thomas Wolfe"}
+{"id": 156, "name": "David Foster Wallace"}
+{"id": 157, "name": "Robert Hicks"}
+{"id": 158, "name": "Randy Alcorn"}
+{"id": 159, "name": "Maggie O'Farrell"}
+{"id": 160, "name": "Leo Tolstoy"}
+{"id": 161, "name": "Tony Hillerman"}
+{"id": 162, "name": "Junot D\u00edaz"}
+{"id": 163, "name": "Rosamund Lupton"}
+{"id": 164, "name": "Lawrence Wright"}
+{"id": 165, "name": "Nick Bantock"}
+{"id": 166, "name": "Ally Carter"}
+{"id": 167, "name": "J.L. Bourne"}
+{"id": 168, "name": "Karen Thompson Walker"}
+{"id": 169, "name": "Warren Ellis"}
+{"id": 170, "name": "J.K. Rowling"}
+{"id": 171, "name": "Denis Johnson"}
+{"id": 172, "name": "Kurt Vonnegut Jr."}
+{"id": 173, "name": "Jeff Hobbs"}
+{"id": 174, "name": "Jennifer Echols"}
+{"id": 175, "name": "Lili St. Crow"}
+{"id": 176, "name": "Nick Hornby"}
+{"id": 177, "name": "Stephen Greenblatt"}
+{"id": 178, "name": "Meg Cabot"}
+{"id": 179, "name": "Kendare Blake"}
+{"id": 180, "name": "Kevin Henkes"}
+{"id": 181, "name": "Paul Torday"}
+{"id": 182, "name": "Sylvia Plath"}
+{"id": 183, "name": "Toni Morrison"}
+{"id": 184, "name": "Richard Bach"}
+{"id": 185, "name": "Lisa Gardner"}
+{"id": 186, "name": "Anthony Horowitz"}
+{"id": 187, "name": "John Updike"}
+{"id": 188, "name": "Vincent Bugliosi"}
+{"id": 189, "name": "Winston Groom"}
+{"id": 190, "name": "Darynda Jones"}
+{"id": 191, "name": "Katharine Hepburn"}
+{"id": 192, "name": "Giorgio Vasari"}
+{"id": 193, "name": "Octavia E. Butler"}
+{"id": 194, "name": "Neale Donald Walsch"}
+{"id": 195, "name": "Garth Ennis"}
+{"id": 196, "name": "Paulo Coelho"}
+{"id": 197, "name": "Sandra Boynton"}
+{"id": 198, "name": "Jerry Spinelli"}
+{"id": 199, "name": "Eugene Bradley Coco"}
+{"id": 200, "name": "Simon Singh"}
+{"id": 201, "name": "Aravind Adiga"}
+{"id": 202, "name": "Scott Westerfeld"}
+{"id": 203, "name": "Anita Shreve"}
+{"id": 204, "name": "Debbie Macomber"}
+{"id": 205, "name": "The Beatles"}
+{"id": 206, "name": "George R.R. Martin"}
+{"id": 207, "name": "Patti Smith"}
+{"id": 208, "name": "Douglas Preston"}
+{"id": 209, "name": "William Gibson"}
+{"id": 210, "name": "Clive Cussler"}
+{"id": 211, "name": "Jo Nesb\u00f8"}
+{"id": 212, "name": "Philip Pullman"}
+{"id": 213, "name": "Deborah Blum"}
+{"id": 214, "name": "Sophocles"}
+{"id": 215, "name": "Larry Levin"}
+{"id": 216, "name": "Sarah Dessen"}
+{"id": 217, "name": "Renee Ahdieh"}
+{"id": 218, "name": "Richard Dawkins"}
+{"id": 219, "name": "Francine Rivers"}
+{"id": 220, "name": "Elin Hilderbrand"}
+{"id": 221, "name": "Harlan Coben"}
+{"id": 222, "name": "James Rollins"}
+{"id": 223, "name": "Steven Pressfield"}
+{"id": 224, "name": "Garth Risk Hallberg"}
+{"id": 225, "name": "Matthew      Lewis"}
+{"id": 226, "name": "Jim Benton"}
+{"id": 227, "name": "Jed Rubenfeld"}
+{"id": 228, "name": "Emerson Eggerichs"}
+{"id": 229, "name": "Kyousuke Motomi"}
+{"id": 230, "name": "Alex Flinn"}
+{"id": 231, "name": "Lincoln Peirce"}
+{"id": 232, "name": "Peter F. Drucker"}
+{"id": 233, "name": "Elizabeth Haynes"}
+{"id": 234, "name": "Kristen Ashley"}
+{"id": 235, "name": "Clive Barker"}
+{"id": 236, "name": "Sandra Dallas"}
+{"id": 237, "name": "Dick King-Smith"}
+{"id": 238, "name": "Anne Tyler"}
+{"id": 239, "name": "Wanda G\u00e1g"}
+{"id": 240, "name": "Candice Millard"}
+{"id": 241, "name": "Amy Plum"}
+{"id": 242, "name": "MaryJanice Davidson"}
+{"id": 243, "name": "Obert Skye"}
+{"id": 244, "name": "Ted Andrews"}
+{"id": 245, "name": "Anita Amirrezvani"}
+{"id": 246, "name": "Jen Lancaster"}
+{"id": 247, "name": "Ed Young"}
+{"id": 248, "name": "Laura Ingalls Wilder"}
+{"id": 249, "name": "Hunter S. Thompson"}
+{"id": 250, "name": "Michael   Lewis"}
+{"id": 251, "name": "Michelle Knight"}
+{"id": 252, "name": "Lloyd C. Douglas"}
+{"id": 253, "name": "Tom Clancy"}
+{"id": 254, "name": "Jennifer L. Holm"}
+{"id": 255, "name": "L.A. Weatherly"}
+{"id": 256, "name": "Kazuo Ishiguro"}
+{"id": 257, "name": "Gene Zion"}
+{"id": 258, "name": "Rhonda Byrne"}
+{"id": 259, "name": "Arthur Conan Doyle"}
+{"id": 260, "name": "Boris Vian"}
+{"id": 261, "name": "Sylvia Day"}
+{"id": 262, "name": "Alice McDermott"}
+{"id": 263, "name": "Terry Pratchett"}
+{"id": 264, "name": "Noam Chomsky"}
+{"id": 265, "name": "Dan Brown"}
+{"id": 266, "name": "Jim Butcher"}
+{"id": 267, "name": "Kwame Alexander"}
+{"id": 268, "name": "Seth Godin"}
+{"id": 269, "name": "Lily Koppel"}
+{"id": 270, "name": "Henry James"}
+{"id": 271, "name": "Brandon Mull"}
+{"id": 272, "name": "Daniel C. Dennett"}
+{"id": 273, "name": "Lori Lansens"}
+{"id": 274, "name": "Kresley Cole"}
+{"id": 275, "name": "Ken Kesey"}
+{"id": 276, "name": "Rae Carson"}
+{"id": 277, "name": "Gordon Korman"}
+{"id": 278, "name": "Ernest Hemingway"}
+{"id": 279, "name": "Rachel Caine"}
+{"id": 280, "name": "Willa Cather"}
+{"id": 281, "name": "Joan Didion"}
+{"id": 282, "name": "Patrick O'Brian"}
+{"id": 283, "name": "Kate Mosse"}
+{"id": 284, "name": "Hannah  Green"}
+{"id": 285, "name": "Ira Levin"}
+{"id": 286, "name": "Karen Marie Moning"}
+{"id": 287, "name": "Liza Klaussmann"}
+{"id": 288, "name": "Laurie Halse Anderson"}
+{"id": 289, "name": "Wendy Mass"}
+{"id": 290, "name": "Jonathan Swift"}
+{"id": 291, "name": "Frederick Forsyth"}
+{"id": 292, "name": "Elisabeth Naughton"}
+{"id": 293, "name": "Bill Clegg"}
+{"id": 294, "name": "Anna Lee Waldo"}
+{"id": 295, "name": "David Nicholls"}
+{"id": 296, "name": "Daniel Silva"}
+{"id": 297, "name": "Kim Harrison"}
+{"id": 298, "name": "Sharon Creech"}
+{"id": 299, "name": "Nancy Pickard"}
+{"id": 300, "name": "Deborah Harkness"}
+{"id": 301, "name": "Don    Wood"}
+{"id": 302, "name": "Ami McKay"}
+{"id": 303, "name": "Nalini Singh"}
+{"id": 304, "name": "E.L. Montes"}
+{"id": 305, "name": "Chris Bohjalian"}
+{"id": 306, "name": "Melina Marchetta"}
+{"id": 307, "name": "Virginia Woolf"}
+{"id": 308, "name": "Patricia Cornwell"}
+{"id": 309, "name": "Emily Giffin"}
+{"id": 310, "name": "Laurie R. King"}
+{"id": 311, "name": "Pat Conroy"}
+{"id": 312, "name": "Clint Hill"}
+{"id": 313, "name": "Susan Beth Pfeffer"}
+{"id": 314, "name": "Josh Bazell"}
+{"id": 315, "name": "John Layman"}
+{"id": 316, "name": "Kimon Nicolaides"}
+{"id": 317, "name": "Peter Clines"}
+{"id": 318, "name": "Cheryl Strayed"}
+{"id": 319, "name": "Connor Franta"}
+{"id": 320, "name": "Frank Miller"}
+{"id": 321, "name": "Juan Rulfo"}
+{"id": 322, "name": "John Flanagan"}
+{"id": 323, "name": "Dietrich Bonhoeffer"}
+{"id": 324, "name": "Jonathan Kellerman"}
+{"id": 325, "name": "Craig Johnson"}
+{"id": 326, "name": "Chloe Neill"}
+{"id": 327, "name": "Kim Gordon"}
+{"id": 328, "name": "Ta-Nehisi Coates"}
+{"id": 329, "name": "Agatha Christie"}
+{"id": 330, "name": "Mary Roach"}
+{"id": 331, "name": "Timothy J. Keller"}
+{"id": 332, "name": "Gertrude Crampton"}
+{"id": 333, "name": "Frank Herbert"}
+{"id": 334, "name": "Louisa May Alcott"}
+{"id": 335, "name": "Elena Ferrante"}
+{"id": 336, "name": "Mark  Lawrence"}
+{"id": 337, "name": "David Seltzer"}
+{"id": 338, "name": "Peter V. Brett"}
+{"id": 339, "name": "Molly McAdams"}
+{"id": 340, "name": "Rene Denfeld"}
+{"id": 341, "name": "Arthur Miller"}
+{"id": 342, "name": "Linda Sue Park"}
+{"id": 343, "name": "Jill Alexander Essbaum"}
+{"id": 344, "name": "Mercedes Lackey"}
+{"id": 345, "name": "Matthew Quick"}
+{"id": 346, "name": "Cynthia D'Aprix Sweeney"}
+{"id": 347, "name": "Louis Sachar"}
+{"id": 348, "name": "Megan Abbott"}
+{"id": 349, "name": "Andrew Ross Sorkin"}
+{"id": 350, "name": "Donald Ray Pollock"}
+{"id": 351, "name": "Robert Jordan"}
+{"id": 352, "name": "John Jakes"}
+{"id": 353, "name": "George MacDonald"}
+{"id": 354, "name": "Rohinton Mistry"}
+{"id": 355, "name": "Jessica Sorensen"}
+{"id": 356, "name": "Louise L. Hay"}
+{"id": 357, "name": "Wallace Stegner"}
+{"id": 358, "name": "Rainbow Rowell"}
+{"id": 359, "name": "Piers Anthony"}
+{"id": 360, "name": "Rachel Vincent"}
+{"id": 361, "name": "Richard Russo"}
+{"id": 362, "name": "Eric Wilson"}
+{"id": 363, "name": "Joss Whedon"}
+{"id": 364, "name": "Richard Peck"}
+{"id": 365, "name": "Kiera Cass"}
+{"id": 366, "name": "Max Barry"}
+{"id": 367, "name": "Mem Fox"}
+{"id": 368, "name": "Sidney Sheldon"}
+{"id": 369, "name": "Shannon Hale"}
+{"id": 370, "name": "Rafael Sabatini"}
+{"id": 371, "name": "Mary Higgins Clark"}
+{"id": 372, "name": "Denise Kiernan"}
+{"id": 373, "name": "Tessa Dare"}
+{"id": 374, "name": "Mo Willems"}
+{"id": 375, "name": "Gene Kim"}
+{"id": 376, "name": "Robert Ludlum"}
+{"id": 377, "name": "James S.A. Corey"}
+{"id": 378, "name": "Naomi Klein"}
+{"id": 379, "name": "Miles Davis"}
+{"id": 380, "name": "Bret Easton Ellis"}
+{"id": 381, "name": "Sherrilyn Kenyon"}
+{"id": 382, "name": "Maya Banks"}
+{"id": 383, "name": "Kristin Levine"}
+{"id": 384, "name": "Jennifer Close"}
+{"id": 385, "name": "Sarah Ban Breathnach"}
+{"id": 386, "name": "Christopher Moore"}
+{"id": 387, "name": "Jojo Moyes"}
+{"id": 388, "name": "Rick Riordan"}
+{"id": 389, "name": "Jennifer Weiner"}
+{"id": 390, "name": "James Dashner"}
+{"id": 391, "name": "Loek Koopmans"}
+{"id": 392, "name": "William Carlos Williams"}
+{"id": 393, "name": "Kristen Proby"}
+{"id": 394, "name": "Miriam Toews"}
+{"id": 395, "name": "Kathleen Winsor"}
+{"id": 396, "name": "J.P. Delaney"}
+{"id": 397, "name": "Jeffery Deaver"}
+{"id": 398, "name": "Langston Hughes"}
+{"id": 399, "name": "Johnny Cash"}
+{"id": 400, "name": "Tomoko Hayakawa"}
+{"id": 401, "name": "Oliver Sacks"}
+{"id": 402, "name": "Ilona Andrews"}
+{"id": 403, "name": "Penelope Ward"}
+{"id": 404, "name": "Chuck Palahniuk"}
+{"id": 405, "name": "Melissa de la Cruz"}
+{"id": 406, "name": "Jonathan Tropper"}
+{"id": 407, "name": "Abbi Glines"}
+{"id": 408, "name": "James A. Michener"}
+{"id": 409, "name": "Mathias Malzieu"}
+{"id": 410, "name": "Patricia C. Wrede"}
+{"id": 411, "name": "\u062e\u0627\u0644\u062f \u0627\u0644\u062e\u0645\u064a\u0633\u064a"}
+{"id": 412, "name": "Arnold Lobel"}
+{"id": 413, "name": "Andy Warhol"}
+{"id": 414, "name": "Deeanne Gist"}
+{"id": 415, "name": "Dave Eggers"}
+{"id": 416, "name": "Jennifer Donnelly"}
+{"id": 417, "name": "Hampton Sides"}
+{"id": 418, "name": "Brian K. Vaughan"}
+{"id": 419, "name": "J.J. Abrams"}
+{"id": 420, "name": "J.R. Ward"}
+{"id": 421, "name": "Antony Beevor"}
+{"id": 422, "name": "Michael J. Sullivan"}
+{"id": 423, "name": "Raymond Chandler"}
+{"id": 424, "name": "Bill Watterson"}
+{"id": 425, "name": "Victoria Schwab"}
+{"id": 426, "name": "Nathan  Hill"}
+{"id": 427, "name": "Heidi Murkoff"}
+{"id": 428, "name": "Mark Walden"}
+{"id": 429, "name": "Michael Crichton"}
+{"id": 430, "name": "Neal Stephenson"}
+{"id": 431, "name": "Margaret Atwood"}
+{"id": 432, "name": "Anthony Doerr"}
+{"id": 433, "name": "Vernor Vinge"}
+{"id": 434, "name": "Bill Willingham"}
+{"id": 435, "name": "Nella Larsen"}
+{"id": 436, "name": "Jeffrey Eugenides"}
+{"id": 437, "name": "Steve Martin"}
+{"id": 438, "name": "Tom Robbins"}
+{"id": 439, "name": "Doreen Cronin"}
+{"id": 440, "name": "Alice Hoffman"}
+{"id": 441, "name": "Lauren Oliver"}
+{"id": 442, "name": "Eoin Colfer"}
+{"id": 443, "name": "Catherine Fisher"}
+{"id": 444, "name": "Sapphire"}
+{"id": 445, "name": "Daniel Coyle"}
+{"id": 446, "name": "Sara Donati"}
+{"id": 447, "name": "Brad Thor"}
+{"id": 448, "name": "John Buchan"}
+{"id": 449, "name": "Erin Hunter"}
+{"id": 450, "name": "C.G. Jung"}
+{"id": 451, "name": "Rachel Joyce"}
+{"id": 452, "name": "Joseph Stein"}
+{"id": 453, "name": "Jacqueline Wilson"}
+{"id": 454, "name": "Alastair Reynolds"}
+{"id": 455, "name": "Farley Mowat"}
+{"id": 456, "name": "Kathy Reichs"}
+{"id": 457, "name": "Jessica Knoll"}
+{"id": 458, "name": "Alice Walker"}
+{"id": 459, "name": "Brian Jacques"}
+{"id": 460, "name": "Keith Richards"}
+{"id": 461, "name": "Gary Taubes"}
+{"id": 462, "name": "Guillermo del Toro"}
+{"id": 463, "name": "Colm T\u00f3ib\u00edn"}
+{"id": 464, "name": "Becky  Chambers"}
+{"id": 465, "name": "E.D. Baker"}
+{"id": 466, "name": "Brennan Manning"}
+{"id": 467, "name": "Bernard Cornwell"}
+{"id": 468, "name": "Michael Scott"}
+{"id": 469, "name": "Marissa Meyer"}
+{"id": 470, "name": "Eric S. Nylund"}
+{"id": 471, "name": "Giles Andreae"}
+{"id": 472, "name": "Robin McKinley"}
+{"id": 473, "name": "Jonathan Stroud"}
+{"id": 474, "name": "Else Holmelund Minarik"}
+{"id": 475, "name": "Frantz Fanon"}
+{"id": 476, "name": "Christos Tsiolkas"}
+{"id": 477, "name": "R.L. Stine"}
+{"id": 478, "name": "Henry Miller"}
+{"id": 479, "name": "John Irving"}
+{"id": 480, "name": "Michelle Richmond"}
+{"id": 481, "name": "R.A. Salvatore"}
+{"id": 482, "name": "Mira Grant"}
+{"id": 483, "name": "John D. Fitzgerald"}
+{"id": 484, "name": "Amitav Ghosh"}
+{"id": 485, "name": "Tammara Webber"}
+{"id": 486, "name": "Peter  May"}
+{"id": 487, "name": "Patrick Rothfuss"}
+{"id": 488, "name": "Anthony Marra"}
+{"id": 489, "name": "Amanda Hocking"}
+{"id": 490, "name": "Aimee Carter"}
+{"id": 491, "name": "Kennilworthy Whisp"}
+{"id": 492, "name": "Carol Tavris"}
+{"id": 493, "name": "Gavin Extence"}
+{"id": 494, "name": "Jodi Picoult"}
+{"id": 495, "name": "Dinah Bucholz"}
+{"id": 496, "name": "Mitch Albom"}
+{"id": 497, "name": "Herman Koch"}
+{"id": 498, "name": "Tana French"}
+{"id": 499, "name": "Jon Klassen"}
+{"id": 500, "name": "Edmund Morris"}
+{"id": 501, "name": "Julia Donaldson"}
+{"id": 502, "name": "Andrew Stanton"}
+{"id": 503, "name": "Cornelius Ryan"}
+{"id": 504, "name": "Elaine Pagels"}
+{"id": 505, "name": "Sarah Hepola"}
+{"id": 506, "name": "\u0633\u0644\u0637\u0627\u0646 \u0645\u0648\u0633\u0649 \u0627\u0644\u0645\u0648\u0633\u0649"}
+{"id": 507, "name": "Richard Carlson"}
+{"id": 508, "name": "T.S. Eliot"}
+{"id": 509, "name": "Robert Crais"}
+{"id": 510, "name": "Curtis Sittenfeld"}
+{"id": 511, "name": "Umberto Eco"}
+{"id": 512, "name": "Alex Gino"}
+{"id": 513, "name": "Joyce Meyer"}
+{"id": 514, "name": "Dorothy Gilman"}
+{"id": 515, "name": "Wayne A. Grudem"}
+{"id": 516, "name": "Hermann Hesse"}
+{"id": 517, "name": "Michael E. Porter"}
+{"id": 518, "name": "Kristin Hannah"}
+{"id": 519, "name": "John Sandford"}
+{"id": 520, "name": "Jack London"}
+{"id": 521, "name": "Edgar Allan Poe"}
+{"id": 522, "name": "Dan Wells"}
+{"id": 523, "name": "Keigo Higashino"}
+{"id": 524, "name": "Kyung-Sook Shin"}
+{"id": 525, "name": "Thomas Mann"}
+{"id": 526, "name": "Joyce Carol Oates"}
+{"id": 527, "name": "Beverly Cleary"}
+{"id": 528, "name": "Ransom Riggs"}
+{"id": 529, "name": "Suzanne Young"}
+{"id": 530, "name": "Margaret Weis"}
+{"id": 531, "name": "Herg\u00e9"}
+{"id": 532, "name": "Joe Abercrombie"}
+{"id": 533, "name": "Mike Carey"}
+{"id": 534, "name": "Doris Kearns Goodwin"}
+{"id": 535, "name": "Ben Goldacre"}
+{"id": 536, "name": "Alyson Noel"}
+{"id": 537, "name": "Tite Kubo"}
+{"id": 538, "name": "Thomas Harris"}
+{"id": 539, "name": "Jen\u0151 Barcsay"}
+{"id": 540, "name": "Joseph Campbell"}
+{"id": 541, "name": "Ken Follett"}
+{"id": 542, "name": "Julia Hoban"}
+{"id": 543, "name": "Tom Wolfe"}
+{"id": 544, "name": "Margaret Sidney"}
+{"id": 545, "name": "Emma Cline"}
+{"id": 546, "name": "David Cote"}
+{"id": 547, "name": "Michael Ondaatje"}
+{"id": 548, "name": "Rachel Ren\u00e9e Russell"}
+{"id": 549, "name": "Peter Matthiessen"}
+{"id": 550, "name": "Elizabeth Wein"}
+{"id": 551, "name": "Adam M. Grant"}
+{"id": 552, "name": "Brian Herbert"}
+{"id": 553, "name": "\u00c9mile Zola"}
+{"id": 554, "name": "Jane Austen"}
+{"id": 555, "name": "Chris Van Allsburg"}
+{"id": 556, "name": "Stella Gibbons"}
+{"id": 557, "name": "Ray Bradbury"}
+{"id": 558, "name": "Glen Duncan"}
+{"id": 559, "name": "Wilbur Smith"}
+{"id": 560, "name": "Steve Berry"}
+{"id": 561, "name": "Simone Elkeles"}
+{"id": 562, "name": "Mary Kubica"}
+{"id": 563, "name": "Kristen Britain"}
+{"id": 564, "name": "Randall Wallace"}
+{"id": 565, "name": "John Piper"}
+{"id": 566, "name": "Laurelin Paige"}
+{"id": 567, "name": "Michael  Grant"}
+{"id": 568, "name": "Daniel H. Pink"}
+{"id": 569, "name": "Fiona Carnarvon"}
+{"id": 570, "name": "Peach-Pit"}
+{"id": 571, "name": "Stephen C. Lundin"}
+{"id": 572, "name": "Aprilynne Pike"}
+{"id": 573, "name": "Heather Gudenkauf"}
+{"id": 574, "name": "Christopher Pike"}
+{"id": 575, "name": "Richard Kadrey"}
+{"id": 576, "name": "Maeve Binchy"}
+{"id": 577, "name": "Cook's Illustrated Magazine"}
+{"id": 578, "name": "Veronica Roth"}
+{"id": 579, "name": "Tamora Pierce"}
+{"id": 580, "name": "Tere Liye"}
+{"id": 581, "name": "Alan Dean Foster"}
+{"id": 582, "name": "Charles R. Cross"}
+{"id": 583, "name": "Essam Youssef"}
+{"id": 584, "name": "Cornelia Funke"}
+{"id": 585, "name": "Joe Hill"}
+{"id": 586, "name": "Dante Alighieri"}
+{"id": 587, "name": "Colum McCann"}
+{"id": 588, "name": "Keri Arthur"}
+{"id": 589, "name": "Richard Connell"}
+{"id": 590, "name": "Nyrae Dawn"}
+{"id": 591, "name": "George Orwell"}
+{"id": 592, "name": "A.W. Tozer"}
+{"id": 593, "name": "Friedrich Nietzsche"}
+{"id": 594, "name": "Giada De Laurentiis"}
+{"id": 595, "name": "Trudi Canavan"}
+{"id": 596, "name": "James E. Talmage"}
+{"id": 597, "name": "Mercer Mayer"}
+{"id": 598, "name": "Larry Correia"}
+{"id": 599, "name": "Jonathan Safran Foer"}
+{"id": 600, "name": "Libba Bray"}
+{"id": 601, "name": "Gloria Steinem"}
+{"id": 602, "name": "Neil Strauss"}
+{"id": 603, "name": "Marie Rutkoski"}
+{"id": 604, "name": "Sarah Waters"}
+{"id": 605, "name": "Alison Weir"}
+{"id": 606, "name": "Heather Cocks"}
+{"id": 607, "name": "Betty Crocker"}
+{"id": 608, "name": "Jonathan Franzen"}
+{"id": 609, "name": "Dallas Hartwig"}
+{"id": 610, "name": "Tucker Max"}
+{"id": 611, "name": "Ernest Cline"}
+{"id": 612, "name": "Peter Lerangis"}
+{"id": 613, "name": "Laurell K. Hamilton"}
+{"id": 614, "name": "J.D. Salinger"}
+{"id": 615, "name": "Franz Kafka"}
+{"id": 616, "name": "Ellen Schreiber"}
+{"id": 617, "name": "Mario Benedetti"}
+{"id": 618, "name": "Vladimir Nabokov"}
+{"id": 619, "name": "Gigi Levangie Grazer"}
+{"id": 620, "name": "Evelyn Waugh"}
+{"id": 621, "name": "Lisa See"}
+{"id": 622, "name": "Louis de Berni\u00e8res"}
+{"id": 623, "name": "Elyn R. Saks"}
+{"id": 624, "name": "Joseph J. Ellis"}
+{"id": 625, "name": "John Steinbeck"}
+{"id": 626, "name": "Carlo Collodi"}
+{"id": 627, "name": "Mihaly Csikszentmihalyi"}
+{"id": 628, "name": "Jussi Adler-Olsen"}
+{"id": 629, "name": "Sebastian Junger"}
+{"id": 630, "name": "Sophie Kinsella"}
+{"id": 631, "name": "Donna VanLiere"}
+{"id": 632, "name": "Heather O'Neill"}
+{"id": 633, "name": "Zora Neale Hurston"}
+{"id": 634, "name": "Jude Watson"}
+{"id": 635, "name": "John Keats"}
+{"id": 636, "name": "Hafez"}
+{"id": 637, "name": "Jennifer L. Armentrout"}
+{"id": 638, "name": "Juliet Marillier"}
+{"id": 639, "name": "L.M. Montgomery"}
+{"id": 640, "name": "Scott Dikkers"}
+{"id": 641, "name": "Cassandra Clare"}
+{"id": 642, "name": "Hugh Howey"}
+{"id": 643, "name": "Stan Berenstain"}
+{"id": 644, "name": "Jeff Shaara"}
+{"id": 645, "name": "Gail Carriger"}
+{"id": 646, "name": "Kimberly Derting"}
+{"id": 647, "name": "Nicholas Evans"}
+{"id": 648, "name": "Justin Cronin"}
+{"id": 649, "name": "Harry Harrison"}
+{"id": 650, "name": "Marion Zimmer Bradley"}
+{"id": 651, "name": "V.C. Andrews"}
+{"id": 652, "name": "Rod Campbell"}
+{"id": 653, "name": "Timothy Egan"}
+{"id": 654, "name": "C.S. Lewis"}
+{"id": 655, "name": "Derek Landy"}
+{"id": 656, "name": "Marian Keyes"}
+{"id": 657, "name": "Federico Garc\u00eda Lorca"}
+{"id": 658, "name": "Pseudonymous Bosch"}
+{"id": 659, "name": "\u0623\u062b\u064a\u0631 \u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0646\u0634\u0645\u064a"}
+{"id": 660, "name": "E. Lockhart"}
+{"id": 661, "name": "Angie Sage"}
+{"id": 662, "name": "Alice Clayton"}
+{"id": 663, "name": "Salman Rushdie"}
+{"id": 664, "name": "Laurie Notaro"}
+{"id": 665, "name": "Ross King"}
+{"id": 666, "name": "Brian L. Weiss"}
+{"id": 667, "name": "Holly Black"}
+{"id": 668, "name": "Paulette Jiles"}
+{"id": 669, "name": "Tim Winton"}
+{"id": 670, "name": "Roger Zelazny"}
+{"id": 671, "name": "Jeff Smith"}
+{"id": 672, "name": "Irvin D. Yalom"}
+{"id": 673, "name": "Dr. Seuss"}
+{"id": 674, "name": "Ted Dekker"}
+{"id": 675, "name": "Antonia Fraser"}
+{"id": 676, "name": "Sara Shepard"}
+{"id": 677, "name": "Louise Erdrich"}
+{"id": 678, "name": "Eiji Yoshikawa"}
+{"id": 679, "name": "Kurt Cobain"}
+{"id": 680, "name": "Ori Brafman"}
+{"id": 681, "name": "Simms Taback"}
+{"id": 682, "name": "Rachel Carson"}
+{"id": 683, "name": "Ursula K. Le Guin"}
+{"id": 684, "name": "F. Scott Fitzgerald"}
+{"id": 685, "name": "Gemma Malley"}
+{"id": 686, "name": "R.L. Mathewson"}
+{"id": 687, "name": "Iain M. Banks"}
+{"id": 688, "name": "April Henry"}
+{"id": 689, "name": "Susanna Kaysen"}
+{"id": 690, "name": "A.S. King"}
+{"id": 691, "name": "Michel Faber"}
+{"id": 692, "name": "Brandon Sanderson"}
+{"id": 693, "name": "Stephen E. Ambrose"}
+{"id": 694, "name": "Meg Jay"}
+{"id": 695, "name": "Yoko Kamio"}
+{"id": 696, "name": "Edith Wharton"}
+{"id": 697, "name": "Lionel Shriver"}
+{"id": 698, "name": "Barack Obama"}
+{"id": 699, "name": "Kim Gruenenfelder"}
+{"id": 700, "name": "Mark Millar"}
+{"id": 701, "name": "Dennis Lehane"}
+{"id": 702, "name": "John le Carr\u00e9"}
+{"id": 703, "name": "Lois McMaster Bujold"}
+{"id": 704, "name": "Stieg Larsson"}
+{"id": 705, "name": "Jon Ronson"}
+{"id": 706, "name": "William Shakespeare"}
+{"id": 707, "name": "Ellis Avery"}
+{"id": 708, "name": "Benjamin Graham"}
+{"id": 709, "name": "Jandy Nelson"}
+{"id": 710, "name": "Erin Gruwell"}
+{"id": 711, "name": "Amie Kaufman"}
+{"id": 712, "name": "John Scalzi"}
+{"id": 713, "name": "Richard Atwater"}
+{"id": 714, "name": "Joanne Harris"}
+{"id": 715, "name": "Stephen Sondheim"}
+{"id": 716, "name": "John Howard Griffin"}
+{"id": 717, "name": "Anatoli Boukreev"}
+{"id": 718, "name": "Shari Lapena"}
+{"id": 719, "name": "Frank E. Peretti"}
+{"id": 720, "name": "Laura Kaye"}
+{"id": 721, "name": "Peggy Parish"}
+{"id": 722, "name": "James Clavell"}
+{"id": 723, "name": "Leah Wilson"}
+{"id": 724, "name": "Barbara W. Tuchman"}
+{"id": 725, "name": "Blaine Harden"}
+{"id": 726, "name": "Ildefonso Falcones"}
+{"id": 727, "name": "Sheldon Vanauken"}
+{"id": 728, "name": "Lynsay Sands"}
+{"id": 729, "name": "Becca Fitzpatrick"}
+{"id": 730, "name": "Jodee Blanco"}
+{"id": 731, "name": "Travis Bradberry"}
+{"id": 732, "name": "Candace Bushnell"}
+{"id": 733, "name": "James Alexander Thom"}
+{"id": 734, "name": "Laurent Binet"}
+{"id": 735, "name": "Ralph Waldo Emerson"}
+{"id": 736, "name": "Jack Kerouac"}
+{"id": 737, "name": "Christine Feehan"}
+{"id": 738, "name": "Timothy Zahn"}
+{"id": 739, "name": "Richard H. Thaler"}
+{"id": 740, "name": "Josh McDowell"}
+{"id": 741, "name": "Isabel Allende"}
+{"id": 742, "name": "Shelly Laurenston"}
+{"id": 743, "name": "Trish Doller"}
+{"id": 744, "name": "Ibraheem Abbas"}
+{"id": 745, "name": "Andrea Hirata"}
+{"id": 746, "name": "S.K. Tremayne"}
+{"id": 747, "name": "Karen   White"}
+{"id": 748, "name": "Anne Fadiman"}
+{"id": 749, "name": "Charlotte Bront\u00eb"}
+{"id": 750, "name": "Barbara Delinsky"}
+{"id": 751, "name": "Liesl Shurtliff"}
+{"id": 752, "name": "A. Manette Ansay"}
+{"id": 753, "name": "Anonymous"}
+{"id": 754, "name": "Michel Houellebecq"}
+{"id": 755, "name": "Herman Melville"}
+{"id": 756, "name": "Michael Morpurgo"}
+{"id": 757, "name": "Aziz Ansari"}
+{"id": 758, "name": "Art Spiegelman"}
+{"id": 759, "name": "Sudhir Venkatesh"}
+{"id": 760, "name": "Bruce Degen"}
+{"id": 761, "name": "Janet Fitch"}
+{"id": 762, "name": "George Eliot"}
+{"id": 763, "name": "Aristotle"}
+{"id": 764, "name": "Robert Louis Stevenson"}
+{"id": 765, "name": "A.A. Milne"}
+{"id": 766, "name": "Penelope Douglas"}
+{"id": 767, "name": "Elizabeth Chandler"}
+{"id": 768, "name": "Garth Nix"}
+{"id": 769, "name": "C.J. Redwine"}
+{"id": 770, "name": "Steve Harvey"}
+{"id": 771, "name": "Richelle Mead"}
+{"id": 772, "name": "John Saul"}
+{"id": 773, "name": "Scott Lynch"}
+{"id": 774, "name": "Michael Chabon"}
+{"id": 775, "name": "Jennifer Estep"}
+{"id": 776, "name": "Gerard Way"}
+{"id": 777, "name": "Margaret Peterson Haddix"}
+{"id": 778, "name": "Anna Godbersen"}
+{"id": 779, "name": "Caralyn Buehner"}
+{"id": 780, "name": "Sabaa Tahir"}
+{"id": 781, "name": "Grant Morrison"}
+{"id": 782, "name": "Richard Price"}
+{"id": 783, "name": "Charlie N. Holmberg"}
+{"id": 784, "name": "Dav Pilkey"}
+{"id": 785, "name": "Mark Kurlansky"}
+{"id": 786, "name": "Lauren Weisberger"}
+{"id": 787, "name": "Alan Moore"}
+{"id": 788, "name": "Jack Finney"}
+{"id": 789, "name": "Gary Paulsen"}
+{"id": 790, "name": "Tara Conklin"}
+{"id": 791, "name": "Heather Brewer"}
+{"id": 792, "name": "Charles Bernard Nordhoff"}
+{"id": 793, "name": "Stephen Crane"}
+{"id": 794, "name": "Fran\u00e7ois Lelord"}
+{"id": 795, "name": "Ann Patchett"}
+{"id": 796, "name": "Michael Connelly"}
+{"id": 797, "name": "Martin Sixsmith"}
+{"id": 798, "name": "Edward Rutherfurd"}
+{"id": 799, "name": "Fannie Flagg"}
+{"id": 800, "name": "Michelle Moran"}
+{"id": 801, "name": "Moira Young"}
+{"id": 802, "name": "Alexandra Horowitz"}
+{"id": 803, "name": "Trenton Lee Stewart"}
+{"id": 804, "name": "Jos\u00e9 Saramago"}
+{"id": 805, "name": "Maggie Stiefvater"}
+{"id": 806, "name": "Susanna Kearsley"}
+{"id": 807, "name": "Siri Hustvedt"}
+{"id": 808, "name": "Taylor Caldwell"}
+{"id": 809, "name": "Anne Rice"}
+{"id": 810, "name": "L. Frank Baum"}
+{"id": 811, "name": "Lemony Snicket"}
+{"id": 812, "name": "Elizabeth  George"}
+{"id": 813, "name": "Marcus Samuelsson"}
+{"id": 814, "name": "Lucie Whitehouse"}
+{"id": 815, "name": "Cece Bell"}
+{"id": 816, "name": "Guy Delisle"}
+{"id": 817, "name": "Cinda Williams Chima"}
+{"id": 818, "name": "Jacqueline Carey"}
+{"id": 819, "name": "Linda Howard"}
+{"id": 820, "name": "Michael Buckley"}
+{"id": 821, "name": "Andr\u00e9 Aciman"}
+{"id": 822, "name": "Linwood Barclay"}
+{"id": 823, "name": "Shunryu Suzuki"}
+{"id": 824, "name": "Jorge Luis Borges"}
+{"id": 825, "name": "Anna Carey"}
+{"id": 826, "name": "Jay McInerney"}
+{"id": 827, "name": "Katherine Applegate"}
+{"id": 828, "name": "Max Frisch"}
+{"id": 829, "name": "Karen Kingsbury"}
+{"id": 830, "name": "Ann-Marie MacDonald"}
+{"id": 831, "name": "Robert McCloskey"}
+{"id": 832, "name": "Dan Simmons"}
+{"id": 833, "name": "Richard Feynman"}
+{"id": 834, "name": "Michel Foucault"}
+{"id": 835, "name": "Camilla L\u00e4ckberg"}
+{"id": 836, "name": "Patrick Ness"}
+{"id": 837, "name": "Bill Martin Jr."}
+{"id": 838, "name": "Tony Parsons"}
+{"id": 839, "name": "Patricia Briggs"}
+{"id": 840, "name": "Hisaya Nakajo"}
+{"id": 841, "name": "Jean Rhys"}
+{"id": 842, "name": "William S. Burroughs"}
+{"id": 843, "name": "Harry Allard"}
+{"id": 844, "name": "Charles Martin"}
+{"id": 845, "name": "Greg Bear"}
+{"id": 846, "name": "Ann Cleeves"}
+{"id": 847, "name": "P.C. Cast"}
+{"id": 848, "name": "Saul Bellow"}
+{"id": 849, "name": "Karen Miller"}
+{"id": 850, "name": "Steven Callahan"}
+{"id": 851, "name": "Perry Moore"}
+{"id": 852, "name": "A.M. Homes"}
+{"id": 853, "name": "Lee Strobel"}
+{"id": 854, "name": "Susan Elizabeth Phillips"}
+{"id": 855, "name": "Fredrik Backman"}
+{"id": 856, "name": "Richard Wright"}
+{"id": 857, "name": "Nelson DeMille"}
+{"id": 858, "name": "Gayle Tzemach Lemmon"}
+{"id": 859, "name": "Dai Sijie"}
+{"id": 860, "name": "Nancy Garden"}
+{"id": 861, "name": "Lloyd Alexander"}
+{"id": 862, "name": "Cora Carmack"}
+{"id": 863, "name": "Philip K. Dick"}
+{"id": 864, "name": "Rachel Ward"}
+{"id": 865, "name": "Kelly McGonigal"}
+{"id": 866, "name": "E.L. James"}
+{"id": 867, "name": "Peter Thiel"}
+{"id": 868, "name": "Masashi Kishimoto"}
+{"id": 869, "name": "Gustave Flaubert"}
+{"id": 870, "name": "Young Kim"}
+{"id": 871, "name": "Gary Russell"}
+{"id": 872, "name": "Lene Kaaberb\u00f8l"}
+{"id": 873, "name": "Jodi Ellen Malpas"}
+{"id": 874, "name": "Douglas Adams"}
+{"id": 875, "name": "Kerstin Gier"}
+{"id": 876, "name": "Jason  Matthews"}
+{"id": 877, "name": "Margaret George"}
+{"id": 878, "name": "Julia Quinn"}
+{"id": 879, "name": "Jamie McGuire"}
+{"id": 880, "name": "Bree Despain"}
+{"id": 881, "name": "Joseph Conrad"}
+{"id": 882, "name": "Maurice Sendak"}
+{"id": 883, "name": "Jessica Day George"}
+{"id": 884, "name": "Al Franken"}
+{"id": 885, "name": "Christopher Hitchens"}
+{"id": 886, "name": "Karin Slaughter"}
+{"id": 887, "name": "William Goldman"}
+{"id": 888, "name": "Philippa Gregory"}
+{"id": 889, "name": "Sarah Blake"}
+{"id": 890, "name": "Audre Lorde"}
+{"id": 891, "name": "Brian Coffey"}
+{"id": 892, "name": "Francis Chan"}
+{"id": 893, "name": "Carlos Ruiz Zaf\u00f3n"}
+{"id": 894, "name": "Stendhal"}
+{"id": 895, "name": "Gabriel Garc\u00eda M\u00e1rquez"}
+{"id": 896, "name": "Marcel Proust"}
+{"id": 897, "name": "Aya Nakahara"}
+{"id": 898, "name": "Keri Hulme"}
+{"id": 899, "name": "Bethany McLean"}
+{"id": 900, "name": "Ozzy Osbourne"}
+{"id": 901, "name": "Chimamanda Ngozi Adichie"}
+{"id": 902, "name": "Tom Rob Smith"}
+{"id": 903, "name": "Kazu Kibuishi"}
+{"id": 904, "name": "Sam McBratney"}
+{"id": 905, "name": "Richard Adams"}
+{"id": 906, "name": "Randy Shilts"}
+{"id": 907, "name": "John Eldredge"}
+{"id": 908, "name": "Andrew Hunt"}
+{"id": 909, "name": "Amy Poehler"}
+{"id": 910, "name": "Reza Aslan"}
+{"id": 911, "name": "Bryan Lee O'Malley"}
+{"id": 912, "name": "Susan Coolidge"}
+{"id": 913, "name": "Daniel Handler"}
+{"id": 914, "name": "Thomas C. Foster"}
+{"id": 915, "name": "Emily Dickinson"}
+{"id": 916, "name": "Jason F. Wright"}
+{"id": 917, "name": "Steven D. Levitt"}
+{"id": 918, "name": "Rudyard Kipling"}
+{"id": 919, "name": "Frida Kahlo"}
+{"id": 920, "name": "Rachael Ray"}
+{"id": 921, "name": "Edgar Rice Burroughs"}
+{"id": 922, "name": "Gena Showalter"}
+{"id": 923, "name": "Alyson Richman"}
+{"id": 924, "name": "Guy de Maupassant"}
+{"id": 925, "name": "Jennifer Rush"}
+{"id": 926, "name": "Simon Schama"}
+{"id": 927, "name": "Jeanette Winterson"}
+{"id": 928, "name": "Taylor Jenkins Reid"}
+{"id": 929, "name": "Stephanie Garber"}
+{"id": 930, "name": "Jonathan Lethem"}
+{"id": 931, "name": "Charlaine Harris"}
+{"id": 932, "name": "Lian Hearn"}
+{"id": 933, "name": "Caroline Myss"}
+{"id": 934, "name": "Steven Erikson"}
+{"id": 935, "name": "Viktor E. Frankl"}
+{"id": 936, "name": "Jenny Nimmo"}
+{"id": 937, "name": "J.R.R. Tolkien"}
+{"id": 938, "name": "Jennifer Crusie"}
+{"id": 939, "name": "Bryn Greenwood"}
+{"id": 940, "name": "Wally Lamb"}
+{"id": 941, "name": "Melissa Bank"}
+{"id": 942, "name": "Shel Silverstein"}
+{"id": 943, "name": "Mark Bowden"}
+{"id": 944, "name": "Glennon Doyle Melton"}
+{"id": 945, "name": "Rudolfo Anaya"}
+{"id": 946, "name": "Frederik Pohl"}
+{"id": 947, "name": "Alison Goodman"}
+{"id": 948, "name": "James Joyce"}
+{"id": 949, "name": "Cat Patrick"}
+{"id": 950, "name": "George Saunders"}
+{"id": 951, "name": "Marieke Nijkamp"}
+{"id": 952, "name": "Neal Shusterman"}
+{"id": 953, "name": "Eric Berne"}
+{"id": 954, "name": "Stephen R. Covey"}
+{"id": 955, "name": "Peter Hedges"}
+{"id": 956, "name": "Ai Yazawa"}
+{"id": 957, "name": "Anna Todd"}
+{"id": 958, "name": "Roland Smith"}
+{"id": 959, "name": "Stephen Hawking"}
+{"id": 960, "name": "Robert Galbraith"}
+{"id": 961, "name": "Sue Grafton"}
+{"id": 962, "name": "Bruce H. Wilkinson"}
+{"id": 963, "name": "Avery Monsen"}
+{"id": 964, "name": "Maria V. Snyder"}
+{"id": 965, "name": "Jon Krakauer"}
+{"id": 966, "name": "Diane Arbus"}
+{"id": 967, "name": "Jessica Livingston"}
+{"id": 968, "name": "Felicia Day"}
+{"id": 969, "name": "Tom Stoppard"}
+{"id": 970, "name": "Esphyr Slobodkina"}
+{"id": 971, "name": "Thucydides"}
+{"id": 972, "name": "T.C. Boyle"}
+{"id": 973, "name": "Ariana Franklin"}
+{"id": 974, "name": "Kelley Armstrong"}
+{"id": 975, "name": "Richard Bachman"}
+{"id": 976, "name": "W. Somerset Maugham"}
+{"id": 977, "name": "Neil Postman"}
+{"id": 978, "name": "Diane Mott Davidson"}
+{"id": 979, "name": "William Landay"}
+{"id": 980, "name": "Karen Harper"}
+{"id": 981, "name": "Helen Keller"}
+{"id": 982, "name": "Tachibana Higuchi"}
+{"id": 983, "name": "Katy Evans"}
+{"id": 984, "name": "John Gribbin"}
+{"id": 985, "name": "Tony Kushner"}
+{"id": 986, "name": "Alexandra Potter"}
+{"id": 987, "name": "Lewis Carroll"}
+{"id": 988, "name": "Malcolm Lowry"}
+{"id": 989, "name": "Nicholas Sparks"}
+{"id": 990, "name": "Jill Murphy"}
+{"id": 991, "name": "Alison Croggon"}
+{"id": 992, "name": "Ridley Pearson"}
+{"id": 993, "name": "Nancy Thayer"}
+{"id": 994, "name": "S.J. Watson"}
+{"id": 995, "name": "Nora Ephron"}
+{"id": 996, "name": "Henning Mankell"}
+{"id": 997, "name": "Charles Stross"}
+{"id": 998, "name": "Lauren Conrad"}
+{"id": 999, "name": "Jinsei Kataoka"}
+{"id": 1000, "name": "Robert A. Heinlein"}
+{"id": 1001, "name": "Sharon Guskin"}
+{"id": 1002, "name": "Julia Glass"}
+{"id": 1003, "name": "Jean Sasson"}
+{"id": 1004, "name": "Nikos Kazantzakis"}
+{"id": 1005, "name": "Karen Russell"}
+{"id": 1006, "name": "Anita Diamant"}
+{"id": 1007, "name": "Jeaniene Frost"}
+{"id": 1008, "name": "Lisa Kleypas"}
+{"id": 1009, "name": "Amor Towles"}
+{"id": 1010, "name": "Keary Taylor"}
+{"id": 1011, "name": "Tad Williams"}
+{"id": 1012, "name": "Erik Larson"}
+{"id": 1013, "name": "Michael Bond"}
+{"id": 1014, "name": "Sylvain Reynard"}
+{"id": 1015, "name": "Rebecca Wells"}
+{"id": 1016, "name": "Saroo Brierley"}
+{"id": 1017, "name": "Tedd Arnold"}
+{"id": 1018, "name": "Ernesto Che Guevara"}
+{"id": 1019, "name": "Marian Potter"}
+{"id": 1020, "name": "Elizabeth George"}
+{"id": 1021, "name": "Charles Portis"}
+{"id": 1022, "name": "Ian Edginton"}
+{"id": 1023, "name": "Natasha Preston"}
+{"id": 1024, "name": "Jane Werner Watson"}
+{"id": 1025, "name": "Richard K. Morgan"}
+{"id": 1026, "name": "Billy Collins"}
+{"id": 1027, "name": "Richard Paul Evans"}
+{"id": 1028, "name": "Jami Attenberg"}
+{"id": 1029, "name": "Don Freeman"}
+{"id": 1030, "name": "Jeff Kinney"}
+{"id": 1031, "name": "Eileen Christelow"}
+{"id": 1032, "name": "\u062d\u0633\u0646 \u0627\u0644\u062c\u0646\u062f\u064a"}
+{"id": 1033, "name": "Alan Bennett"}
+{"id": 1034, "name": "Georgette Heyer"}
+{"id": 1035, "name": "Rob Buyea"}
+{"id": 1036, "name": "Larry Bossidy"}
+{"id": 1037, "name": "Louise Doughty"}
+{"id": 1038, "name": "Donna Tartt"}
+{"id": 1039, "name": "William Makepeace Thackeray"}
+{"id": 1040, "name": "Kevin D. Mitnick"}
+{"id": 1041, "name": "Immacul\u00e9e Ilibagiza"}
+{"id": 1042, "name": "Brigid Kemmerer"}
+{"id": 1043, "name": "James Agee"}
+{"id": 1044, "name": "James D. Bradley"}
+{"id": 1045, "name": "Kohta Hirano"}
+{"id": 1046, "name": "Patrick S\u00fcskind"}
+{"id": 1047, "name": "Rob Thomas"}
+{"id": 1048, "name": "Rebecca Solnit"}
+{"id": 1049, "name": "Cormac McCarthy"}
+{"id": 1050, "name": "Jamie Delano"}
+{"id": 1051, "name": "Matthew Reilly"}
+{"id": 1052, "name": "Enid Blyton"}
+{"id": 1053, "name": "Alexander McCall Smith"}
+{"id": 1054, "name": "Ann Aguirre"}
+{"id": 1055, "name": "Jack Higgins"}
+{"id": 1056, "name": "Sherman Alexie"}
+{"id": 1057, "name": "Frederick Franck"}
+{"id": 1058, "name": "Augustine of Hippo"}
+{"id": 1059, "name": "Brad Meltzer"}
+{"id": 1060, "name": "Claudia Rankine"}
+{"id": 1061, "name": "Gail Carson Levine"}
+{"id": 1062, "name": "John Wyndham"}
+{"id": 1063, "name": "Graham Greene"}
+{"id": 1064, "name": "Alice Sebold"}
+{"id": 1065, "name": "Danielle Steel"}
+{"id": 1066, "name": "Danielle L. Jensen"}
+{"id": 1067, "name": "Jalaluddin Rumi"}
+{"id": 1068, "name": "Sid Fleischman"}
+{"id": 1069, "name": "Khaled Hosseini"}
+{"id": 1070, "name": "Harriet Jacobs"}
+{"id": 1071, "name": "David D. Burns"}
+{"id": 1072, "name": "Jill Conner Browne"}
+{"id": 1073, "name": "Thomas Tryon"}
+{"id": 1074, "name": "Wilson Rawls"}
+{"id": 1075, "name": "Brian Selznick"}
+{"id": 1076, "name": "Jen Hatmaker"}
+{"id": 1077, "name": "Arlene Mosel"}
+{"id": 1078, "name": "Michael A. Stackpole"}
+{"id": 1079, "name": "Lindsey Kelk"}
+{"id": 1080, "name": "Cath Crowley"}
+{"id": 1081, "name": "Lisa Scottoline"}
+{"id": 1082, "name": "Mhairi McFarlane"}
+{"id": 1083, "name": "Robert M. Pirsig"}
+{"id": 1084, "name": "Banana Yoshimoto"}
+{"id": 1085, "name": "Marie Kond\u014d"}
+{"id": 1086, "name": "O. Henry"}
+{"id": 1087, "name": "Roger Lowenstein"}
+{"id": 1088, "name": "V.E. Schwab"}
+{"id": 1089, "name": "Thomas Pynchon"}
+{"id": 1090, "name": "Hugh Ambrose"}
+{"id": 1091, "name": "Assata Shakur"}
+{"id": 1092, "name": "Sarah Prineas"}
+{"id": 1093, "name": "Deanna Raybourn"}
+{"id": 1094, "name": "Rita Williams-Garcia"}
+{"id": 1095, "name": "A.S. Byatt"}
+{"id": 1096, "name": "Nancy Farmer"}
+{"id": 1097, "name": "Jack Weatherford"}
+{"id": 1098, "name": "Laura Wiess"}
+{"id": 1099, "name": "Hillary Rodham Clinton"}
+{"id": 1100, "name": "Sarah Turnbull"}
+{"id": 1101, "name": "Nassim Nicholas Taleb"}
+{"id": 1102, "name": "Dee Lestari"}
+{"id": 1103, "name": "Thomas S. Kuhn"}
+{"id": 1104, "name": "Katharine Graham"}
+{"id": 1105, "name": "William Least Heat-Moon"}
+{"id": 1106, "name": "H.P. Lovecraft"}
+{"id": 1107, "name": "Ron Hall"}
+{"id": 1108, "name": "Breena Clarke"}
+{"id": 1109, "name": "Peter Straub"}
+{"id": 1110, "name": "Hannah Hurnard"}
+{"id": 1111, "name": "Sara Ryan"}
+{"id": 1112, "name": "Kathryn Lasky"}
+{"id": 1113, "name": "Elizabeth Strout"}
+{"id": 1114, "name": "Irving Stone"}
+{"id": 1115, "name": "David Wilkerson"}
+{"id": 1116, "name": "Amy Tan"}
+{"id": 1117, "name": "Diana Wynne Jones"}
+{"id": 1118, "name": "Marv Wolfman"}
+{"id": 1119, "name": "Twyla Tharp"}
+{"id": 1120, "name": "Karl Marlantes"}
+{"id": 1121, "name": "Joel Osteen"}
+{"id": 1122, "name": "Henri J.M. Nouwen"}
+{"id": 1123, "name": "Susane Colasanti"}
+{"id": 1124, "name": "Beryl Markham"}
+{"id": 1125, "name": "Graham Swift"}
+{"id": 1126, "name": "Alex  Ross"}
+{"id": 1127, "name": "Daniel Glattauer"}
+{"id": 1128, "name": "Rolf Potts"}
+{"id": 1129, "name": "John Lawrence Peterson"}
+{"id": 1130, "name": "\u0623\u062d\u0644\u0627\u0645 \u0645\u0633\u062a\u063a\u0627\u0646\u0645\u064a"}
+{"id": 1131, "name": "Ayana Mathis"}
+{"id": 1132, "name": "Emily Seife"}
+{"id": 1133, "name": "John             Lewis"}
+{"id": 1134, "name": "Alfred Lansing"}
+{"id": 1135, "name": "Graeme Base"}
+{"id": 1136, "name": "Jill Bolte Taylor"}
+{"id": 1137, "name": "David Bayles"}
+{"id": 1138, "name": "Blake Crouch"}
+{"id": 1139, "name": "Brian Greene"}
+{"id": 1140, "name": "Laurie Fabiano"}
+{"id": 1141, "name": "Rick Yancey"}
+{"id": 1142, "name": "Christopher Paolini"}
+{"id": 1143, "name": "Sandra Cisneros"}
+{"id": 1144, "name": "John Berendt"}
+{"id": 1145, "name": "Paul Theroux"}
+{"id": 1146, "name": "Marti Olsen Laney"}
+{"id": 1147, "name": "Thich Nhat Hanh"}
+{"id": 1148, "name": "Jung Chang"}
+{"id": 1149, "name": "C.S. Pacat"}
+{"id": 1150, "name": "Marina Keegan"}
+{"id": 1151, "name": "Patricia Highsmith"}
+{"id": 1152, "name": "Mikhail Lermontov"}
+{"id": 1153, "name": "The Church of Jesus Christ of Latter-day Saints"}
+{"id": 1154, "name": "J. Lynn"}
+{"id": 1155, "name": "Pittacus Lore"}
+{"id": 1156, "name": "Kathleen E. Woodiwiss"}
+{"id": 1157, "name": "Douglas Coupland"}
+{"id": 1158, "name": "Amelia Atwater-Rhodes"}
+{"id": 1159, "name": "Gilles N\u00e9ret"}
+{"id": 1160, "name": "David Weber"}
+{"id": 1161, "name": "Si Robertson"}
+{"id": 1162, "name": "Kate Chopin"}
+{"id": 1163, "name": "Dee Henderson"}
+{"id": 1164, "name": "Yangsze Choo"}
+{"id": 1165, "name": "Elisabeth Elliot"}
+{"id": 1166, "name": "Iris Johansen"}
+{"id": 1167, "name": "Helen Simonson"}
+{"id": 1168, "name": "Sean Covey"}
+{"id": 1169, "name": "Cora Reilly"}
+{"id": 1170, "name": "Roy Thomas"}
+{"id": 1171, "name": "Paolo Bacigalupi"}
+{"id": 1172, "name": "Iris Rainer Dart"}
+{"id": 1173, "name": "Eric Metaxas"}
+{"id": 1174, "name": "John Green"}
+{"id": 1175, "name": "Allie Brosh"}
+{"id": 1176, "name": "Joseph Delaney"}
+{"id": 1177, "name": "Martin Cruz Smith"}
+{"id": 1178, "name": "Shirley Jackson"}
+{"id": 1179, "name": "Marilynne Robinson"}
+{"id": 1180, "name": "John Grisham"}
+{"id": 1181, "name": "Anne Enright"}
+{"id": 1182, "name": "Bill O'Reilly"}
+{"id": 1183, "name": "Piper Kerman"}
+{"id": 1184, "name": "Marilyn Manson"}
+{"id": 1185, "name": "Amanda Brown"}
+{"id": 1186, "name": "Emma Healey"}
+{"id": 1187, "name": "Jude Deveraux"}
+{"id": 1188, "name": "Rachel Hauck"}
+{"id": 1189, "name": "Gary Keller"}
+{"id": 1190, "name": "Ann Hood"}
+{"id": 1191, "name": "Jon Lee Anderson"}
+{"id": 1192, "name": "Ulrich Bischoff"}
+{"id": 1193, "name": "Stephen R. Donaldson"}
+{"id": 1194, "name": "George Carlin"}
+{"id": 1195, "name": "Maxine Hong Kingston"}
+{"id": 1196, "name": "Portia de Rossi"}
+{"id": 1197, "name": "Richard Castle"}
+{"id": 1198, "name": "Margery Williams Bianco"}
+{"id": 1199, "name": "Robert Muchamore"}
+{"id": 1200, "name": "Pamela Druckerman"}
+{"id": 1201, "name": "David Platt"}
+{"id": 1202, "name": "Colleen Oakley"}
+{"id": 1203, "name": "Robertson Davies"}
+{"id": 1204, "name": "Thomas Paine"}
+{"id": 1205, "name": "Joy Adamson"}
+{"id": 1206, "name": "Laura Lippman"}
+{"id": 1207, "name": "C.J. Box"}
+{"id": 1208, "name": "Edmund de Waal"}
+{"id": 1209, "name": "Ian McEwan"}
+{"id": 1210, "name": "Francisco X. Stork"}
+{"id": 1211, "name": "Augusten Burroughs"}
+{"id": 1212, "name": "Anthony Robbins"}
+{"id": 1213, "name": "Peter  Swanson"}
+{"id": 1214, "name": "Steven Johnson"}
+{"id": 1215, "name": "Julie Kagawa"}
+{"id": 1216, "name": "Dodie Smith"}
+{"id": 1217, "name": "Raina Telgemeier"}
+{"id": 1218, "name": "Andy Andrews"}
+{"id": 1219, "name": "Evan Wright"}
+{"id": 1220, "name": "Yukiru Sugisaki"}
+{"id": 1221, "name": "Greg McKeown"}
+{"id": 1222, "name": "Katrina Kittle"}
+{"id": 1223, "name": "Chris d'Lacey"}
+{"id": 1224, "name": "Joseph Murphy"}
+{"id": 1225, "name": "Nick Cutter"}
+{"id": 1226, "name": "Ina Garten"}
+{"id": 1227, "name": "Nick Cave"}
+{"id": 1228, "name": "Lama Surya Das"}
+{"id": 1229, "name": "Daniel J. Boorstin"}
+{"id": 1230, "name": "Inga Muscio"}
+{"id": 1231, "name": "Jacqueline Sheehan"}
+{"id": 1232, "name": "Sydney Taylor"}
+{"id": 1233, "name": "Tim LaHaye"}
+{"id": 1234, "name": "Dan Millman"}
+{"id": 1235, "name": "Jonathan Haidt"}
+{"id": 1236, "name": "Gayle Forman"}
+{"id": 1237, "name": "Courtney Allison Moulton"}
+{"id": 1238, "name": "Edward Abbey"}
+{"id": 1239, "name": "Oscar Wilde"}
+{"id": 1240, "name": "J. Courtney Sullivan"}
+{"id": 1241, "name": "Ilana Tan"}
+{"id": 1242, "name": "Laura Joffe Numeroff"}
+{"id": 1243, "name": "John Patrick Shanley"}
+{"id": 1244, "name": "John C. Maxwell"}
+{"id": 1245, "name": "Annie Barrows"}
+{"id": 1246, "name": "Cynthia Hand"}
+{"id": 1247, "name": "Elizabeth Eulberg"}
+{"id": 1248, "name": "Madeleine Wickham"}
+{"id": 1249, "name": "Mary Hoffman"}
+{"id": 1250, "name": "Miguel de Cervantes Saavedra"}
+{"id": 1251, "name": "Josephine Tey"}
+{"id": 1252, "name": "Ron Rash"}
+{"id": 1253, "name": "Tom Franklin"}
+{"id": 1254, "name": "Mario Vargas Llosa"}
+{"id": 1255, "name": "Ree Drummond"}
+{"id": 1256, "name": "Dale Brown"}
+{"id": 1257, "name": "Edward Gibbon"}
+{"id": 1258, "name": "Robert T. Kiyosaki"}
+{"id": 1259, "name": "David Benioff"}
+{"id": 1260, "name": "Trinka Hakes Noble"}
+{"id": 1261, "name": "Charles Frazier"}
+{"id": 1262, "name": "Tom Perrotta"}
+{"id": 1263, "name": "Paul Zindel"}
+{"id": 1264, "name": "Alissa Nutting"}
+{"id": 1265, "name": "Judy Blume"}
+{"id": 1266, "name": "Malala Yousafzai"}
+{"id": 1267, "name": "Robert Fulghum"}
+{"id": 1268, "name": "Louise Rennison"}
+{"id": 1269, "name": "Albert Einstein"}
+{"id": 1270, "name": "Henrik Ibsen"}
+{"id": 1271, "name": "Ivan Goncharov"}
+{"id": 1272, "name": "Paul Harding"}
+{"id": 1273, "name": "M.O. Walsh"}
+{"id": 1274, "name": "Maria Semple"}
+{"id": 1275, "name": "Zo\u00eb Heller"}
+{"id": 1276, "name": "Colleen McCullough"}
+{"id": 1277, "name": "Sandra Brown"}
+{"id": 1278, "name": "Tobias Wolff"}
+{"id": 1279, "name": "Erin Morgenstern"}
+{"id": 1280, "name": "Naoki Higashida"}
+{"id": 1281, "name": "Sophie Jordan"}
+{"id": 1282, "name": "Tennessee Williams"}
+{"id": 1283, "name": "Joe Haldeman"}
+{"id": 1284, "name": "Charles Duhigg"}
+{"id": 1285, "name": "Elizabeth Kolbert"}
+{"id": 1286, "name": "Frances Hodgson Burnett"}
+{"id": 1287, "name": "Christiane F."}
+{"id": 1288, "name": "Wendelin Van Draanen"}
+{"id": 1289, "name": "Lisi Harrison"}
+{"id": 1290, "name": "Natalie Goldberg"}
+{"id": 1291, "name": "John Gardner"}
+{"id": 1292, "name": "Sonya Sones"}
+{"id": 1293, "name": "Lauren Willig"}
+{"id": 1294, "name": "Mary Lawson"}
+{"id": 1295, "name": "Jhumpa Lahiri"}
+{"id": 1296, "name": "Robert  Beatty"}
+{"id": 1297, "name": "Thomas J. Stanley"}
+{"id": 1298, "name": "Sheri Reynolds"}
+{"id": 1299, "name": "John Shors"}
+{"id": 1300, "name": "Jennifer Lynn Barnes"}
+{"id": 1301, "name": "J.M. Coetzee"}
+{"id": 1302, "name": "Bob Gale"}
+{"id": 1303, "name": "Scott McCloud"}
+{"id": 1304, "name": "Scott Anderson"}
+{"id": 1305, "name": "Annie Dillard"}
+{"id": 1306, "name": "James McBride"}
+{"id": 1307, "name": "Michio Kaku"}
+{"id": 1308, "name": "Esther Hicks"}
+{"id": 1309, "name": "R.C. Sproul"}
+{"id": 1310, "name": "Heidi W. Durrow"}
+{"id": 1311, "name": "Adam Gopnik"}
+{"id": 1312, "name": "Kass Morgan"}
+{"id": 1313, "name": "Wilkie Collins"}
+{"id": 1314, "name": "Clayton M. Christensen"}
+{"id": 1315, "name": "Laurie Faria Stolarz"}
+{"id": 1316, "name": "Adam Hochschild"}
+{"id": 1317, "name": "Patrick Carman"}
+{"id": 1318, "name": "Mark Cotta Vaz"}
+{"id": 1319, "name": "Cecily von Ziegesar"}
+{"id": 1320, "name": "Melinda Long"}
+{"id": 1321, "name": "Glenn Greenwald"}
+{"id": 1322, "name": "Alexandra Bracken"}
+{"id": 1323, "name": "Kim Stanley Robinson"}
+{"id": 1324, "name": "Hiro Mashima"}
+{"id": 1325, "name": "Nicholas Ganz"}
+{"id": 1326, "name": "Jacqueline Woodson"}
+{"id": 1327, "name": "Mary Downing Hahn"}
+{"id": 1328, "name": "Ann Voskamp"}
+{"id": 1329, "name": "Clement C. Moore"}
+{"id": 1330, "name": "John Katzenbach"}
+{"id": 1331, "name": "Gregory Maguire"}
+{"id": 1332, "name": "Jan Karon"}
+{"id": 1333, "name": "Paolo Giordano"}
+{"id": 1334, "name": "Elizabeth Gilbert"}
+{"id": 1335, "name": "Elizabeth Ross"}
+{"id": 1336, "name": "Peter Carey"}
+{"id": 1337, "name": "V.S. Naipaul"}
+{"id": 1338, "name": "S.M. Stirling"}
+{"id": 1339, "name": "William  Kennedy"}
+{"id": 1340, "name": "Jenny Downham"}
+{"id": 1341, "name": "Sue Miller"}
+{"id": 1342, "name": "Sarah Vowell"}
+{"id": 1343, "name": "Chetan Bhagat"}
+{"id": 1344, "name": "Angela Johnson"}
+{"id": 1345, "name": "Jennifer E. Smith"}
+{"id": 1346, "name": "David Brin"}
+{"id": 1347, "name": "Philip Yancey"}
+{"id": 1348, "name": "Edward P. Jones"}
+{"id": 1349, "name": "John Hersey"}
+{"id": 1350, "name": "Susan  Wilson"}
+{"id": 1351, "name": "Paramahansa Yogananda"}
+{"id": 1352, "name": "James     Baldwin"}
+{"id": 1353, "name": "Pamela Des Barres"}
+{"id": 1354, "name": "Theodore Sturgeon"}
+{"id": 1355, "name": "Rick Atkinson"}
+{"id": 1356, "name": "Sadegh Hedayat"}
+{"id": 1357, "name": "Kate Atkinson"}
+{"id": 1358, "name": "Pema Ch\u00f6dr\u00f6n"}
+{"id": 1359, "name": "Brian Staveley"}
+{"id": 1360, "name": "Annette Pollert"}
+{"id": 1361, "name": "Sarah Addison Allen"}
+{"id": 1362, "name": "Theodore Dreiser"}
+{"id": 1363, "name": "Geneen Roth"}
+{"id": 1364, "name": "Meg Rosoff"}
+{"id": 1365, "name": "Betty MacDonald"}
+{"id": 1366, "name": "Heather Dixon"}
+{"id": 1367, "name": "Herv\u00e9 Tullet"}
+{"id": 1368, "name": "Barry Schwartz"}
+{"id": 1369, "name": "William C. Dietz"}
+{"id": 1370, "name": "Cate Tiernan"}
+{"id": 1371, "name": "Joshilyn Jackson"}
+{"id": 1372, "name": "Alex Kava"}
+{"id": 1373, "name": "Jeffrey Toobin"}
+{"id": 1374, "name": "Nelson Mandela"}
+{"id": 1375, "name": "Mary Doria Russell"}
+{"id": 1376, "name": "Nathaniel Philbrick"}
+{"id": 1377, "name": "Isa Chandra Moskowitz"}
+{"id": 1378, "name": "Jasinda Wilder"}
+{"id": 1379, "name": "Dalai Lama XIV"}
+{"id": 1380, "name": "James Frey"}
+{"id": 1381, "name": "Jay Anson"}
+{"id": 1382, "name": "E.M. Forster"}
+{"id": 1383, "name": "C.J. Sansom"}
+{"id": 1384, "name": "Ravinder Singh"}
+{"id": 1385, "name": "Amy Harmon"}
+{"id": 1386, "name": "Jeannette Walls"}
+{"id": 1387, "name": "Bob Grant"}
+{"id": 1388, "name": "Benedict Freedman"}
+{"id": 1389, "name": "Michael J. Fox"}
+{"id": 1390, "name": "Ford Madox Ford"}
+{"id": 1391, "name": "George R. Stewart"}
+{"id": 1392, "name": "Joan Bauer"}
+{"id": 1393, "name": "Sarah Lotz"}
+{"id": 1394, "name": "Christopher Paul Curtis"}
+{"id": 1395, "name": "Mikl\u00f3s Nyiszli"}
+{"id": 1396, "name": "Truman Capote"}
+{"id": 1397, "name": "Robin Hobb"}
+{"id": 1398, "name": "Stephen M.R. Covey"}
+{"id": 1399, "name": "Sharon Kay Penman"}
+{"id": 1400, "name": "Rumiko Takahashi"}
+{"id": 1401, "name": "Dalton Trumbo"}
+{"id": 1402, "name": "Anton DiSclafani"}
+{"id": 1403, "name": "Reginald Rose"}
+{"id": 1404, "name": "Giulia Enders"}
+{"id": 1405, "name": "L.A. Meyer"}
+{"id": 1406, "name": "R.D. Blackmore"}
+{"id": 1407, "name": "Alan Bradley"}
+{"id": 1408, "name": "Crissy Calhoun"}
+{"id": 1409, "name": "Shoichi Aoki"}
+{"id": 1410, "name": "Gerald N. Lund"}
+{"id": 1411, "name": "Henry Hazlitt"}
+{"id": 1412, "name": "Scott Turow"}
+{"id": 1413, "name": "Courtney Maum"}
+{"id": 1414, "name": "Miles  Cameron"}
+{"id": 1415, "name": "Adam Mansbach"}
+{"id": 1416, "name": "Stephen Clarke"}
+{"id": 1417, "name": "Larissa Ione"}
+{"id": 1418, "name": "Kristan Higgins"}
+{"id": 1419, "name": "Mindy Kaling"}
+{"id": 1420, "name": "Megan McDonald"}
+{"id": 1421, "name": "Frances Mayes"}
+{"id": 1422, "name": "Norman Bridwell"}
+{"id": 1423, "name": "Leslie Feinberg"}
+{"id": 1424, "name": "Greg Rucka"}
+{"id": 1425, "name": "Anne Frank"}
+{"id": 1426, "name": "Brodi Ashton"}
+{"id": 1427, "name": "Charlotte Perkins Gilman"}
+{"id": 1428, "name": "Eric Knight"}
+{"id": 1429, "name": "George Bernard Shaw"}
+{"id": 1430, "name": "Voltaire"}
+{"id": 1431, "name": "Natsuki Takaya"}
+{"id": 1432, "name": "Sarah J. Maas"}
+{"id": 1433, "name": "Caroline Kepnes"}
+{"id": 1434, "name": "Richard Matheson"}
+{"id": 1435, "name": "Tony Hawks"}
+{"id": 1436, "name": "Neil Patrick Harris"}
+{"id": 1437, "name": "Kazue Kato"}
+{"id": 1438, "name": "Jon Meacham"}
+{"id": 1439, "name": "Chelsea Fine"}
+{"id": 1440, "name": "Steve Toltz"}
+{"id": 1441, "name": "Michael Dante DiMartino"}
+{"id": 1442, "name": "Mineko Iwasaki"}
+{"id": 1443, "name": "Margaret Edson"}
+{"id": 1444, "name": "Elizabeth Gaskell"}
+{"id": 1445, "name": "Marjorie Kinnan Rawlings"}
+{"id": 1446, "name": "Mark Bittman"}
+{"id": 1447, "name": "Teddy Slater"}
+{"id": 1448, "name": "Barbara Park"}
+{"id": 1449, "name": "Alice  Miller"}
+{"id": 1450, "name": "Michael Dorris"}
+{"id": 1451, "name": "Karl Ove Knausg\u00e5rd"}
+{"id": 1452, "name": "Sharon G. Flake"}
+{"id": 1453, "name": "Jenny McCarthy"}
+{"id": 1454, "name": "Josh Malerman"}
+{"id": 1455, "name": "Adeline Yen Mah"}
+{"id": 1456, "name": "Stephen Colbert"}
+{"id": 1457, "name": "Myla Goldberg"}
+{"id": 1458, "name": "Frank Beddor"}
+{"id": 1459, "name": "Lalita Tademy"}
+{"id": 1460, "name": "Jean-Jacques Rousseau"}
+{"id": 1461, "name": "Lesley Livingston"}
+{"id": 1462, "name": "Devdutt Pattanaik"}
+{"id": 1463, "name": "Byron Katie"}
+{"id": 1464, "name": "Dorie Greenspan"}
+{"id": 1465, "name": "D.J. MacHale"}
+{"id": 1466, "name": "Shaun Tan"}
+{"id": 1467, "name": "Martin Waddell"}
+{"id": 1468, "name": "Andrew Clements"}
+{"id": 1469, "name": "Heinrich B\u00f6ll"}
+{"id": 1470, "name": "Lauren DeStefano"}
+{"id": 1471, "name": "Wayne W. Dyer"}
+{"id": 1472, "name": "Dorothy L. Sayers"}
+{"id": 1473, "name": "Kent Haruf"}
+{"id": 1474, "name": "Lorrie Moore"}
+{"id": 1475, "name": "Edward Bloor"}
+{"id": 1476, "name": "Sheila Burnford"}
+{"id": 1477, "name": "Chelsea Handler"}
+{"id": 1478, "name": "B.A. Shapiro"}
+{"id": 1479, "name": "Thomas Hardy"}
+{"id": 1480, "name": "Crockett Johnson"}
+{"id": 1481, "name": "Amish Tripathi"}
+{"id": 1482, "name": "Lynne Reid Banks"}
+{"id": 1483, "name": "Robert Frost"}
+{"id": 1484, "name": "T. Colin Campbell"}
+{"id": 1485, "name": "Caleb Carr"}
+{"id": 1486, "name": "Terry Ryan"}
+{"id": 1487, "name": "Chevy Stevens"}
+{"id": 1488, "name": "Lisa Genova"}
+{"id": 1489, "name": "Max Brooks"}
+{"id": 1490, "name": "Tahereh Mafi"}
+{"id": 1491, "name": "Katherine Howe"}
+{"id": 1492, "name": "Jack Welch"}
+{"id": 1493, "name": "Austin Kleon"}
+{"id": 1494, "name": "John Berger"}
+{"id": 1495, "name": "James Gleick"}
+{"id": 1496, "name": "Dan Ariely"}
+{"id": 1497, "name": "Roger Lea MacBride"}
+{"id": 1498, "name": "C.C. Hunter"}
+{"id": 1499, "name": "Shawn Achor"}
+{"id": 1500, "name": "Susan Vreeland"}
+{"id": 1501, "name": "Zig Ziglar"}
+{"id": 1502, "name": "Vincent van Gogh"}
+{"id": 1503, "name": "M\u00e9lanie Watt"}
+{"id": 1504, "name": "J.B. Salsbury"}
+{"id": 1505, "name": "Chris Claremont"}
+{"id": 1506, "name": "Mary Karr"}
+{"id": 1507, "name": "Ludwig Wittgenstein"}
+{"id": 1508, "name": "Julie Garwood"}
+{"id": 1509, "name": "Jenny Offill"}
+{"id": 1510, "name": "Walter Isaacson"}
+{"id": 1511, "name": "Tracy Chevalier"}
+{"id": 1512, "name": "Raymond Carver"}
+{"id": 1513, "name": "Kevin    Wilson"}
+{"id": 1514, "name": "Robert Kurson"}
+{"id": 1515, "name": "Shaunti Feldhahn"}
+{"id": 1516, "name": "Colleen Hoover"}
+{"id": 1517, "name": "Tetsuko Kuroyanagi"}
+{"id": 1518, "name": "Alistair MacLean"}
+{"id": 1519, "name": "Anya Seton"}
+{"id": 1520, "name": "Mario Puzo"}
+{"id": 1521, "name": "Catherine Bybee"}
+{"id": 1522, "name": "Josh Kaufman"}
+{"id": 1523, "name": "Malorie Blackman"}
+{"id": 1524, "name": "Julie Anne Peters"}
+{"id": 1525, "name": "Henry Cloud"}
+{"id": 1526, "name": "Kingsley Amis"}
+{"id": 1527, "name": "Gaston Leroux"}
+{"id": 1528, "name": "Jane Hamilton"}
+{"id": 1529, "name": "Danielle  Paige"}
+{"id": 1530, "name": "Adrian Nicole LeBlanc"}
+{"id": 1531, "name": "Thanhha Lai"}
+{"id": 1532, "name": "Noel Streatfeild"}
+{"id": 1533, "name": "Robert Coles"}
+{"id": 1534, "name": "Kathryn Stockett"}
+{"id": 1535, "name": "Elizabeth Kostova"}
+{"id": 1536, "name": "Mark Mathabane"}
+{"id": 1537, "name": "Tonya Hurley"}
+{"id": 1538, "name": "John D. Rateliff"}
+{"id": 1539, "name": "A.J. Jacobs"}
+{"id": 1540, "name": "Kiersten White"}
+{"id": 1541, "name": "Jeffery Hudson"}
+{"id": 1542, "name": "Barbara Kingsolver"}
+{"id": 1543, "name": "Sarah Weeks"}
+{"id": 1544, "name": "Lynley Dodd"}
+{"id": 1545, "name": "Brad Stone"}
+{"id": 1546, "name": "Michael Azerrad"}
+{"id": 1547, "name": "Courtney Cole"}
+{"id": 1548, "name": "Jessica Shirvington"}
+{"id": 1549, "name": "Sloane Crosley"}
+{"id": 1550, "name": "Gennifer Albin"}
+{"id": 1551, "name": "Doug Moench"}
+{"id": 1552, "name": "Elle Kennedy"}
+{"id": 1553, "name": "Walt Disney Company"}
+{"id": 1554, "name": "John L. Parker Jr."}
+{"id": 1555, "name": "Kenneth H. Blanchard"}
+{"id": 1556, "name": "Tina Reber"}
+{"id": 1557, "name": "Martha Stewart"}
+{"id": 1558, "name": "Jean Ferris"}
+{"id": 1559, "name": "David Gemmell"}
+{"id": 1560, "name": "Marjane Satrapi"}
+{"id": 1561, "name": "Kentaro Yabuki"}
+{"id": 1562, "name": "Sarah Dunant"}
+{"id": 1563, "name": "E.B. White"}
+{"id": 1564, "name": "Donna Leon"}
+{"id": 1565, "name": "Mildred D. Taylor"}
+{"id": 1566, "name": "Alice LaPlante"}
+{"id": 1567, "name": "Plum Sykes"}
+{"id": 1568, "name": "Benjamin Hoff"}
+{"id": 1569, "name": "Julia Child"}
+{"id": 1570, "name": "Ellen Levine"}
+{"id": 1571, "name": "Yana Toboso"}
+{"id": 1572, "name": "Arundhati Roy"}
+{"id": 1573, "name": "Edward Said"}
+{"id": 1574, "name": "Jeff VanderMeer"}
+{"id": 1575, "name": "Karl Marx"}
+{"id": 1576, "name": "Ana\u00efs Nin"}
+{"id": 1577, "name": "Bernadette Rossetti-Shustak"}
+{"id": 1578, "name": "Tom Holland"}
+{"id": 1579, "name": "Jack Campbell"}
+{"id": 1580, "name": "Maud Hart Lovelace"}
+{"id": 1581, "name": "John Gray"}
+{"id": 1582, "name": "Viet Thanh Nguyen"}
+{"id": 1583, "name": "Armistead Maupin"}
+{"id": 1584, "name": "Cristina Henriquez"}
+{"id": 1585, "name": "Robert Charles Wilson"}
+{"id": 1586, "name": "Carl Bernstein"}
+{"id": 1587, "name": "Steven Galloway"}
+{"id": 1588, "name": "Black Elk"}
+{"id": 1589, "name": "Iris Chang"}
+{"id": 1590, "name": "James Redfield"}
+{"id": 1591, "name": "Mike Mullin"}
+{"id": 1592, "name": "Jacqueline Winspear"}
+{"id": 1593, "name": "Brian Kilmeade"}
+{"id": 1594, "name": "James Allen"}
+{"id": 1595, "name": "Erika Johansen"}
+{"id": 1596, "name": "Derf Backderf"}
+{"id": 1597, "name": "Martha Grimes"}
+{"id": 1598, "name": "R.K. Narayan"}
+{"id": 1599, "name": "Jacqueline Kelly"}
+{"id": 1600, "name": "Linda Castillo"}
+{"id": 1601, "name": "Alexander Osterwalder"}
+{"id": 1602, "name": "Marie Lu"}
+{"id": 1603, "name": "Ryan Holiday"}
+{"id": 1604, "name": "Sara Gruen"}
+{"id": 1605, "name": "Joelle Charbonneau"}
+{"id": 1606, "name": "Pascal Mercier"}
+{"id": 1607, "name": "Austin Grossman"}
+{"id": 1608, "name": "James Ellroy"}
+{"id": 1609, "name": "Leigh Nichols"}
+{"id": 1610, "name": "Shelly Crane"}
+{"id": 1611, "name": "Annette Curtis Klause"}
+{"id": 1612, "name": "Keith Ferrazzi"}
+{"id": 1613, "name": "Alisa Kwitney"}
+{"id": 1614, "name": "Plato"}
+{"id": 1615, "name": "Liane Moriarty"}
+{"id": 1616, "name": "Lisa Jewell"}
+{"id": 1617, "name": "Donald Crews"}
+{"id": 1618, "name": "K.A. Tucker"}
+{"id": 1619, "name": "Melody Beattie"}
+{"id": 1620, "name": "Kaye Gibbons"}
+{"id": 1621, "name": "Kiyoko Arai"}
+{"id": 1622, "name": "Thomas Merton"}
+{"id": 1623, "name": "Paullina Simons"}
+{"id": 1624, "name": "Ntozake Shange"}
+{"id": 1625, "name": "Justin Torres"}
+{"id": 1626, "name": "Pramoedya Ananta Toer"}
+{"id": 1627, "name": "J. Kenner"}
+{"id": 1628, "name": "Richard Ford"}
+{"id": 1629, "name": "Samuel Taylor Coleridge"}
+{"id": 1630, "name": "Christopher Buckley"}
+{"id": 1631, "name": "Mollie Katzen"}
+{"id": 1632, "name": "Roberto Aguirre-Sacasa"}
+{"id": 1633, "name": "Patricia Gaffney"}
+{"id": 1634, "name": "Watty Piper"}
+{"id": 1635, "name": "Emma Donoghue"}
+{"id": 1636, "name": "Marguerite Henry"}
+{"id": 1637, "name": "James Herriot"}
+{"id": 1638, "name": "Greg Mortenson"}
+{"id": 1639, "name": "Gabrielle Zevin"}
+{"id": 1640, "name": "Jeanne Birdsall"}
+{"id": 1641, "name": "P.D. James"}
+{"id": 1642, "name": "Ian Doescher"}
+{"id": 1643, "name": "Laura Hillenbrand"}
+{"id": 1644, "name": "Matt Fraction"}
+{"id": 1645, "name": "Jim Kjelgaard"}
+{"id": 1646, "name": "Richard J. Foster"}
+{"id": 1647, "name": "Zilpha Keatley Snyder"}
+{"id": 1648, "name": "Joe Sacco"}
+{"id": 1649, "name": "Larry McMurtry"}
+{"id": 1650, "name": "Greg Pak"}
+{"id": 1651, "name": "Sigmund Freud"}
+{"id": 1652, "name": "Peggy Rathmann"}
+{"id": 1653, "name": "Melanie Gideon"}
+{"id": 1654, "name": "Anthony  Ryan"}
+{"id": 1655, "name": "Joanna Wylde"}
+{"id": 1656, "name": "Steven Levy"}
+{"id": 1657, "name": "Maya Angelou"}
+{"id": 1658, "name": "Glen Cook"}
+{"id": 1659, "name": "Peggy Orenstein"}
+{"id": 1660, "name": "Chris Hadfield"}
+{"id": 1661, "name": "Ivan Doig"}
+{"id": 1662, "name": "Nando Parrado"}
+{"id": 1663, "name": "Jeanne DuPrau"}
+{"id": 1664, "name": "Gene Wolfe"}
+{"id": 1665, "name": "Julie Maroh"}
+{"id": 1666, "name": "Adelle Waldman"}
+{"id": 1667, "name": "Elizabeth Winthrop"}
+{"id": 1668, "name": "Jos\u00e9 Maria de E\u00e7a de Queir\u00f3s"}
+{"id": 1669, "name": "Arthur Koestler"}
+{"id": 1670, "name": "Amy Waldman"}
+{"id": 1671, "name": "Morton Rhue"}
+{"id": 1672, "name": "E.L. Konigsburg"}
+{"id": 1673, "name": "James Herbert"}
+{"id": 1674, "name": "Diane Ackerman"}
+{"id": 1675, "name": "Susan Ee"}
+{"id": 1676, "name": "R.S. Grey"}
+{"id": 1677, "name": "\u0628\u0647\u0627\u0621 \u0637\u0627\u0647\u0631"}
+{"id": 1678, "name": "Jeff Lindsay"}
+{"id": 1679, "name": "\u0623\u062d\u0645\u062f \u0645\u0631\u0627\u062f"}
+{"id": 1680, "name": "Brit Bennett"}
+{"id": 1681, "name": "Better Homes and Gardens"}
+{"id": 1682, "name": "Irvine Welsh"}
+{"id": 1683, "name": "William Faulkner"}
+{"id": 1684, "name": "Dorothy Allison"}
+{"id": 1685, "name": "Helena Hunting"}
+{"id": 1686, "name": "Robert A. Caro"}
+{"id": 1687, "name": "Angela Carter"}
+{"id": 1688, "name": "Charlie Lovett"}
+{"id": 1689, "name": "Hannah Harrington"}
+{"id": 1690, "name": "Julie Hockley"}
+{"id": 1691, "name": "Herman Wouk"}
+{"id": 1692, "name": "Todd J. McCaffrey"}
+{"id": 1693, "name": "Sally Fallon Morell"}
+{"id": 1694, "name": "Sarah Palin"}
+{"id": 1695, "name": "Ben Macintyre"}
+{"id": 1696, "name": "Carrie Jones"}
+{"id": 1697, "name": "W\u0142adys\u0142aw Szpilman"}
+{"id": 1698, "name": "Rosamund Hodge"}
+{"id": 1699, "name": "Jonathan Harr"}
+{"id": 1700, "name": "Johanna Lindsey"}
+{"id": 1701, "name": "Donald Miller"}
+{"id": 1702, "name": "Tyler Hamilton"}
+{"id": 1703, "name": "Madeleine L'Engle"}
+{"id": 1704, "name": "Ernesto Sabato"}
+{"id": 1705, "name": "Alex Kotlowitz"}
+{"id": 1706, "name": "Marcus Luttrell"}
+{"id": 1707, "name": "Ezra Jack Keats"}
+{"id": 1708, "name": "Melinda Haynes"}
+{"id": 1709, "name": "Miguel Ruiz"}
+{"id": 1710, "name": "W. Bruce Cameron"}
+{"id": 1711, "name": "Edmond Rostand"}
+{"id": 1712, "name": "Caitlin Moran"}
+{"id": 1713, "name": "Claudia Gray"}
+{"id": 1714, "name": "Chris Anderson"}
+{"id": 1715, "name": "W.B. Yeats"}
+{"id": 1716, "name": "Susan Cooper"}
+{"id": 1717, "name": "Paul Tremblay"}
+{"id": 1718, "name": "Hanya Yanagihara"}
+{"id": 1719, "name": "Margot Lee Shetterly"}
+{"id": 1720, "name": "Lisa Lutz"}
+{"id": 1721, "name": "John Joseph Adams"}
+{"id": 1722, "name": "Timur Vermes"}
+{"id": 1723, "name": "Beatrice Sparks"}
+{"id": 1724, "name": "Aleksandr Solzhenitsyn"}
+{"id": 1725, "name": "Stephen Coonts"}
+{"id": 1726, "name": "William Blake"}
+{"id": 1727, "name": "Laini Taylor"}
+{"id": 1728, "name": "Andrew Solomon"}
+{"id": 1729, "name": "Erich Segal"}
+{"id": 1730, "name": "Kanoko Sakurakouji"}
+{"id": 1731, "name": "Kim Carpenter"}
+{"id": 1732, "name": "Aleksandr Griboyedov"}
+{"id": 1733, "name": "Julianne Donaldson"}
+{"id": 1734, "name": "Philip Jos\u00e9 Farmer"}
+{"id": 1735, "name": "Christina Lauren"}
+{"id": 1736, "name": "Kahlil Gibran"}
+{"id": 1737, "name": "Alexandra Adornetto"}
+{"id": 1738, "name": "Julie Orringer"}
+{"id": 1739, "name": "Rainer Metzger"}
+{"id": 1740, "name": "Shilpi Somaya Gowda"}
+{"id": 1741, "name": "Rachel Cohn"}
+{"id": 1742, "name": "Vicki Myron"}
+{"id": 1743, "name": "Jana Oliver"}
+{"id": 1744, "name": "Genevieve Cogman"}
+{"id": 1745, "name": "Thomas Malory"}
+{"id": 1746, "name": "Julia Claiborne Johnson"}
+{"id": 1747, "name": "J. Sheridan Le Fanu"}
+{"id": 1748, "name": "Daniel Suarez"}
+{"id": 1749, "name": "G. Willow Wilson"}
+{"id": 1750, "name": "Mitchell Zuckoff"}
+{"id": 1751, "name": "Ian Rankin"}
+{"id": 1752, "name": "Sam Kean"}
+{"id": 1753, "name": "J.R. Moehringer"}
+{"id": 1754, "name": "Bob Spitz"}
+{"id": 1755, "name": "Daisy Goodwin"}
+{"id": 1756, "name": "Babe Walker"}
+{"id": 1757, "name": "Carrie Brownstein"}
+{"id": 1758, "name": "David Shannon"}
+{"id": 1759, "name": "H.M. Ward"}
+{"id": 1760, "name": "Kathleen Grissom"}
+{"id": 1761, "name": "Arnaldur Indri\u00f0ason"}
+{"id": 1762, "name": "Kiyo Fujiwara"}
+{"id": 1763, "name": "Aleatha Romig"}
+{"id": 1764, "name": "Dawn J. Ranck"}
+{"id": 1765, "name": "Robin Oliveira"}
+{"id": 1766, "name": "Baruch Spinoza"}
+{"id": 1767, "name": "Amanda Berry"}
+{"id": 1768, "name": "Chris Kyle"}
+{"id": 1769, "name": "Colleen Houck"}
+{"id": 1770, "name": "Kate Andersen Brower"}
+{"id": 1771, "name": "Matthew Dicks"}
+{"id": 1772, "name": "August Wilson"}
+{"id": 1773, "name": "Dorothea Benton Frank"}
+{"id": 1774, "name": "Stephanie Evanovich"}
+{"id": 1775, "name": "Bohumil Hrabal"}
+{"id": 1776, "name": "Jonas Jonasson"}
+{"id": 1777, "name": "Bruce Coville"}
+{"id": 1778, "name": "Robert Greene"}
+{"id": 1779, "name": "Stormie Omartian"}
+{"id": 1780, "name": "Billie Letts"}
+{"id": 1781, "name": "Sherwood Anderson"}
+{"id": 1782, "name": "Diane Chamberlain"}
+{"id": 1783, "name": "Gary Ezzo"}
+{"id": 1784, "name": "Betty Mahmoody"}
+{"id": 1785, "name": "S.H. Kolee"}
+{"id": 1786, "name": "Enid Bagnold"}
+{"id": 1787, "name": "Justin Halpern"}
+{"id": 1788, "name": "Philip C. Stead"}
+{"id": 1789, "name": "Friedrich A. Hayek"}
+{"id": 1790, "name": "Janet Ahlberg"}
+{"id": 1791, "name": "Kaui Hart Hemmings"}
+{"id": 1792, "name": "Gary Chapman"}
+{"id": 1793, "name": "Marlo Morgan"}
+{"id": 1794, "name": "Foundation for Inner Peace"}
+{"id": 1795, "name": "J.G. Ballard"}
+{"id": 1796, "name": "Leila Sales"}
+{"id": 1797, "name": "Gretchen Rubin"}
+{"id": 1798, "name": "Daniel Wallace"}
+{"id": 1799, "name": "John Fante"}
+{"id": 1800, "name": "Erica Jong"}
+{"id": 1801, "name": "Willy Lindwer"}
+{"id": 1802, "name": "Jeffrey D. Sachs"}
+{"id": 1803, "name": "Kristin Kimball"}
+{"id": 1804, "name": "Amanda Knox"}
+{"id": 1805, "name": "Catherynne M. Valente"}
+{"id": 1806, "name": "Philippa Pearce"}
+{"id": 1807, "name": "Sheri  Fink"}
+{"id": 1808, "name": "Debra Dean"}
+{"id": 1809, "name": "Elizabeth Little"}
+{"id": 1810, "name": "Diane Setterfield"}
+{"id": 1811, "name": "Don Winslow"}
+{"id": 1812, "name": "Aldous Huxley"}
+{"id": 1813, "name": "Sinclair Lewis"}
+{"id": 1814, "name": "Kevin Kwan"}
+{"id": 1815, "name": "Daniel Defoe"}
+{"id": 1816, "name": "Lauren Graham"}
+{"id": 1817, "name": "Conor Grennan"}
+{"id": 1818, "name": "Alessandro Baricco"}
+{"id": 1819, "name": "Atul Gawande"}
+{"id": 1820, "name": "Anne Bront\u00eb"}
+{"id": 1821, "name": "Marlon James"}
+{"id": 1822, "name": "Nevil Shute"}
+{"id": 1823, "name": "Mason Currey"}
+{"id": 1824, "name": "Naomi Novik"}
+{"id": 1825, "name": "Jane Yolen"}
+{"id": 1826, "name": "Chelsea Cain"}
+{"id": 1827, "name": "Faye Perozich"}
+{"id": 1828, "name": "Paula McLain"}
+{"id": 1829, "name": "Katie McGarry"}
+{"id": 1830, "name": "Gail Tsukiyama"}
+{"id": 1831, "name": "Gerda Weissmann Klein"}
+{"id": 1832, "name": "Martin Luther King Jr."}
+{"id": 1833, "name": "Ann M. Martin"}
+{"id": 1834, "name": "Ren\u00e9e Knight"}
+{"id": 1835, "name": "Sara Paretsky"}
+{"id": 1836, "name": "Robert   Harris"}
+{"id": 1837, "name": "Justine Korman Fontes"}
+{"id": 1838, "name": "Chad Harbach"}
+{"id": 1839, "name": "Quinn Loftis"}
+{"id": 1840, "name": "Robert C. O'Brien"}
+{"id": 1841, "name": "Bryan Burrough"}
+{"id": 1842, "name": "Scott Belsky"}
+{"id": 1843, "name": "Celeste Ng"}
+{"id": 1844, "name": "Myra McEntire"}
+{"id": 1845, "name": "Anne Rivers Siddons"}
+{"id": 1846, "name": "Elizabeth Scott"}
+{"id": 1847, "name": "Mark Twain"}
+{"id": 1848, "name": "Karuho Shiina"}
+{"id": 1849, "name": "Donald A. Norman"}
+{"id": 1850, "name": "Steven Hall"}
+{"id": 1851, "name": "Miranda July"}
+{"id": 1852, "name": "Gloria Naylor"}
+{"id": 1853, "name": "Jenny Han"}
+{"id": 1854, "name": "Amy A. Bartol"}
+{"id": 1855, "name": "Kasie West"}
+{"id": 1856, "name": "Lauren Beukes"}
+{"id": 1857, "name": "R. Scott Bakker"}
+{"id": 1858, "name": "David James Duncan"}
+{"id": 1859, "name": "Julia Cameron"}
+{"id": 1860, "name": "Oprah Winfrey"}
+{"id": 1861, "name": "Andrzej Sapkowski"}
+{"id": 1862, "name": "Melissa Marr"}
+{"id": 1863, "name": "Margret Rey"}
+{"id": 1864, "name": "Joshua Ferris"}
+{"id": 1865, "name": "Mary Kay Andrews"}
+{"id": 1866, "name": "Jeff Brown"}
+{"id": 1867, "name": "William Styron"}
+{"id": 1868, "name": "Marya Hornbacher"}
+{"id": 1869, "name": "Joseph Boyden"}
+{"id": 1870, "name": "R.J. Palacio"}
+{"id": 1871, "name": "Ram Dass"}
+{"id": 1872, "name": "Richard   Preston"}
+{"id": 1873, "name": "Kim van Alkemade"}
+{"id": 1874, "name": "Thomas Keneally"}
+{"id": 1875, "name": "Cynthia Swanson"}
+{"id": 1876, "name": "\u0623\u062d\u0645\u062f \u062e\u0627\u0644\u062f \u062a\u0648\u0641\u064a\u0642"}
+{"id": 1877, "name": "Michael Cunningham"}
+{"id": 1878, "name": "Kathy Griffin"}
+{"id": 1879, "name": "Diane Muldrow"}
+{"id": 1880, "name": "V.S. Ramachandran"}
+{"id": 1881, "name": "Judith Viorst"}
+{"id": 1882, "name": "Jay Winik"}
+{"id": 1883, "name": "Lorraine Hansberry"}
+{"id": 1884, "name": "Deborah Rodriguez"}
+{"id": 1885, "name": "Deb Perelman"}
+{"id": 1886, "name": "Kate DiCamillo"}
+{"id": 1887, "name": "Han Kang"}
+{"id": 1888, "name": "S.C. Stephens"}
+{"id": 1889, "name": "Adriana Trigiani"}
+{"id": 1890, "name": "Tatiana de Rosnay"}
+{"id": 1891, "name": "Robyn Schneider"}
+{"id": 1892, "name": "Lucinda Riley"}
+{"id": 1893, "name": "Henry Fielding"}
+{"id": 1894, "name": "Betty  Smith"}
+{"id": 1895, "name": "Michael Rosen"}
+{"id": 1896, "name": "Pat Barker"}
+{"id": 1897, "name": "Hiro Fujiwara"}
+{"id": 1898, "name": "Janice  Thompson"}
+{"id": 1899, "name": "Gloria Levine"}
+{"id": 1900, "name": "Jennifer McMahon"}
+{"id": 1901, "name": "Pablo Neruda"}
+{"id": 1902, "name": "Ahmad Fuadi"}
+{"id": 1903, "name": "Paul Auster"}
+{"id": 1904, "name": "Philip Reeve"}
+{"id": 1905, "name": "Phaedra Patrick"}
+{"id": 1906, "name": "Bernhard Schlink"}
+{"id": 1907, "name": "Adam Makos"}
+{"id": 1908, "name": "Richard Llewellyn"}
+{"id": 1909, "name": "Eloisa James"}
+{"id": 1910, "name": "Nicole Krauss"}
+{"id": 1911, "name": "Gary Shteyngart"}
+{"id": 1912, "name": "John Fowles"}
+{"id": 1913, "name": "Leon Uris"}
+{"id": 1914, "name": "Amy Bloom"}
+{"id": 1915, "name": "Fyodor Dostoyevsky"}
+{"id": 1916, "name": "Nate Silver"}
+{"id": 1917, "name": "Kevin J. Anderson"}
+{"id": 1918, "name": "\u0639\u0632\u0627\u0644\u062f\u064a\u0646 \u0634\u0643\u0631\u064a \u0641\u0634\u064a\u0631"}
+{"id": 1919, "name": "Caragh M. O'Brien"}
+{"id": 1920, "name": "David Ebershoff"}
+{"id": 1921, "name": "Phil Knight"}
+{"id": 1922, "name": "Neil Simon"}
+{"id": 1923, "name": "Pepper Winters"}
+{"id": 1924, "name": "Jane Shemilt"}
+{"id": 1925, "name": "Eric Blehm"}
+{"id": 1926, "name": "Eric Carle"}
+{"id": 1927, "name": "Miranda Hart"}
+{"id": 1928, "name": "Michael Moss"}
+{"id": 1929, "name": "Arina Tanemura"}
+{"id": 1930, "name": "Elizabeth Flock"}
+{"id": 1931, "name": "Tom Angleberger"}
+{"id": 1932, "name": "Yaa Gyasi"}
+{"id": 1933, "name": "Eleanor H. Porter"}
+{"id": 1934, "name": "Edith Pattou"}
+{"id": 1935, "name": "Sarah Blakley-Cartwright"}
+{"id": 1936, "name": "Bo Hampton"}
+{"id": 1937, "name": "Peter S. Beagle"}
+{"id": 1938, "name": "Diane Duane"}
+{"id": 1939, "name": "Gary Jennings"}
+{"id": 1940, "name": "Carlos Castaneda"}
+{"id": 1941, "name": "Ayn Rand"}
+{"id": 1942, "name": "Alfred Uhry"}
+{"id": 1943, "name": "Washington Irving"}
+{"id": 1944, "name": "Robin S. Sharma"}
+{"id": 1945, "name": "Martha Stout"}
+{"id": 1946, "name": "Elizabeth Wurtzel"}
+{"id": 1947, "name": "John Bunyan"}
+{"id": 1948, "name": "Paul Murray"}
+{"id": 1949, "name": "Katie Ashley"}
+{"id": 1950, "name": "Christopher Yost"}
+{"id": 1951, "name": "Nicole  Williams"}
+{"id": 1952, "name": "Jennifer A. Nielsen"}
+{"id": 1953, "name": "Natalie Babbitt"}
+{"id": 1954, "name": "Drew Barrymore"}
+{"id": 1955, "name": "Vikas Swarup"}
+{"id": 1956, "name": "Bert Dodson"}
+{"id": 1957, "name": "Beth Revis"}
+{"id": 1958, "name": "John Foxe"}
+{"id": 1959, "name": "Laura Whitcomb"}
+{"id": 1960, "name": "Jane O'Connor"}
+{"id": 1961, "name": "Immanuel Kant"}
+{"id": 1962, "name": "Rick Bragg"}
+{"id": 1963, "name": "William  Boyd"}
+{"id": 1964, "name": "Nigella Lawson"}
+{"id": 1965, "name": "Wiley Cash"}
+{"id": 1966, "name": "Alan Lightman"}
+{"id": 1967, "name": "M.R. Carey"}
+{"id": 1968, "name": "J.C. Reed"}
+{"id": 1969, "name": "David A. Vise"}
+{"id": 1970, "name": "Don Piper"}
+{"id": 1971, "name": "Bev Vincent"}
+{"id": 1972, "name": "Tara Sivec"}
+{"id": 1973, "name": "Stephanie Bond"}
+{"id": 1974, "name": "William L. Shirer"}
+{"id": 1975, "name": "F\u00e1bio Moon"}
+{"id": 1976, "name": "Benjamin Franklin"}
+{"id": 1977, "name": "Val McDermid"}
+{"id": 1978, "name": "Matthew Inman"}
+{"id": 1979, "name": "Rupi Kaur"}
+{"id": 1980, "name": "David Colbert"}
+{"id": 1981, "name": "John Tiffany"}
+{"id": 1982, "name": "Alan Brennert"}
+{"id": 1983, "name": "Anthony Kiedis"}
+{"id": 1984, "name": "Sara Pennypacker"}
+{"id": 1985, "name": "Pam Adams"}
+{"id": 1986, "name": "Jennifer Egan"}
+{"id": 1987, "name": "Bren\u00e9 Brown"}
+{"id": 1988, "name": "Dave Barry"}
+{"id": 1989, "name": "Margaret Leroy"}
+{"id": 1990, "name": "James Andrew Miller"}
+{"id": 1991, "name": "Cathy Glass"}
+{"id": 1992, "name": "Erma Bombeck"}
+{"id": 1993, "name": "Ruta Sepetys"}
+{"id": 1994, "name": "Sun Tzu"}
+{"id": 1995, "name": "Kim Holden"}
+{"id": 1996, "name": "Ian Fleming"}
+{"id": 1997, "name": "Bruce Campbell"}
+{"id": 1998, "name": "Rusty Young"}
+{"id": 1999, "name": "Frank B. Gilbreth Jr."}
+{"id": 2000, "name": "Barbara Demick"}
+{"id": 2001, "name": "David Levithan"}
+{"id": 2002, "name": "Dave Ramsey"}
+{"id": 2003, "name": "Joseph Kesselring"}
+{"id": 2004, "name": "The Arbinger Institute"}
+{"id": 2005, "name": "Nicola Yoon"}
+{"id": 2006, "name": "Betty Edwards"}
+{"id": 2007, "name": "Thomas Rockwell"}
+{"id": 2008, "name": "Matt Ridley"}
+{"id": 2009, "name": "Dolen Perkins-Valdez"}
+{"id": 2010, "name": "Banksy"}
+{"id": 2011, "name": "Kim Edwards"}
+{"id": 2012, "name": "Harvey Karp"}
+{"id": 2013, "name": "Kiran Desai"}
+{"id": 2014, "name": "Megan Whalen Turner"}
+{"id": 2015, "name": "Henri Charri\u00e8re"}
+{"id": 2016, "name": "Melvin Burgess"}
+{"id": 2017, "name": "Chitra Banerjee Divakaruni"}
+{"id": 2018, "name": "Elisabeth Egan"}
+{"id": 2019, "name": "George Gordon Byron"}
+{"id": 2020, "name": "Jacqueline Briggs Martin"}
+{"id": 2021, "name": "Deepak Chopra"}
+{"id": 2022, "name": "Edward Gorey"}
+{"id": 2023, "name": "Philip Roth"}
+{"id": 2024, "name": "Craig Thompson"}
+{"id": 2025, "name": "Amy Sedaris"}
+{"id": 2026, "name": "Ruth Ware"}
+{"id": 2027, "name": "Ann Leary"}
+{"id": 2028, "name": "Nick Flynn"}
+{"id": 2029, "name": "Anna Kendrick"}
+{"id": 2030, "name": "\u064a\u0648\u0633\u0641 \u0632\u064a\u062f\u0627\u0646"}
+{"id": 2031, "name": "Mary Elizabeth Braddon"}
+{"id": 2032, "name": "Henry David Thoreau"}
+{"id": 2033, "name": "Alison Bechdel"}
+{"id": 2034, "name": "Anthony Bourdain"}
+{"id": 2035, "name": "Carol Shields"}
+{"id": 2036, "name": "Matsuri Hino"}
+{"id": 2037, "name": "Clarissa Pinkola Est\u00e9s"}
+{"id": 2038, "name": "Cynthia Voigt"}
+{"id": 2039, "name": "Lilian Jackson Braun"}
+{"id": 2040, "name": "James Fenimore Cooper"}
+{"id": 2041, "name": "Piers Paul Read"}
+{"id": 2042, "name": "Jennifer Haigh"}
+{"id": 2043, "name": "Eleanor Estes"}
+{"id": 2044, "name": "Lang Leav"}
+{"id": 2045, "name": "Kevin Powers"}
+{"id": 2046, "name": "Jim Gaffigan"}
+{"id": 2047, "name": "Elie Wiesel"}
+{"id": 2048, "name": "Matthew Desmond"}
+{"id": 2049, "name": "Howard Dully"}
+{"id": 2050, "name": "Lori Nelson Spielman"}
+{"id": 2051, "name": "Terry Jones"}
+{"id": 2052, "name": "Aesop"}
+{"id": 2053, "name": "Yasunari Kawabata"}
+{"id": 2054, "name": "Scott  Meyer"}
+{"id": 2055, "name": "Paul Jenkins"}
+{"id": 2056, "name": "Machado de Assis"}
+{"id": 2057, "name": "Eldridge Cleaver"}
+{"id": 2058, "name": "Connie Willis"}
+{"id": 2059, "name": "Anne Michaels"}
+{"id": 2060, "name": "Charles C. Mann"}
+{"id": 2061, "name": "Kirsty Moseley"}
+{"id": 2062, "name": "Morgan Matson"}
+{"id": 2063, "name": "Brian  McClellan"}
+{"id": 2064, "name": "Harper Lee"}
+{"id": 2065, "name": "Billy Crystal"}
+{"id": 2066, "name": "Alice Munro"}
+{"id": 2067, "name": "John M. Barry"}
+{"id": 2068, "name": "Dave Pelzer"}
+{"id": 2069, "name": "Marion Cunningham"}
+{"id": 2070, "name": "Rainer Maria Rilke"}
+{"id": 2071, "name": "Cherrie Lynn"}
+{"id": 2072, "name": "Vi Keeland"}
+{"id": 2073, "name": "Adolfo Bioy Casares"}
+{"id": 2074, "name": "Robert Sabuda"}
+{"id": 2075, "name": "Naoko Takeuchi"}
+{"id": 2076, "name": "Laura McHugh"}
+{"id": 2077, "name": "Elizabeth Peters"}
+{"id": 2078, "name": "Pam Mu\u00f1oz Ryan"}
+{"id": 2079, "name": "Morgan Rhodes"}
+{"id": 2080, "name": "Theodore Taylor"}
+{"id": 2081, "name": "Willard F. Harley Jr."}
+{"id": 2082, "name": "American Psychiatric Association"}
+{"id": 2083, "name": "Steve Krug"}
+{"id": 2084, "name": "Bill Hybels"}
+{"id": 2085, "name": "E.H. Gombrich"}
+{"id": 2086, "name": "Flannery O'Connor"}
+{"id": 2087, "name": "Mark Waid"}
+{"id": 2088, "name": "Aldo Leopold"}
+{"id": 2089, "name": "Rachel Kushner"}
+{"id": 2090, "name": "Helen Marion Palmer"}
+{"id": 2091, "name": "David Grann"}
+{"id": 2092, "name": "Max Lucado"}
+{"id": 2093, "name": "Jamie Ford"}
+{"id": 2094, "name": "Carrie Ryan"}
+{"id": 2095, "name": "John O'Hara"}
+{"id": 2096, "name": "Unknown"}
+{"id": 2097, "name": "Marc Guggenheim"}
+{"id": 2098, "name": "Napoleon Hill"}
+{"id": 2099, "name": "Loretta Chase"}
+{"id": 2100, "name": "Rob Bell"}
+{"id": 2101, "name": "T.A. Barron"}
+{"id": 2102, "name": "Mike Mignola"}
+{"id": 2103, "name": "Kathryn Erskine"}
+{"id": 2104, "name": "Irma S. Rombauer"}
+{"id": 2105, "name": "Ian Mortimer"}
+{"id": 2106, "name": "Ottessa Moshfegh"}
+{"id": 2107, "name": "Christopher Marlowe"}
+{"id": 2108, "name": "Christopher  Ryan"}
+{"id": 2109, "name": "Homer"}
+{"id": 2110, "name": "Jonathan Maberry"}
+{"id": 2111, "name": "Jennifer Niven"}
+{"id": 2112, "name": "Richard Branson"}
+{"id": 2113, "name": "Jen Sincero"}
+{"id": 2114, "name": "Charles Baudelaire"}
+{"id": 2115, "name": "Amanda Palmer"}
+{"id": 2116, "name": "Erich Maria Remarque"}
+{"id": 2117, "name": "Kate Summerscale"}
+{"id": 2118, "name": "Sue Klebold"}
+{"id": 2119, "name": "Rita Mae Brown"}
+{"id": 2120, "name": "Michael Patrick MacDonald"}
+{"id": 2121, "name": "Anchee Min"}
+{"id": 2122, "name": "Brittainy C. Cherry"}
+{"id": 2123, "name": "Alexander Pushkin"}
+{"id": 2124, "name": "Ludwig Bemelmans"}
+{"id": 2125, "name": "Edmund Spenser"}
+{"id": 2126, "name": "Alexandra Ripley"}
+{"id": 2127, "name": "Charles Burns"}
+{"id": 2128, "name": "Anthony Hope"}
+{"id": 2129, "name": "Vanessa Diffenbaugh"}
+{"id": 2130, "name": "Gillian Flynn"}
+{"id": 2131, "name": "Dorothy Kunhardt"}
+{"id": 2132, "name": "Daniel Quinn"}
+{"id": 2133, "name": "Kami Garcia"}
+{"id": 2134, "name": "Siddhartha Mukherjee"}
+{"id": 2135, "name": "Chris Cleave"}
+{"id": 2136, "name": "Karina Halle"}
+{"id": 2137, "name": "Melissa Nathan"}
+{"id": 2138, "name": "Tami Hoag"}
+{"id": 2139, "name": "Francis A. Schaeffer"}
+{"id": 2140, "name": "Rachel Simon"}
+{"id": 2141, "name": "Sally Green"}
+{"id": 2142, "name": "Carol Ryrie Brink"}
+{"id": 2143, "name": "Katarina Bivald"}
+{"id": 2144, "name": "Brandon Stanton"}
+{"id": 2145, "name": "Ann Leckie"}
+{"id": 2146, "name": "Russell Hoban"}
+{"id": 2147, "name": "Giovanni Boccaccio"}
+{"id": 2148, "name": "Elizabeth Berg"}
+{"id": 2149, "name": "Robert Munsch"}
+{"id": 2150, "name": "Sogyal Rinpoche"}
+{"id": 2151, "name": "Megan McCafferty"}
+{"id": 2152, "name": "Tom Standage"}
+{"id": 2153, "name": "Homer Hickam"}
+{"id": 2154, "name": "C.S. Friedman"}
+{"id": 2155, "name": "Apostolos Doxiadis"}
+{"id": 2156, "name": "Katherine Paterson"}
+{"id": 2157, "name": "Poppy Z. Brite"}
+{"id": 2158, "name": "Ivan Turgenev"}
+{"id": 2159, "name": "Amy Tintera"}
+{"id": 2160, "name": "Scott O'Dell"}
+{"id": 2161, "name": "Rita Golden Gelman"}
+{"id": 2162, "name": "Edward M. Kennedy"}
+{"id": 2163, "name": "Mary E. Pearson"}
+{"id": 2164, "name": "Gordon B. Hinckley"}
+{"id": 2165, "name": "Christina Baker Kline"}
+{"id": 2166, "name": "Michael Punke"}
+{"id": 2167, "name": "Anna Quindlen"}
+{"id": 2168, "name": "Ruth Reichl"}
+{"id": 2169, "name": "Hannah Kent"}
+{"id": 2170, "name": "Caroline Alexander"}
+{"id": 2171, "name": "Ir\u00e8ne N\u00e9mirovsky"}
+{"id": 2172, "name": "W.G. Sebald"}
+{"id": 2173, "name": "Peter Benchley"}
+{"id": 2174, "name": "Annie Proulx"}
+{"id": 2175, "name": "Anne Bishop"}
+{"id": 2176, "name": "Roddy Doyle"}
+{"id": 2177, "name": "Koren Zailckas"}
+{"id": 2178, "name": "A.L. Singer"}
+{"id": 2179, "name": "William S. Baring-Gould"}
+{"id": 2180, "name": "Olivia Goldsmith"}
+{"id": 2181, "name": "Jared Diamond"}
+{"id": 2182, "name": "Elizabeth Bishop"}
+{"id": 2183, "name": "Ben Mezrich"}
+{"id": 2184, "name": "Geraldine Brooks"}
+{"id": 2185, "name": "Eugene B. Sledge"}
+{"id": 2186, "name": "Kathleen Tessaro"}
+{"id": 2187, "name": "Gene Luen Yang"}
+{"id": 2188, "name": "Diane Mowat"}
+{"id": 2189, "name": "Ursula Hegi"}
+{"id": 2190, "name": "Kristin Cashore"}
+{"id": 2191, "name": "Martha Hall Kelly"}
+{"id": 2192, "name": "Steven Naifeh"}
+{"id": 2193, "name": "Virgil"}
+{"id": 2194, "name": "Robert Foster"}
+{"id": 2195, "name": "Martin E.P. Seligman"}
+{"id": 2196, "name": "Jan Brett"}
+{"id": 2197, "name": "David Fishelson"}
+{"id": 2198, "name": "L.E. Modesitt Jr."}
+{"id": 2199, "name": "F. Paul Wilson"}
+{"id": 2200, "name": "Sara Douglass"}
+{"id": 2201, "name": "Walter Farley"}
+{"id": 2202, "name": "J. Maarten Troost"}
+{"id": 2203, "name": "Steve Perry"}
+{"id": 2204, "name": "Firoozeh Dumas"}
+{"id": 2205, "name": "Durjoy Datta"}
+{"id": 2206, "name": "Pauline R\u00e9age"}
+{"id": 2207, "name": "Janet Briggs"}
+{"id": 2208, "name": "Margot Livesey"}
+{"id": 2209, "name": "Ron Chernow"}
+{"id": 2210, "name": "Thomas \u00e0 Kempis"}
+{"id": 2211, "name": "Ruth Krauss"}
+{"id": 2212, "name": "Edith Hahn Beer"}
+{"id": 2213, "name": "Kate Beaton"}
+{"id": 2214, "name": "Kate Egan"}
+{"id": 2215, "name": "Nancy E. Shaw"}
+{"id": 2216, "name": "Jean-Paul Sartre"}
+{"id": 2217, "name": "M. Leighton"}
+{"id": 2218, "name": "Laurann Dohner"}
+{"id": 2219, "name": "Hayden Herrera"}
+{"id": 2220, "name": "Guy Gavriel Kay"}
+{"id": 2221, "name": "Larry Niven"}
+{"id": 2222, "name": "Mireille Guiliano"}
+{"id": 2223, "name": "Corban Addison"}
+{"id": 2224, "name": "Robert Leckie"}
+{"id": 2225, "name": "David Wiesner"}
+{"id": 2226, "name": "Chris Crutcher"}
+{"id": 2227, "name": "Katherine Neville"}
+{"id": 2228, "name": "Gennifer Choldenko"}
+{"id": 2229, "name": "William Paul Young"}
+{"id": 2230, "name": "Georges Bataille"}
+{"id": 2231, "name": "Sam Harris"}
+{"id": 2232, "name": "James Luceno"}
+{"id": 2233, "name": "Bill Simmons"}
+{"id": 2234, "name": "Matthew Pearl"}
+{"id": 2235, "name": "Mary Pope Osborne"}
+{"id": 2236, "name": "Alan W. Watts"}
+{"id": 2237, "name": "Edward Albee"}
+{"id": 2238, "name": "Andre Agassi"}
+{"id": 2239, "name": "Stephen Chbosky"}
+{"id": 2240, "name": "Gertrude Chandler Warner"}
+{"id": 2241, "name": "Anna Banks"}
+{"id": 2242, "name": "Richard Rhodes"}
+{"id": 2243, "name": "Julia Pierpont"}
+{"id": 2244, "name": "Roderick Gordon"}
+{"id": 2245, "name": "Zane"}
+{"id": 2246, "name": "Ann Rule"}
+{"id": 2247, "name": "Daniel Goleman"}
+{"id": 2248, "name": "Bertolt Brecht"}
+{"id": 2249, "name": "Wes  Moore"}
+{"id": 2250, "name": "Rob Lowe"}
+{"id": 2251, "name": "Pierce Brown"}
+{"id": 2252, "name": "Tim Tharp"}
+{"id": 2253, "name": "Chris   Smith"}
+{"id": 2254, "name": "Mary Ann Shaffer"}
+{"id": 2255, "name": "Andy Cohen"}
+{"id": 2256, "name": "J.M. Darhower"}
+{"id": 2257, "name": "Greg Iles"}
+{"id": 2258, "name": "Don Ferguson"}
+{"id": 2259, "name": "William McDonough"}
+{"id": 2260, "name": "Monty Roberts"}
+{"id": 2261, "name": "Carolly Erickson"}
+{"id": 2262, "name": "Beth Harbison"}
+{"id": 2263, "name": "Leslie Jamison"}
+{"id": 2264, "name": "Cristin Terrill"}
+{"id": 2265, "name": "Jane Smiley"}
+{"id": 2266, "name": "Robert McCammon"}
+{"id": 2267, "name": "Beth Hoffman"}
+{"id": 2268, "name": "Carolyn Jessop"}
+{"id": 2269, "name": "Barbara Ehrenreich"}
+{"id": 2270, "name": "Ernest J. Gaines"}
+{"id": 2271, "name": "Beatriz Williams"}
+{"id": 2272, "name": "Linda Fairstein"}
+{"id": 2273, "name": "Geoffrey A. Moore"}
+{"id": 2274, "name": "Randy Pausch"}
+{"id": 2275, "name": "David Hume"}
+{"id": 2276, "name": "Barry Lyga"}
+{"id": 2277, "name": "Erin Watt"}
+{"id": 2278, "name": "Johanna Spyri"}
+{"id": 2279, "name": "George S. Clason"}
+{"id": 2280, "name": "Frank Warren"}
+{"id": 2281, "name": "Charles Belfoure"}
+{"id": 2282, "name": "Herodotus"}
+{"id": 2283, "name": "Nathaniel Hawthorne"}
+{"id": 2284, "name": "Cory Doctorow"}
+{"id": 2285, "name": "William Strunk Jr."}
+{"id": 2286, "name": "Anthony Burgess"}
+{"id": 2287, "name": "James L. Ferrell"}
+{"id": 2288, "name": "James Lee Burke"}
+{"id": 2289, "name": "Rose Levy Beranbaum"}
+{"id": 2290, "name": "Sarah Crossan"}
+{"id": 2291, "name": "Alex Haley"}
+{"id": 2292, "name": "Gregory David Roberts"}
+{"id": 2293, "name": "Richard Lancelyn Green"}
+{"id": 2294, "name": "Jessie Burton"}
+{"id": 2295, "name": "Charlotte Rogan"}
+{"id": 2296, "name": "Bella Forrest"}
+{"id": 2297, "name": "Robert Lopshire"}
+{"id": 2298, "name": "Julianna Baggott"}
+{"id": 2299, "name": "Kimberly McCreight"}
+{"id": 2300, "name": "Ronald H. Balson"}
+{"id": 2301, "name": "David Herbert Donald"}
+{"id": 2302, "name": "Grant Naylor"}
+{"id": 2303, "name": "Tayeb Salih"}
+{"id": 2304, "name": "Stephen Schwartz"}
+{"id": 2305, "name": "Victoria Aveyard"}
+{"id": 2306, "name": "Rory Freedman"}
+{"id": 2307, "name": "Dashiell Hammett"}
+{"id": 2308, "name": "China Mi\u00e9ville"}
+{"id": 2309, "name": "Legs McNeil"}
+{"id": 2310, "name": "Karen Hesse"}
+{"id": 2311, "name": "John   Williams"}
+{"id": 2312, "name": "Katherine Dunn"}
+{"id": 2313, "name": "Jerzy Kosi\u0144ski"}
+{"id": 2314, "name": "G\u00fcnter Grass"}
+{"id": 2315, "name": "Rachel Bertsche"}
+{"id": 2316, "name": "Marisa de los Santos"}
+{"id": 2317, "name": "Ramachandra Guha"}
+{"id": 2318, "name": "Zoe Sugg"}
+{"id": 2319, "name": "Karma Wilson"}
+{"id": 2320, "name": "Howard E. Wasdin"}
+{"id": 2321, "name": "NoViolet Bulawayo"}
+{"id": 2322, "name": "Leslie Marmon Silko"}
+{"id": 2323, "name": "John Stuart Mill"}
+{"id": 2324, "name": "Benedict Jacka"}
+{"id": 2325, "name": "Jordan Belfort"}
+{"id": 2326, "name": "Michael J. Sandel"}
+{"id": 2327, "name": "Belva Plain"}
+{"id": 2328, "name": "Hiroshi Sakurazaka"}
+{"id": 2329, "name": "Haven Kimmel"}
+{"id": 2330, "name": "Joanne Fluke"}
+{"id": 2331, "name": "A.C. Gaughen"}
+{"id": 2332, "name": "Joshua Harris"}
+{"id": 2333, "name": "Alexander Gordon Smith"}
+{"id": 2334, "name": "Chaim Potok"}
+{"id": 2335, "name": "John Galsworthy"}
+{"id": 2336, "name": "Patrick Lencioni"}
+{"id": 2337, "name": "Leigh Bardugo"}
+{"id": 2338, "name": "Founding Fathers"}
+{"id": 2339, "name": "Richard Wurmbrand"}
+{"id": 2340, "name": "Gabrielle Hamilton"}
+{"id": 2341, "name": "Kelly Elliott"}
+{"id": 2342, "name": "J.D. Vance"}
+{"id": 2343, "name": "Flann O'Brien"}
+{"id": 2344, "name": "Katherine Boo"}
+{"id": 2345, "name": "Aeschylus"}
+{"id": 2346, "name": "Julietta Suzuki"}
+{"id": 2347, "name": "Angela Elwell Hunt"}
+{"id": 2348, "name": "Danny Sugerman"}
+{"id": 2349, "name": "Sheryl Sandberg"}
+{"id": 2350, "name": "Roland Barthes"}
+{"id": 2351, "name": "Richard   Phillips"}
+{"id": 2352, "name": "Jess Walter"}
+{"id": 2353, "name": "Lisa Jackson"}
+{"id": 2354, "name": "Aron Ralston"}
+{"id": 2355, "name": "David Lebovitz"}
+{"id": 2356, "name": "Brian Sibley"}
+{"id": 2357, "name": "Steven Spielberg"}
+{"id": 2358, "name": "Lynne Truss"}
+{"id": 2359, "name": "Raymond Khoury"}
+{"id": 2360, "name": "Terri Blackstock"}
+{"id": 2361, "name": "Christian Lander"}
+{"id": 2362, "name": "Irving Shulman"}
+{"id": 2363, "name": "Beatrix Potter"}
+{"id": 2364, "name": "David Wong"}
+{"id": 2365, "name": "William Peter Blatty"}
+{"id": 2366, "name": "Norman Mailer"}
+{"id": 2367, "name": "Kate Morton"}
+{"id": 2368, "name": "Ben Carson"}
+{"id": 2369, "name": "Irwin Shaw"}
+{"id": 2370, "name": "David Almond"}
+{"id": 2371, "name": "Alex Berenson"}
+{"id": 2372, "name": "Allen Ginsberg"}
+{"id": 2373, "name": "Sue Monk Kidd"}
+{"id": 2374, "name": "John Connolly"}
+{"id": 2375, "name": "Dean Karnazes"}
+{"id": 2376, "name": "Chris Ryall"}
+{"id": 2377, "name": "Frank W. Abagnale"}
+{"id": 2378, "name": "David R. Gillham"}
+{"id": 2379, "name": "Catherine Coulter"}
+{"id": 2380, "name": "Timothy Ferriss"}
+{"id": 2381, "name": "Richard Condon"}
+{"id": 2382, "name": "Ruth Ozeki"}
+{"id": 2383, "name": "James M. Cain"}
+{"id": 2384, "name": "Robin LaFevers"}
+{"id": 2385, "name": "Julio Cort\u00e1zar"}
+{"id": 2386, "name": "Jack Canfield"}
+{"id": 2387, "name": "Claire Messud"}
+{"id": 2388, "name": "Bryan Stevenson"}
+{"id": 2389, "name": "Hiroyuki Takei"}
+{"id": 2390, "name": "Erskine Caldwell"}
+{"id": 2391, "name": "Tom Rath"}
+{"id": 2392, "name": "Preeti Shenoy"}
+{"id": 2393, "name": "Robert Graysmith"}
+{"id": 2394, "name": "Kelly Creagh"}
+{"id": 2395, "name": "Chris Pavone"}
+{"id": 2396, "name": "Simon R. Green"}
+{"id": 2397, "name": "Mariko Tamaki"}
+{"id": 2398, "name": "Roberto Bola\u00f1o"}
+{"id": 2399, "name": "Nancy Leigh DeMoss"}
+{"id": 2400, "name": "Susannah Cahalan"}
+{"id": 2401, "name": "Stephen E. Robinson"}
+{"id": 2402, "name": "Hazel Gaynor"}
+{"id": 2403, "name": "Andrew Williamson"}
+{"id": 2404, "name": "Gwen Cooper"}
+{"id": 2405, "name": "Anna Gavalda"}
+{"id": 2406, "name": "Jos\u00e9 Emilio Pacheco"}
+{"id": 2407, "name": "Joe Navarro"}
+{"id": 2408, "name": "John Verdon"}
+{"id": 2409, "name": "Eiichir\u014d Oda"}
+{"id": 2410, "name": "Marshall Goldsmith"}
+{"id": 2411, "name": "Andrew Davidson"}
+{"id": 2412, "name": "QuinRose"}
+{"id": 2413, "name": "Richard Siken"}
+{"id": 2414, "name": "Allen Say"}
+{"id": 2415, "name": "Harry Bernstein"}
+{"id": 2416, "name": "Donald Hall"}
+{"id": 2417, "name": "Alfred Bester"}
+{"id": 2418, "name": "Dan Jurgens"}
+{"id": 2419, "name": "John  Williams"}
+{"id": 2420, "name": "Ally Condie"}
+{"id": 2421, "name": "Robert W. Chambers"}
+{"id": 2422, "name": "Booker T. Washington"}
+{"id": 2423, "name": "Gary Zukav"}
+{"id": 2424, "name": "Sarah Macdonald"}
+{"id": 2425, "name": "Drew Karpyshyn"}
+{"id": 2426, "name": "James  Jones"}
+{"id": 2427, "name": "Daniel Clowes"}
+{"id": 2428, "name": "Susanna Clarke"}
+{"id": 2429, "name": "Bob Goff"}
+{"id": 2430, "name": "Harry Gregson-Williams"}
+{"id": 2431, "name": "David Mamet"}
+{"id": 2432, "name": "Omar Tyree"}
+{"id": 2433, "name": "Susan Meissner"}
+{"id": 2434, "name": "Brother Andrew"}
+{"id": 2435, "name": "Walter Moers"}
+{"id": 2436, "name": "Heidi McLaughlin"}
+{"id": 2437, "name": "Lev Grossman"}
+{"id": 2438, "name": "Jerry Bridges"}
+{"id": 2439, "name": "Joseph Wambaugh"}
+{"id": 2440, "name": "Clare Naylor"}
+{"id": 2441, "name": "Rachel Maddow"}
+{"id": 2442, "name": "Bob McCabe"}
+{"id": 2443, "name": "Jun Mochizuki"}
+{"id": 2444, "name": "Oscar Hijuelos"}
+{"id": 2445, "name": "Suzanne Weyn"}
+{"id": 2446, "name": "Mike Lupica"}
+{"id": 2447, "name": "Lin-Manuel Miranda"}
+{"id": 2448, "name": "William Arntz"}
+{"id": 2449, "name": "Lettie B. Cowman"}
+{"id": 2450, "name": "Al Perkins"}
+{"id": 2451, "name": "Jessica Verday"}
+{"id": 2452, "name": "Jonah Berger"}
+{"id": 2453, "name": "Ben Hatke"}
+{"id": 2454, "name": "Molly Harper"}
+{"id": 2455, "name": "Joseph Heller"}
+{"id": 2456, "name": "Maureen Johnson"}
+{"id": 2457, "name": "Jerry A. Coyne"}
+{"id": 2458, "name": "Ben H. Winters"}
+{"id": 2459, "name": "Paul Beatty"}
+{"id": 2460, "name": "Honor\u00e9 de Balzac"}
+{"id": 2461, "name": "K.R. Dwyer"}
+{"id": 2462, "name": "Stephen Fry"}
+{"id": 2463, "name": "Danny Gregory"}
+{"id": 2464, "name": "Matthew  Thomas"}
+{"id": 2465, "name": "Ken Robinson"}
+{"id": 2466, "name": "Marjorie Flack"}
+{"id": 2467, "name": "Faith Hunter"}
+{"id": 2468, "name": "Brynne Stephens"}
+{"id": 2469, "name": "James D. Watson"}
+{"id": 2470, "name": "Johann Wolfgang von Goethe"}
+{"id": 2471, "name": "Melanie Benjamin"}
+{"id": 2472, "name": "Alan    Richardson"}
+{"id": 2473, "name": "Virginia M. Axline"}
+{"id": 2474, "name": "Jim Starlin"}
+{"id": 2475, "name": "Margaret Mitchell"}
+{"id": 2476, "name": "Arthur Hailey"}
+{"id": 2477, "name": "Brother Lawrence"}
+{"id": 2478, "name": "Truddi Chase"}
+{"id": 2479, "name": "Soman Chainani"}
+{"id": 2480, "name": "Peter M. Senge"}
+{"id": 2481, "name": "Harriet Beecher Stowe"}
+{"id": 2482, "name": "Nancy Horan"}
+{"id": 2483, "name": "David Eagleman"}
+{"id": 2484, "name": "Emily Bront\u00eb"}
+{"id": 2485, "name": "Liu Cixin"}
+{"id": 2486, "name": "David Small"}
+{"id": 2487, "name": "Alfred Tennyson"}
+{"id": 2488, "name": "Michael Moorcock"}
+{"id": 2489, "name": "Victoria Finlay"}
+{"id": 2490, "name": "Marisha Pessl"}
+{"id": 2491, "name": "Thomas More"}
+{"id": 2492, "name": "B.J. Novak"}
+{"id": 2493, "name": "Randall Munroe"}
+{"id": 2494, "name": "Ellen Marie Wiseman"}
+{"id": 2495, "name": "Eric Shanower"}
+{"id": 2496, "name": "Laura  Barnett"}
+{"id": 2497, "name": "Natasha Friend"}
+{"id": 2498, "name": "Natasha Solomons"}
+{"id": 2499, "name": "Ellen DeGeneres"}
+{"id": 2500, "name": "Alexander Hamilton"}
+{"id": 2501, "name": "Brenna Yovanoff"}
+{"id": 2502, "name": "Hans Christian Andersen"}
+{"id": 2503, "name": "Muriel Barbery"}
+{"id": 2504, "name": "Michelle Magorian"}
+{"id": 2505, "name": "Lolly Winston"}
+{"id": 2506, "name": "Brian Lumley"}
+{"id": 2507, "name": "Mary  Stewart"}
+{"id": 2508, "name": "Anne Sexton"}
+{"id": 2509, "name": "Mo Hayder"}
+{"id": 2510, "name": "Robert Kapilow"}
+{"id": 2511, "name": "Josephine Angelini"}
+{"id": 2512, "name": "Sarah MacLean"}
+{"id": 2513, "name": "Dava Sobel"}
+{"id": 2514, "name": "Georgia Cates"}
+{"id": 2515, "name": "James Hilton"}
+{"id": 2516, "name": "Tim O'Brien"}
+{"id": 2517, "name": "Huntley Fitzpatrick"}
+{"id": 2518, "name": "P.L. Travers"}
+{"id": 2519, "name": "Daphne du Maurier"}
+{"id": 2520, "name": "J.A. Redmerski"}
+{"id": 2521, "name": "Mary McGarry Morris"}
+{"id": 2522, "name": "Thomas  Moore"}
+{"id": 2523, "name": "S\u00f8ren Kierkegaard"}
+{"id": 2524, "name": "David Auburn"}
+{"id": 2525, "name": "Tracey Garvis-Graves"}
+{"id": 2526, "name": "Harold S. Kushner"}
+{"id": 2527, "name": "Jamie Oliver"}
+{"id": 2528, "name": "Norman Vincent Peale"}
+{"id": 2529, "name": "Karen Chance"}
+{"id": 2530, "name": "Robert Cormier"}
+{"id": 2531, "name": "Judy Schachner"}
+{"id": 2532, "name": "Ann Packer"}
+{"id": 2533, "name": "Cara Lockwood"}
+{"id": 2534, "name": "Eleanor Brown"}
+{"id": 2535, "name": "Russell Brand"}
+{"id": 2536, "name": "Sebastian Faulks"}
+{"id": 2537, "name": "Wendy Higgins"}
+{"id": 2538, "name": "Chip Heath"}
+{"id": 2539, "name": "Sandra Gulland"}
+{"id": 2540, "name": "Waris Dirie"}
+{"id": 2541, "name": "Ian McGuire"}
+{"id": 2542, "name": "Bruno Ernst"}
+{"id": 2543, "name": "Burton G. Malkiel"}
+{"id": 2544, "name": "Jeff Lemire"}
+{"id": 2545, "name": "Steven Pinker"}
+{"id": 2546, "name": "Walter Dean Myers"}
+{"id": 2547, "name": "Michelle Alexander"}
+{"id": 2548, "name": "H.P. Mallory"}
+{"id": 2549, "name": "Mark Dunn"}
+{"id": 2550, "name": "Jean-Dominique Bauby"}
+{"id": 2551, "name": "Emily Snow"}
+{"id": 2552, "name": "Katie J. Davis"}
+{"id": 2553, "name": "M.T. Anderson"}
+{"id": 2554, "name": "Andy Goldsworthy"}
+{"id": 2555, "name": "Cary Elwes"}
+{"id": 2556, "name": "M.C. Escher"}
+{"id": 2557, "name": "Don DeLillo"}
+{"id": 2558, "name": "John Darnielle"}
+{"id": 2559, "name": "Kate Douglas Wiggin"}
+{"id": 2560, "name": "Pearl S. Buck"}
+{"id": 2561, "name": "Niall Ferguson"}
+{"id": 2562, "name": "Jack Gantos"}
+{"id": 2563, "name": "Dorothy Koomson"}
+{"id": 2564, "name": "Nicholas Meyer"}
+{"id": 2565, "name": "Joshua Foer"}
+{"id": 2566, "name": "Chris Gardner"}
+{"id": 2567, "name": "Mike Birbiglia"}
+{"id": 2568, "name": "Fran\u00e7ois Rabelais"}
+{"id": 2569, "name": "Jaclyn Moriarty"}
+{"id": 2570, "name": "Hilary Mantel"}
+{"id": 2571, "name": "Susan Cain"}
+{"id": 2572, "name": "Christian Rudder"}
+{"id": 2573, "name": "Steve Niles"}
+{"id": 2574, "name": "Stephen Davis"}
+{"id": 2575, "name": "Claire Huchet Bishop"}
+{"id": 2576, "name": "N.K. Jemisin"}
+{"id": 2577, "name": "\u00c5sne Seierstad"}
+{"id": 2578, "name": "J.M. Barrie"}
+{"id": 2579, "name": "Gary Vaynerchuk"}
+{"id": 2580, "name": "D.C. Talk"}
+{"id": 2581, "name": "Miranda Kenneally"}
+{"id": 2582, "name": "Hope Larson"}
+{"id": 2583, "name": "Charlie Higson"}
+{"id": 2584, "name": "Amy Schumer"}
+{"id": 2585, "name": "H.G. Wells"}
+{"id": 2586, "name": "James L. Swanson"}
+{"id": 2587, "name": "Glen David Gold"}
+{"id": 2588, "name": "Carolyn Keene"}
+{"id": 2589, "name": "Leo Lionni"}
+{"id": 2590, "name": "Blue Balliett"}
+{"id": 2591, "name": "Sarah Jio"}
+{"id": 2592, "name": "Elissa Wall"}
+{"id": 2593, "name": "Livia E. Bitton-Jackson"}
+{"id": 2594, "name": "Boris Pasternak"}
+{"id": 2595, "name": "David Hackett Fischer"}
+{"id": 2596, "name": "Julie Kibler"}
+{"id": 2597, "name": "Betty Friedan"}
+{"id": 2598, "name": "Dale Wasserman"}
+{"id": 2599, "name": "Kenneth Branagh"}
+{"id": 2600, "name": "Patricia McCormick"}
+{"id": 2601, "name": "Lynn Flewelling"}
+{"id": 2602, "name": "Christopher Isherwood"}
+{"id": 2603, "name": "Cherie Priest"}
+{"id": 2604, "name": "Adolf Hitler"}
+{"id": 2605, "name": "Tony Horwitz"}
+{"id": 2606, "name": "Lars Kepler"}
+{"id": 2607, "name": "Shane Claiborne"}
+{"id": 2608, "name": "Lew Wallace"}
+{"id": 2609, "name": "Chris Guillebeau"}
+{"id": 2610, "name": "Thornton Wilder"}
+{"id": 2611, "name": "Robert Penn Warren"}
+{"id": 2612, "name": "E.E. Cummings"}
+{"id": 2613, "name": "Aristophanes"}
+{"id": 2614, "name": "Julie James"}
+{"id": 2615, "name": "Nancy Tillman"}
+{"id": 2616, "name": "Allen Eskens"}
+{"id": 2617, "name": "Sarah Mlynowski"}
+{"id": 2618, "name": "Christopher Priest"}
+{"id": 2619, "name": "Patrick deWitt"}
+{"id": 2620, "name": "Julian Barnes"}
+{"id": 2621, "name": "Craig Ferguson"}
+{"id": 2622, "name": "Carol Rifka Brunt"}
+{"id": 2623, "name": "Hiromu Arakawa"}
+{"id": 2624, "name": "Lauren Blakely"}
+{"id": 2625, "name": "Stephen Briggs"}
+{"id": 2626, "name": "Charles Darwin"}
+{"id": 2627, "name": "Aurora Rose Reynolds"}
+{"id": 2628, "name": "Scott B. Smith"}
+{"id": 2629, "name": "C.J. Roberts"}
+{"id": 2630, "name": "Ed Emberley"}
+{"id": 2631, "name": "Gary D. Schmidt"}
+{"id": 2632, "name": "Veronica Rossi"}
+{"id": 2633, "name": "Upton Sinclair"}
+{"id": 2634, "name": "Eric Litwin"}
+{"id": 2635, "name": "Daniel Woodrell"}
+{"id": 2636, "name": "Miep Gies"}
+{"id": 2637, "name": "Theo LeSieg"}
+{"id": 2638, "name": "William R. Forstchen"}
+{"id": 2639, "name": "Nikolai Gogol"}
+{"id": 2640, "name": "Jillian Dodd"}
+{"id": 2641, "name": "Robin Norwood"}
+{"id": 2642, "name": "Andrew  Smith"}
+{"id": 2643, "name": "Neil A. Fiore"}
+{"id": 2644, "name": "Stacy Schiff"}
+{"id": 2645, "name": "Nic Sheff"}
+{"id": 2646, "name": "Terry McMillan"}
+{"id": 2647, "name": "Yukio Mishima"}
+{"id": 2648, "name": "Isaac Marion"}
+{"id": 2649, "name": "Harold McGee"}
+{"id": 2650, "name": "Amanda Foreman"}
+{"id": 2651, "name": "William Zinsser"}
+{"id": 2652, "name": "Ted Kerasote"}
+{"id": 2653, "name": "Barbara Shook Hazen"}
+{"id": 2654, "name": "Arthur Golden"}
+{"id": 2655, "name": "Cupcake Brown"}
+{"id": 2656, "name": "David Baggett"}
+{"id": 2657, "name": "Patricia Reilly Giff"}
+{"id": 2658, "name": "Jon Scieszka"}
+{"id": 2659, "name": "Barbara Ann Brennan"}
+{"id": 2660, "name": "Melissa Senate"}
+{"id": 2661, "name": "Scott Jurek"}
+{"id": 2662, "name": "T.M. Frazier"}
+{"id": 2663, "name": "Ralph Ellison"}
+{"id": 2664, "name": "Joni Eareckson Tada"}
+{"id": 2665, "name": "John Perkins"}
+{"id": 2666, "name": "Fritjof Capra"}
+{"id": 2667, "name": "Kenneth Oppel"}
+{"id": 2668, "name": "Richard C. Morais"}
+{"id": 2669, "name": "Fernando Pessoa"}
+{"id": 2670, "name": "Daniel O'Malley"}
+{"id": 2671, "name": "Emmy Laybourne"}
+{"id": 2672, "name": "Nobuhiro Watsuki"}
+{"id": 2673, "name": "Bill Browder"}
+{"id": 2674, "name": "Jo\u00ebl Dicker"}
+{"id": 2675, "name": "Arturo P\u00e9rez-Reverte"}
+{"id": 2676, "name": "Marina Lewycka"}
+{"id": 2677, "name": "Suki Kim"}
+{"id": 2678, "name": "Paul Hattaway"}
+{"id": 2679, "name": "Ronald Holt"}
+{"id": 2680, "name": "Julie Otsuka"}
+{"id": 2681, "name": "Verna Aardema"}
+{"id": 2682, "name": "Susan Abulhawa"}
+{"id": 2683, "name": "Michelle Rowen"}
+{"id": 2684, "name": "Katie Alender"}
+{"id": 2685, "name": "Hannu Rajaniemi"}
+{"id": 2686, "name": "David  Brooks"}
+{"id": 2687, "name": "William Nicholson"}
+{"id": 2688, "name": "Madeleine Roux"}
+{"id": 2689, "name": "Brian Michael Bendis"}
+{"id": 2690, "name": "Natsuo Kirino"}
+{"id": 2691, "name": "Malvina G. Vogel"}
+{"id": 2692, "name": "Doug Stanton"}
+{"id": 2693, "name": "Ian Falconer"}
+{"id": 2694, "name": "Malcolm X"}
+{"id": 2695, "name": "David    Allen"}
+{"id": 2696, "name": "Norton Juster"}
+{"id": 2697, "name": "Justina Chen"}
+{"id": 2698, "name": "George C. Perry"}
+{"id": 2699, "name": "Julia Scheeres"}
+{"id": 2700, "name": "Rien Poortvliet"}
+{"id": 2701, "name": "Patricia MacLachlan"}
+{"id": 2702, "name": "Angie Thomas"}
+{"id": 2703, "name": "Ira Wagler"}
+{"id": 2704, "name": "Ambrose Bierce"}
+{"id": 2705, "name": "John Rawls"}
+{"id": 2706, "name": "H\u00e9ctor Tobar"}
+{"id": 2707, "name": "Alan Cumming"}
+{"id": 2708, "name": "Yevgeny Zamyatin"}
+{"id": 2709, "name": "Bart D. Ehrman"}
+{"id": 2710, "name": "Mark Manson"}
+{"id": 2711, "name": "Iain Banks"}
+{"id": 2712, "name": "Emma McLaughlin"}
+{"id": 2713, "name": "G.K. Chesterton"}
+{"id": 2714, "name": "Barbara Cooney"}
+{"id": 2715, "name": "John Locke"}
+{"id": 2716, "name": "Lynda Mullaly Hunt"}
+{"id": 2717, "name": "Anna Sewell"}
+{"id": 2718, "name": "Jostein Gaarder"}
+{"id": 2719, "name": "Yoshiki Nakamura"}
+{"id": 2720, "name": "\u062a\u0627\u0645\u0631 \u0625\u0628\u0631\u0627\u0647\u064a\u0645"}
+{"id": 2721, "name": "Per Petterson"}
+{"id": 2722, "name": "Sam Smith"}
+{"id": 2723, "name": "Frank McCourt"}
+{"id": 2724, "name": "Emily Murdoch"}
+{"id": 2725, "name": "G.A. Aiken"}
+{"id": 2726, "name": "William Kent Krueger"}
+{"id": 2727, "name": "Marianne Williamson"}
+{"id": 2728, "name": "Harriet Lerner"}
+{"id": 2729, "name": "Christopher Chabris"}
+{"id": 2730, "name": "Adam Johnson"}
+{"id": 2731, "name": "America's Test Kitchen"}
+{"id": 2732, "name": "W.E.B. Du Bois"}
+{"id": 2733, "name": "Phil Klay"}
+{"id": 2734, "name": "Kelly Corrigan"}
+{"id": 2735, "name": "\u064a\u0627\u0633\u0631 \u062d\u0627\u0631\u0628"}
+{"id": 2736, "name": "Cheryl McIntyre"}
+{"id": 2737, "name": "Daniel H. Wilson"}
+{"id": 2738, "name": "Ava Dellaira"}
+{"id": 2739, "name": "Ovid"}
+{"id": 2740, "name": "Jim Thompson"}
+{"id": 2741, "name": "Laline Paull"}
+{"id": 2742, "name": "Emma Straub"}
+{"id": 2743, "name": "A.G. Howard"}
+{"id": 2744, "name": "Mikhail Bulgakov"}
+{"id": 2745, "name": "Howard Zinn"}
+{"id": 2746, "name": "Nina LaCour"}
+{"id": 2747, "name": "Roz Chast"}
+{"id": 2748, "name": "Peter Heller"}
+{"id": 2749, "name": "David Lagercrantz"}
+{"id": 2750, "name": "Stephanie Perkins"}
+{"id": 2751, "name": "Peter Watts"}
+{"id": 2752, "name": "Ben Horowitz"}
+{"id": 2753, "name": "Jenna Blum"}
+{"id": 2754, "name": "Caroline B. Cooney"}
+{"id": 2755, "name": "Nicholas Pileggi"}
+{"id": 2756, "name": "Robin Cook"}
+{"id": 2757, "name": "Eric Clapton"}
+{"id": 2758, "name": "Audrey Wood"}
+{"id": 2759, "name": "David Mazzucchelli"}
+{"id": 2760, "name": "Arianna Huffington"}
+{"id": 2761, "name": "Jonathan L. Howard"}
+{"id": 2762, "name": "Teju Cole"}
+{"id": 2763, "name": "Lisa O'Donnell"}
+{"id": 2764, "name": "Mary-Jane Knight"}
+{"id": 2765, "name": "Chris Heimerdinger"}
+{"id": 2766, "name": "T.H. White"}
+{"id": 2767, "name": "Mark Haddon"}
+{"id": 2768, "name": "Joe Simpson"}
+{"id": 2769, "name": "Michelle Hodkin"}
+{"id": 2770, "name": "Alexis de Tocqueville"}
+{"id": 2771, "name": "Victoria Kann"}
+{"id": 2772, "name": "Peter Mayle"}
+{"id": 2773, "name": "John Knowles"}
+{"id": 2774, "name": "Dan   Harris"}
+{"id": 2775, "name": "Philipp Meyer"}
+{"id": 2776, "name": "Carole Radziwill"}
+{"id": 2777, "name": "Lisa Tawn Bergren"}
+{"id": 2778, "name": "Jim Cymbala"}
+{"id": 2779, "name": "Guy Kawasaki"}
+{"id": 2780, "name": "Marie Force"}
+{"id": 2781, "name": "Robert M. Edsel"}
+{"id": 2782, "name": "Geoff Colvin"}
+{"id": 2783, "name": "Claire LaZebnik"}
+{"id": 2784, "name": "Peter Jenkins"}
+{"id": 2785, "name": "Elizabeth Bard"}
+{"id": 2786, "name": "Terry Hayes"}
+{"id": 2787, "name": "Alain de Botton"}
+{"id": 2788, "name": "Ellen Stoll Walsh"}
+{"id": 2789, "name": "Jeff Hertzberg"}
+{"id": 2790, "name": "Charles Wheelan"}
+{"id": 2791, "name": "Donald J. Sobol"}
+{"id": 2792, "name": "Ben Avery"}
+{"id": 2793, "name": "Yoshihiro Togashi"}
+{"id": 2794, "name": "Amin Maalouf"}
+{"id": 2795, "name": "K\u014db\u014d Abe"}
+{"id": 2796, "name": "Johanna Edwards"}
+{"id": 2797, "name": "Victor Hugo"}
+{"id": 2798, "name": "Douglas R. Hofstadter"}
+{"id": 2799, "name": "Yann Martel"}
+{"id": 2800, "name": "Laura Esquivel"}
+{"id": 2801, "name": "H. Rider Haggard"}
+{"id": 2802, "name": "Leonardo da Vinci"}
+{"id": 2803, "name": "Erich Fromm"}
+{"id": 2804, "name": "Mahatma Gandhi"}
+{"id": 2805, "name": "Maggie Shipstead"}
+{"id": 2806, "name": "Deborah Ellis"}
+{"id": 2807, "name": "Owen  West"}
+{"id": 2808, "name": "Walter Lord"}
+{"id": 2809, "name": "Eowyn Ivey"}
+{"id": 2810, "name": "Eckhart Tolle"}
+{"id": 2811, "name": "Kate Brian"}
+{"id": 2812, "name": "Mohsin Hamid"}
+{"id": 2813, "name": "Samantha Shannon"}
+{"id": 2814, "name": "Janet Stevens"}
+{"id": 2815, "name": "Robert Hughes"}
+{"id": 2816, "name": "Scott  Hawkins"}
+{"id": 2817, "name": "Clare Vanderpool"}
+{"id": 2818, "name": "Horace Walpole"}
+{"id": 2819, "name": "Lincoln Child"}
+{"id": 2820, "name": "Pattie Boyd"}
+{"id": 2821, "name": "Ingrid Law"}
+{"id": 2822, "name": "Claire North"}
+{"id": 2823, "name": "Paula Brackston"}
+{"id": 2824, "name": "Susan Elia MacNeal"}
+{"id": 2825, "name": "Elisabeth K\u00fcbler-Ross"}
+{"id": 2826, "name": "Ruth Stiles Gannett"}
+{"id": 2827, "name": "Sena Jeter Naslund"}
+{"id": 2828, "name": "Po Bronson"}
+{"id": 2829, "name": "Emily M. Danforth"}
+{"id": 2830, "name": "Bill Clinton"}
+{"id": 2831, "name": "Jo Baker"}
+{"id": 2832, "name": "Tawni O'Dell"}
+{"id": 2833, "name": "Sarah Winman"}
+{"id": 2834, "name": "Jane Lynch"}
+{"id": 2835, "name": "Primo Levi"}
+{"id": 2836, "name": "Robyn Carr"}
+{"id": 2837, "name": "Shayla Black"}
+{"id": 2838, "name": "Oliver P\u00f6tzsch"}
+{"id": 2839, "name": "Nathanael West"}
+{"id": 2840, "name": "Susan S. Adler"}
+{"id": 2841, "name": "David B."}
+{"id": 2842, "name": "Wednesday Martin"}
+{"id": 2843, "name": "HaveYouSeenThisGirL"}
+{"id": 2844, "name": "Jenna Black"}
+{"id": 2845, "name": "Carson McCullers"}
+{"id": 2846, "name": "Jesse Andrews"}
+{"id": 2847, "name": "Ellen Raskin"}
+{"id": 2848, "name": "Koushun Takami"}
+{"id": 2849, "name": "Kate Hamer"}
+{"id": 2850, "name": "Julia Heaberlin"}
+{"id": 2851, "name": "Thomas L. Friedman"}
+{"id": 2852, "name": "Jon J. Muth"}
+{"id": 2853, "name": "Kay Thompson"}
+{"id": 2854, "name": "Guy Debord"}
+{"id": 2855, "name": "Thea Harrison"}
+{"id": 2856, "name": "Hope Jahren"}
+{"id": 2857, "name": "Sylvia Nasar"}
+{"id": 2858, "name": "Helene Hanff"}
+{"id": 2859, "name": "Jay Asher"}
+{"id": 2860, "name": "Jaycee Dugard"}
+{"id": 2861, "name": "Iris Murdoch"}
+{"id": 2862, "name": "Chris Grabenstein"}
+{"id": 2863, "name": "Tracy Kidder"}
+{"id": 2864, "name": "Rebecca Skloot"}
+{"id": 2865, "name": "William  Gibson"}
+{"id": 2866, "name": "Brian Froud"}
+{"id": 2867, "name": "Ken Akamatsu"}
+{"id": 2868, "name": "Smith Henderson"}
+{"id": 2869, "name": "Amanda Grange"}
+{"id": 2870, "name": "Robert Bloch"}
+{"id": 2871, "name": "Gavin Menzies"}
+{"id": 2872, "name": "Anna Dewdney"}
+{"id": 2873, "name": "Peter Shaffer"}
+{"id": 2874, "name": "Sarah Simblet"}
+{"id": 2875, "name": "Ramez Naam"}
+{"id": 2876, "name": "Jean Kwok"}
+{"id": 2877, "name": "\u0639\u0628\u0627\u0633 \u0645\u0639\u0631\u0648\u0641\u06cc"}
+{"id": 2878, "name": "Laura Dave"}
+{"id": 2879, "name": "Slavomir Rawicz"}
+{"id": 2880, "name": "E. Nesbit"}
+{"id": 2881, "name": "Sarah Rees Brennan"}
+{"id": 2882, "name": "Manning Marable"}
+{"id": 2883, "name": "Karen Joy Fowler"}
+{"id": 2884, "name": "Raymond Briggs"}
+{"id": 2885, "name": "Blanche Fisher Wright"}
+{"id": 2886, "name": "Amy Brown"}
+{"id": 2887, "name": "R.D. Ronald"}
+{"id": 2888, "name": "Jon Stewart"}
+{"id": 2889, "name": "Robert Jackson Bennett"}
+{"id": 2890, "name": "Martin Amis"}
+{"id": 2891, "name": "Danielle Trussoni"}
+{"id": 2892, "name": "Jennifer Worth"}
+{"id": 2893, "name": "Emily Carroll"}
+{"id": 2894, "name": "Alice Waters"}
+{"id": 2895, "name": "Paul Neilan"}
+{"id": 2896, "name": "Hajime Isayama"}
+{"id": 2897, "name": "Laurence Rees"}
+{"id": 2898, "name": "Geoffrey Chaucer"}
+{"id": 2899, "name": "Kieron Gillen"}
+{"id": 2900, "name": "Kay Redfield Jamison"}
+{"id": 2901, "name": "Hugh Laurie"}
+{"id": 2902, "name": "Matt Haig"}
+{"id": 2903, "name": "Keri Smith"}
+{"id": 2904, "name": "Kate Jacobs"}
+{"id": 2905, "name": "Alex Garland"}
+{"id": 2906, "name": "Hubert Selby Jr."}
+{"id": 2907, "name": "Judith Guest"}
+{"id": 2908, "name": "Atsushi Ohkubo"}
+{"id": 2909, "name": "Charlie LeDuff"}
+{"id": 2910, "name": "Donald McCaig"}
+{"id": 2911, "name": "Helen Fielding"}
+{"id": 2912, "name": "Cressida Cowell"}
+{"id": 2913, "name": "Cynthia Bond"}
+{"id": 2914, "name": "Katherine Allred"}
+{"id": 2915, "name": "Hester Browne"}
+{"id": 2916, "name": "Lily King"}
+{"id": 2917, "name": "Amy  Stewart"}
+{"id": 2918, "name": "Kurt Busiek"}
+{"id": 2919, "name": "\u0645\u0635\u0637\u0641\u0649 \u0625\u0628\u0631\u0627\u0647\u064a\u0645"}
+{"id": 2920, "name": "Jerome K. Jerome"}
+{"id": 2921, "name": "Gina Mayer"}
+{"id": 2922, "name": "Ry\u016b Murakami"}
+{"id": 2923, "name": "Larry Bond"}
+{"id": 2924, "name": "Clifford D. Simak"}
+{"id": 2925, "name": "Tim Johnston"}
+{"id": 2926, "name": "Dylan Thomas"}
+{"id": 2927, "name": "Carolyn  Parkhurst"}
+{"id": 2928, "name": "Steve Alten"}
+{"id": 2929, "name": "Malinda Lo"}
+{"id": 2930, "name": "David Axton"}
+{"id": 2931, "name": "James Howe"}
+{"id": 2932, "name": "Caroline Preston"}
+{"id": 2933, "name": "Jean de Brunhoff"}
+{"id": 2934, "name": "Holly Goldberg Sloan"}
+{"id": 2935, "name": "Wassily Kandinsky"}
+{"id": 2936, "name": "Audrey Niffenegger"}
+{"id": 2937, "name": "Helen Oyeyemi"}
+{"id": 2938, "name": "Kazune Kawahara"}
+{"id": 2939, "name": "Louise Fitzhugh"}
+{"id": 2940, "name": "Meredith Wild"}
+{"id": 2941, "name": "Julie Gregory"}
+{"id": 2942, "name": "Bob Dylan"}
+{"id": 2943, "name": "Deborah Guarino"}
+{"id": 2944, "name": "Kate Grenville"}
+{"id": 2945, "name": "Peter David"}
+{"id": 2946, "name": "Liz Murray"}
+{"id": 2947, "name": "Stacy King"}
+{"id": 2948, "name": "Patricia Schultz"}
+{"id": 2949, "name": "David McRaney"}
+{"id": 2950, "name": "Corrie ten Boom"}
+{"id": 2951, "name": "Erica Bauermeister"}
+{"id": 2952, "name": "Anne Rampling"}
+{"id": 2953, "name": "Elizabeth  Smart"}
+{"id": 2954, "name": "Adele Faber"}
+{"id": 2955, "name": "Michael A. Singer"}
+{"id": 2956, "name": "Camron Wright"}
+{"id": 2957, "name": "Geoff Johns"}
+{"id": 2958, "name": "Jay Crownover"}
+{"id": 2959, "name": "Laura Moriarty"}
+{"id": 2960, "name": "Daniel Keyes"}
+{"id": 2961, "name": "William Golding"}
+{"id": 2962, "name": "John Lanchester"}
+{"id": 2963, "name": "Fuyumi Soryo"}
+{"id": 2964, "name": "Joyce Maynard"}
+{"id": 2965, "name": "Eugene O'Neill"}
+{"id": 2966, "name": "Hidekaz Himaruya"}
+{"id": 2967, "name": "Ren\u00e9 Goscinny"}
+{"id": 2968, "name": "M.L. Stedman"}
+{"id": 2969, "name": "Herman Parish"}
+{"id": 2970, "name": "Stephen R. Lawhead"}
+{"id": 2971, "name": "Daron Acemo\u011flu"}
+{"id": 2972, "name": "Walter Benjamin"}
+{"id": 2973, "name": "Mia Ikumi"}
+{"id": 2974, "name": "Caitlin Doughty"}
+{"id": 2975, "name": "Masaru Emoto"}
+{"id": 2976, "name": "Suetonius"}
+{"id": 2977, "name": "Sherry Argov"}
+{"id": 2978, "name": "James M. McPherson"}
+{"id": 2979, "name": "Cammie McGovern"}
+{"id": 2980, "name": "Naguib Mahfouz"}
+{"id": 2981, "name": "Jim Fergus"}
+{"id": 2982, "name": "Trina Schart Hyman"}
+{"id": 2983, "name": "Hugh Lofting"}
+{"id": 2984, "name": "Alan Lee"}
+{"id": 2985, "name": "Leonard Mlodinow"}
+{"id": 2986, "name": "Lauren Morrill"}
+{"id": 2987, "name": "Walt Whitman"}
+{"id": 2988, "name": "Craig Silvey"}
+{"id": 2989, "name": "Larry Bird"}
+{"id": 2990, "name": "Lynda Cohen Loigman"}
+{"id": 2991, "name": "Melissa Anelli"}
+{"id": 2992, "name": "Jean Lee Latham"}
+{"id": 2993, "name": "Jennifer Brown"}
+{"id": 2994, "name": "J. Ryan Stradal"}
+{"id": 2995, "name": "James Bowen"}
+{"id": 2996, "name": "Angela Duckworth"}
+{"id": 2997, "name": "Sarah L. Delany"}
+{"id": 2998, "name": "Ronald C. White Jr."}
+{"id": 2999, "name": "Darwyn Cooke"}
+{"id": 3000, "name": "Richard Henry Dana Jr."}
+{"id": 3001, "name": "Jann S. Wenner"}
+{"id": 3002, "name": "Jill Leovy"}
+{"id": 3003, "name": "Eric Hill"}
+{"id": 3004, "name": "Paul Galdone"}
+{"id": 3005, "name": "The Waiter"}
+{"id": 3006, "name": "Thomas Piketty"}
+{"id": 3007, "name": "Esther Forbes"}
+{"id": 3008, "name": "Georg Wilhelm Friedrich Hegel"}
+{"id": 3009, "name": "William  Davis"}
+{"id": 3010, "name": "Chris Ware"}
+{"id": 3011, "name": "Alaa Al Aswany"}
+{"id": 3012, "name": "Ilsa J. Bick"}
+{"id": 3013, "name": "Melanie Rawn"}
+{"id": 3014, "name": "Beth Moore"}
+{"id": 3015, "name": "Scarlett Thomas"}
+{"id": 3016, "name": "Richard Flanagan"}
+{"id": 3017, "name": "Charles M. Schulz"}
+{"id": 3018, "name": "Pat Frank"}
+{"id": 3019, "name": "Loung Ung"}
+{"id": 3020, "name": "Rosalind Miles"}
+{"id": 3021, "name": "Tori Spelling"}
+{"id": 3022, "name": "Kylie Scott"}
+{"id": 3023, "name": "Tom Rachman"}
+{"id": 3024, "name": "\u0639\u0645\u0631\u0648 \u0633\u0644\u0627\u0645\u0629"}
+{"id": 3025, "name": "Jennifer Probst"}
+{"id": 3026, "name": "Colson Whitehead"}
+{"id": 3027, "name": "Al Ries"}
+{"id": 3028, "name": "Dan Chaon"}
+{"id": 3029, "name": "Jennifer Chiaverini"}
+{"id": 3030, "name": "Cheryl Rainfield"}
+{"id": 3031, "name": "Daniel Kahneman"}
+{"id": 3032, "name": "Sara Raasch"}
+{"id": 3033, "name": "Yuu Watase"}
+{"id": 3034, "name": "Sarah Andersen"}
+{"id": 3035, "name": "Steven  Rowley"}
+{"id": 3036, "name": "Robison Wells"}
+{"id": 3037, "name": "Abraham Verghese"}
+{"id": 3038, "name": "Erlend Loe"}
+{"id": 3039, "name": "Hans Fallada"}
+{"id": 3040, "name": "James Grady"}
+{"id": 3041, "name": "Robert James Waller"}
+{"id": 3042, "name": "Meg Wolitzer"}
+{"id": 3043, "name": "Richard Stearns"}
+{"id": 3044, "name": "Daniel Tammet"}
+{"id": 3045, "name": "Tom Peters"}
+{"id": 3046, "name": "David Bach"}
+{"id": 3047, "name": "Stephen Kendrick"}
+{"id": 3048, "name": "Sue Townsend"}
+{"id": 3049, "name": "Eleanor Coerr"}
+{"id": 3050, "name": "Sarah Pinborough"}
+{"id": 3051, "name": "Azar Nafisi"}
+{"id": 3052, "name": "Paula Hawkins"}
+{"id": 3053, "name": "Akira Toriyama"}
+{"id": 3054, "name": "\u062e\u0648\u0644\u0629 \u062d\u0645\u062f\u064a"}
+{"id": 3055, "name": "Arkady Strugatsky"}
+{"id": 3056, "name": "Sarah Ockler"}
+{"id": 3057, "name": "Philip G. Zimbardo"}
+{"id": 3058, "name": "Amy Efaw"}
+{"id": 3059, "name": "S.C. Gwynne"}
+{"id": 3060, "name": "Nic Pizzolatto"}
+{"id": 3061, "name": "Walter Mosley"}
+{"id": 3062, "name": "Amy Ewing"}
+{"id": 3063, "name": "Muriel Spark"}
+{"id": 3064, "name": "Tony Hsieh"}
+{"id": 3065, "name": "Chuck Dixon"}
+{"id": 3066, "name": "Julie Buxbaum"}
+{"id": 3067, "name": "Arthur Ransome"}
+{"id": 3068, "name": "Simon Kuper"}
+{"id": 3069, "name": "Iain Pears"}
+{"id": 3070, "name": "Graeme Simsion"}
+{"id": 3071, "name": "Kathryn Jackson"}
+{"id": 3072, "name": "Nancy Reagin"}
+{"id": 3073, "name": "Phyllis Reynolds Naylor"}
+{"id": 3074, "name": "Diana L. Paxson"}
+{"id": 3075, "name": "Mary Pipher"}
+{"id": 3076, "name": "Steve Hockensmith"}
+{"id": 3077, "name": "David Wroblewski"}
+{"id": 3078, "name": "Dale Carnegie"}
+{"id": 3079, "name": "Moli\u00e8re"}
+{"id": 3080, "name": "Lawrence M. Krauss"}
+{"id": 3081, "name": "Johann David Wyss"}
+{"id": 3082, "name": "Garth Stein"}
+{"id": 3083, "name": "Noah Gordon"}
+{"id": 3084, "name": "Spencer Johnson"}
+{"id": 3085, "name": "Christina Schwarz"}
+{"id": 3086, "name": "Eric    Weiner"}
+{"id": 3087, "name": "Lissa Price"}
+{"id": 3088, "name": "Edwin A. Abbott"}
+{"id": 3089, "name": "Mark Z. Danielewski"}
+{"id": 3090, "name": "Colin Meloy"}
+{"id": 3091, "name": "M.J. Arlidge"}
+{"id": 3092, "name": "Alan Weisman"}
+{"id": 3093, "name": "Robert Morgan"}
+{"id": 3094, "name": "Howard Pyle"}
+{"id": 3095, "name": "Jacob Tomsky"}
+{"id": 3096, "name": "Ellis Peters"}
+{"id": 3097, "name": "Tom Brokaw"}
+{"id": 3098, "name": "Fareed Zakaria"}
+{"id": 3099, "name": "Jeffrey Brown"}
+{"id": 3100, "name": "Georgia Byng"}
+{"id": 3101, "name": "Ilya Ilf"}
+{"id": 3102, "name": "Susan Mallery"}
+{"id": 3103, "name": "George W. Bush"}
+{"id": 3104, "name": "Kenneth Grahame"}
+{"id": 3105, "name": "Deborah Feldman"}
+{"id": 3106, "name": "Roxane Gay"}
+{"id": 3107, "name": "Dick Riley"}
+{"id": 3108, "name": "D.B.C. Pierre"}
+{"id": 3109, "name": "Ted Chiang"}
+{"id": 3110, "name": "Bernard Waber"}
+{"id": 3111, "name": "Kate Clifford Larson"}
+{"id": 3112, "name": "Ina May Gaskin"}
+{"id": 3113, "name": "Barbara Taylor Bradford"}
+{"id": 3114, "name": "Charles Harrison"}
+{"id": 3115, "name": "Dmitry Glukhovsky"}
+{"id": 3116, "name": "Kyle Idleman"}
+{"id": 3117, "name": "Rachel Gibson"}
+{"id": 3118, "name": "Phillip C. McGraw"}
+{"id": 3119, "name": "Radwa Ashour"}
+{"id": 3120, "name": "Neil deGrasse Tyson"}
+{"id": 3121, "name": "Adrian Conan Doyle"}
+{"id": 3122, "name": "Shakti Gawain"}
+{"id": 3123, "name": "Jessica Park"}
+{"id": 3124, "name": "Nadia Hashimi"}
+{"id": 3125, "name": "Natsumi Ando"}
+{"id": 3126, "name": "Tracy Letts"}
+{"id": 3127, "name": "Bette Greene"}
+{"id": 3128, "name": "Andre Norton"}
+{"id": 3129, "name": "Julie   Murphy"}
+{"id": 3130, "name": "Janne Teller"}
+{"id": 3131, "name": "Miyamoto Musashi"}
+{"id": 3132, "name": "Hanif Kureishi"}
+{"id": 3133, "name": "Pearl Cleage"}
+{"id": 3134, "name": "Robin Furth"}
+{"id": 3135, "name": "pleasefindthis"}
+{"id": 3136, "name": "Luke Rhinehart"}
+{"id": 3137, "name": "Ed Catmull"}
+{"id": 3138, "name": "Grady Hendrix"}
+{"id": 3139, "name": "Rebecca Stead"}
+{"id": 3140, "name": "Syd Hoff"}
+{"id": 3141, "name": "Chuck Wendig"}
+{"id": 3142, "name": "Charlie Jane Anders"}
+{"id": 3143, "name": "Daniel J. Levitin"}
+{"id": 3144, "name": "John Hart"}
+{"id": 3145, "name": "Jaci Burton"}
+{"id": 3146, "name": "Marcus Pfister"}
+{"id": 3147, "name": "Bruce Springsteen"}
+{"id": 3148, "name": "Nick Bruel"}
+{"id": 3149, "name": "Munro Leaf"}
+{"id": 3150, "name": "Joseph O'Neill"}
+{"id": 3151, "name": "Ken Grimwood"}
+{"id": 3152, "name": "Tim Burton"}
+{"id": 3153, "name": "Fred Gipson"}
+{"id": 3154, "name": "Alexandre Dumas fils"}
+{"id": 3155, "name": "\u0633\u0639\u0648\u062f \u0627\u0644\u0633\u0646\u0639\u0648\u0633\u064a"}
+{"id": 3156, "name": "Richard Koch"}
+{"id": 3157, "name": "Jill Shalvis"}
+{"id": 3158, "name": "Thomas Hobbes"}
+{"id": 3159, "name": "Sonia Sotomayor"}
+{"id": 3160, "name": "Rajaa Alsanea"}
+{"id": 3161, "name": "Abigail Haas"}
+{"id": 3162, "name": "Gene Stratton-Porter"}
+{"id": 3163, "name": "Marcella Hazan"}
+{"id": 3164, "name": "Jean Anouilh"}
+{"id": 3165, "name": "Amy Chua"}
+{"id": 3166, "name": "Vera Brosgol"}
+{"id": 3167, "name": "Solomon Northup"}
+{"id": 3168, "name": "Katsura Hoshino"}
+{"id": 3169, "name": "Marcus Aurelius"}
+{"id": 3170, "name": "W. Chan Kim"}
+{"id": 3171, "name": "Thomas Frank"}
+{"id": 3172, "name": "Jennifer Ashley"}
+{"id": 3173, "name": "Joe McGinniss"}
+{"id": 3174, "name": "Sabahattin Ali"}
+{"id": 3175, "name": "Rob Sheffield"}
+{"id": 3176, "name": "Harold Bloom"}
+{"id": 3177, "name": "Siobhan Vivian"}
+{"id": 3178, "name": "P.B. Kerr"}
+{"id": 3179, "name": "Dian Fossey"}
+{"id": 3180, "name": "Chris Colfer"}
+{"id": 3181, "name": "Kevin Stein"}
+{"id": 3182, "name": "Sara Novi\u0107"}
+{"id": 3183, "name": "Jonathan Kozol"}
+{"id": 3184, "name": "Eric Ries"}
+{"id": 3185, "name": "Anna Jean Mayhew"}
+{"id": 3186, "name": "Michael Teitelbaum"}
+{"id": 3187, "name": "Kate Alcott"}
+{"id": 3188, "name": "Carol Burnett"}
+{"id": 3189, "name": "Sylvain Neuvel"}
+{"id": 3190, "name": "Jenny O'Connell"}
+{"id": 3191, "name": "Rashmi Bansal"}
+{"id": 3192, "name": "John M. Gottman"}
+{"id": 3193, "name": "Ruth Wariner"}
+{"id": 3194, "name": "S.A.R.K."}
+{"id": 3195, "name": "Fiona Barton"}
+{"id": 3196, "name": "Tabitha Suzuma"}
+{"id": 3197, "name": "Jude Fisher"}
+{"id": 3198, "name": "William Steig"}
+{"id": 3199, "name": "Simon Sinek"}
+{"id": 3200, "name": "H.W. Janson"}
+{"id": 3201, "name": "Garr Reynolds"}
+{"id": 3202, "name": "Becky Albertalli"}
+{"id": 3203, "name": "Mac Barnett"}
+{"id": 3204, "name": "Cathy Hopkins"}
+{"id": 3205, "name": "Amanda Lindhout"}
+{"id": 3206, "name": "Stephen Jones"}
+{"id": 3207, "name": "Simon Garfield"}
+{"id": 3208, "name": "David  Perlmutter"}
+{"id": 3209, "name": "Allan Pease"}
+{"id": 3210, "name": "Marcus Buckingham"}
+{"id": 3211, "name": "James W. Loewen"}
+{"id": 3212, "name": "Audrey Penn"}
+{"id": 3213, "name": "Rodman Philbrick"}
+{"id": 3214, "name": "Mary O'Hara"}
+{"id": 3215, "name": "Markus Zusak"}
+{"id": 3216, "name": "Janice Y.K. Lee"}
+{"id": 3217, "name": "John Milton"}
+{"id": 3218, "name": "David Simon"}
+{"id": 3219, "name": "Maxwell Maltz"}
+{"id": 3220, "name": "S.A. Bodeen"}
+{"id": 3221, "name": "Sally Bedell Smith"}
+{"id": 3222, "name": "Glenn Beck"}
+{"id": 3223, "name": "Karen Armstrong"}
+{"id": 3224, "name": "Linda Williams"}
+{"id": 3225, "name": "Whitney G."}
+{"id": 3226, "name": "Michael Ende"}
+{"id": 3227, "name": "Stephanie Danler"}
+{"id": 3228, "name": "Alisa Valdes"}
+{"id": 3229, "name": "H.W. Brands"}
+{"id": 3230, "name": "Sarra Manning"}
+{"id": 3231, "name": "Eric Schlosser"}
+{"id": 3232, "name": "Linda Lafferty"}
+{"id": 3233, "name": "Marguerite Duras"}
+{"id": 3234, "name": "Ann McGovern"}
+{"id": 3235, "name": "William H. Armstrong"}
+{"id": 3236, "name": "Kristen Simmons"}
+{"id": 3237, "name": "Gary Brandner"}
+{"id": 3238, "name": "John Heilemann"}
+{"id": 3239, "name": "M.C. Beaton"}
+{"id": 3240, "name": "Roy F. Baumeister"}
+{"id": 3241, "name": "Ruth Cardello"}
+{"id": 3242, "name": "Dick Winters"}
+{"id": 3243, "name": "\u00c9ric-Emmanuel Schmitt"}
+{"id": 3244, "name": "Winston Graham"}
+{"id": 3245, "name": "Tamara Ireland Stone"}
+{"id": 3246, "name": "Chelsea M. Cameron"}
+{"id": 3247, "name": "Bryan Konietzko"}
+{"id": 3248, "name": "Kady Cross"}
+{"id": 3249, "name": "Walter Scott"}
+{"id": 3250, "name": "Brian Tracy"}
+{"id": 3251, "name": "Kimberly Brubaker Bradley"}
+{"id": 3252, "name": "Gina L. Maxwell"}
+{"id": 3253, "name": "Frank De Felitta"}
+{"id": 3254, "name": "Jenna Jameson"}
+{"id": 3255, "name": "Donny Dhirgantoro"}
+{"id": 3256, "name": "Patricia Harman"}
+{"id": 3257, "name": "Angela Flournoy"}
+{"id": 3258, "name": "Mircea Eliade"}
+{"id": 3259, "name": "Marshall McLuhan"}
+{"id": 3260, "name": "John Cheever"}
+{"id": 3261, "name": "Sui Ishida"}
+{"id": 3262, "name": "Jan-Philipp Sendker"}
+{"id": 3263, "name": "Dee Brown"}
+{"id": 3264, "name": "Lloyd Jones"}
+{"id": 3265, "name": "Daniel James Brown"}
+{"id": 3266, "name": "Samantha Young"}
+{"id": 3267, "name": "Margaret Wise Brown"}
+{"id": 3268, "name": "Michael Frayn"}
+{"id": 3269, "name": "Robert K. Massie"}
+{"id": 3270, "name": "K.A. Linde"}
+{"id": 3271, "name": "John  Stephens"}
+{"id": 3272, "name": "Molly Wizenberg"}
+{"id": 3273, "name": "Lindy West"}
+{"id": 3274, "name": "Howard Jacobson"}
+{"id": 3275, "name": "Victoria Jamieson"}
+{"id": 3276, "name": "Katie Cotugno"}
+{"id": 3277, "name": "Ben Okri"}
+{"id": 3278, "name": "Nathan Filer"}
+{"id": 3279, "name": "Joanna Cole"}
+{"id": 3280, "name": "Therese Anne Fowler"}
+{"id": 3281, "name": "Lucy Christopher"}
+{"id": 3282, "name": "Forrest Carter"}
+{"id": 3283, "name": "Barthe DeClements"}
+{"id": 3284, "name": "Simone de Beauvoir"}
+{"id": 3285, "name": "Steve Sheinkin"}
+{"id": 3286, "name": "Alton Brown"}
+{"id": 3287, "name": "Cathy Marie Buchanan"}
+{"id": 3288, "name": "Anne Fortier"}
+{"id": 3289, "name": "Louis-Ferdinand C\u00e9line"}
+{"id": 3290, "name": "Khushwant Singh"}
+{"id": 3291, "name": "Will Durant"}
+{"id": 3292, "name": "Gerald Durrell"}
+{"id": 3293, "name": "Vaddey Ratner"}
+{"id": 3294, "name": "John Steptoe"}
+{"id": 3295, "name": "Donna Woolfolk Cross"}
+{"id": 3296, "name": "James C. Collins"}
+{"id": 3297, "name": "Uwem Akpan"}
+{"id": 3298, "name": "J.I. Packer"}
+{"id": 3299, "name": "Raditya Dika"}
+{"id": 3300, "name": "Christopher McDougall"}
+{"id": 3301, "name": "Gwen Hayes"}
+{"id": 3302, "name": "David Sheff"}
+{"id": 3303, "name": "Grace Lin"}
+{"id": 3304, "name": "Isabel Wolff"}
+{"id": 3305, "name": "Jerry Pinkney"}
+{"id": 3306, "name": "Joel C. Rosenberg"}
+{"id": 3307, "name": "Juan Gabriel V\u00e1squez"}
+{"id": 3308, "name": "Joel Fuhrman"}
+{"id": 3309, "name": "T\u00e9a Obreht"}
+{"id": 3310, "name": "Trevor Noah"}
+{"id": 3311, "name": "Lawrence Hill"}
+{"id": 3312, "name": "Edith Hamilton"}
+{"id": 3313, "name": "Lauren Groff"}
+{"id": 3314, "name": "Martin Pistorius"}
+{"id": 3315, "name": "Arthur Nersesian"}
+{"id": 3316, "name": "Martin Heidegger"}
+{"id": 3317, "name": "Alice Schroeder"}
+{"id": 3318, "name": "Joanna Trollope"}
+{"id": 3319, "name": "Jonah Lehrer"}
+{"id": 3320, "name": "Alvin Schwartz"}
+{"id": 3321, "name": "Donald J. Trump"}
+{"id": 3322, "name": "Slash"}
+{"id": 3323, "name": "Susan Hill"}
+{"id": 3324, "name": "Brady Udall"}
+{"id": 3325, "name": "Mark    Adams"}
+{"id": 3326, "name": "Anne Byrn"}
+{"id": 3327, "name": "Len Deighton"}
+{"id": 3328, "name": "George Selden"}
+{"id": 3329, "name": "Jim Bouton"}
+{"id": 3330, "name": "J. Michael Straczynski"}
+{"id": 3331, "name": "Jon Kabat-Zinn"}
+{"id": 3332, "name": "Gilly Macmillan"}
+{"id": 3333, "name": "Cynthia Rylant"}
+{"id": 3334, "name": "Melissa M\u00fcller"}
+{"id": 3335, "name": "Jo Walton"}
+{"id": 3336, "name": "Mary Westmacott"}
+{"id": 3337, "name": "Lorenzo Carcaterra"}
+{"id": 3338, "name": "Franklin Foer"}
+{"id": 3339, "name": "John Ortberg"}
+{"id": 3340, "name": "Mary Norton"}
+{"id": 3341, "name": "Eliyahu M. Goldratt"}
+{"id": 3342, "name": "Kevin Malarkey"}
+{"id": 3343, "name": "Denis Leary"}
+{"id": 3344, "name": "Christiane Northrup"}
+{"id": 3345, "name": "Jonathan Cahn"}
+{"id": 3346, "name": "Lucy Sykes"}
+{"id": 3347, "name": "Maria Augusta von Trapp"}
+{"id": 3348, "name": "Kerry Patterson"}
+{"id": 3349, "name": "Euripides"}
+{"id": 3350, "name": "Alex Marwood"}
+{"id": 3351, "name": "Miranda Beverly-Whittemore"}
+{"id": 3352, "name": "Will Schwalbe"}
+{"id": 3353, "name": "Todd Burpo"}
+{"id": 3354, "name": "Robert Harling"}
+{"id": 3355, "name": "Gavin de Becker"}
+{"id": 3356, "name": "Leif Enger"}
+{"id": 3357, "name": "Janell Cannon"}
+{"id": 3358, "name": "Edan Lepucki"}
+{"id": 3359, "name": "Julie Klassen"}
+{"id": 3360, "name": "Mary Wollstonecraft Shelley"}
+{"id": 3361, "name": "Robert B. Cialdini"}
+{"id": 3362, "name": "Krishna-Dwaipayana Vyasa"}
+{"id": 3363, "name": "Robin Sloan"}
+{"id": 3364, "name": "Nicky Cruz"}
+{"id": 3365, "name": "Ned Vizzini"}
+{"id": 3366, "name": "Nick Offerman"}
+{"id": 3367, "name": "Katsuhiro Otomo"}
+{"id": 3368, "name": "Megan Shepherd"}
+{"id": 3369, "name": "Morris Gleitzman"}
+{"id": 3370, "name": "Dave Cullen"}
+{"id": 3371, "name": "Roger Fisher"}
+{"id": 3372, "name": "John Steakley"}
+{"id": 3373, "name": "John Grogan"}
+{"id": 3374, "name": "Marcus Sakey"}
+{"id": 3375, "name": "Helen Macdonald"}
+{"id": 3376, "name": "Li Cunxin"}
+{"id": 3377, "name": "Jacquelyn Frank"}
+{"id": 3378, "name": "Beverly  Lewis"}
+{"id": 3379, "name": "Lurlene McDaniel"}
+{"id": 3380, "name": "Paulo Freire"}
+{"id": 3381, "name": "Bob Ong"}
+{"id": 3382, "name": "Jim Krueger"}
+{"id": 3383, "name": "Jerome Lawrence"}
+{"id": 3384, "name": "Nancy E. Turner"}
+{"id": 3385, "name": "Jason Mott"}
+{"id": 3386, "name": "Greg Behrendt"}
+{"id": 3387, "name": "Katherine Addison"}
+{"id": 3388, "name": "Doris Lessing"}
+{"id": 3389, "name": "Sandy   Hall"}
+{"id": 3390, "name": "Nicholas D. Kristof"}
+{"id": 3391, "name": "Peter H. Reynolds"}
+{"id": 3392, "name": "Tommy Lee"}
+{"id": 3393, "name": "Lucy Knisley"}
+{"id": 3394, "name": "M.M. Kaye"}
+{"id": 3395, "name": "James Surowiecki"}
+{"id": 3396, "name": "Amanda Coplin"}
+{"id": 3397, "name": "Django Wexler"}
+{"id": 3398, "name": "Erika Swyler"}
+{"id": 3399, "name": "Tan Twan Eng"}
+{"id": 3400, "name": "Patricia Polacco"}
+{"id": 3401, "name": "Lauren Barnholdt"}
+{"id": 3402, "name": "Alexandra Fuller"}
+{"id": 3403, "name": "Hillary Jordan"}
+{"id": 3404, "name": "Courtney Milan"}
+{"id": 3405, "name": "Judith Krantz"}
+{"id": 3406, "name": "Rick Warren"}
+{"id": 3407, "name": "Cynthia J. McGean"}
+{"id": 3408, "name": "Jana Deleon"}
+{"id": 3409, "name": "Gemma Halliday"}
+{"id": 3410, "name": "Mary Beth Chapman"}
+{"id": 3411, "name": "Flora Rheta Schreiber"}
+{"id": 3412, "name": "Lucy Grealy"}
+{"id": 3413, "name": "Nicholas Carr"}
+{"id": 3414, "name": "Thrity Umrigar"}
+{"id": 3415, "name": "Jocelyn Davies"}
+{"id": 3416, "name": "Walker Percy"}
+{"id": 3417, "name": "Nikki Sixx"}
+{"id": 3418, "name": "Cynthia Kadohata"}
+{"id": 3419, "name": "Marcia Brown"}
+{"id": 3420, "name": "Ayaan Hirsi Ali"}
+{"id": 3421, "name": "Rachel Dratch"}
+{"id": 3422, "name": "Suketu Mehta"}
+{"id": 3423, "name": "Suzanne Rindell"}
+{"id": 3424, "name": "Katherine Hannigan"}
+{"id": 3425, "name": "Malika Oufkir"}
+{"id": 3426, "name": "Mark Owen"}
+{"id": 3427, "name": "Harold G. Moore"}
+{"id": 3428, "name": "Anna Maxted"}
+{"id": 3429, "name": "Bryce Courtenay"}
+{"id": 3430, "name": "Jodi Lynn Anderson"}
+{"id": 3431, "name": "Edward Eager"}
+{"id": 3432, "name": "Og Mandino"}
+{"id": 3433, "name": "Marc Weissbluth"}
+{"id": 3434, "name": "Jess Rothenberg"}
+{"id": 3435, "name": "Michael Herr"}
+{"id": 3436, "name": "Akira Amano"}
+{"id": 3437, "name": "Joan Aiken"}
+{"id": 3438, "name": "Jason Fried"}
+{"id": 3439, "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u063a\u0644\u0648\u062b"}
+{"id": 3440, "name": "Jill Mansell"}
+{"id": 3441, "name": "Jessica Seinfeld"}
+{"id": 3442, "name": "Ed Brubaker"}
+{"id": 3443, "name": "Monica  Murphy"}
+{"id": 3444, "name": "William Kamkwamba"}
+{"id": 3445, "name": "Yuna Kagesaki"}
+{"id": 3446, "name": "Jean Craighead George"}
+{"id": 3447, "name": "Heinrich Harrer"}
+{"id": 3448, "name": "David Starkey"}
+{"id": 3449, "name": "John Elder Robison"}
+{"id": 3450, "name": "Carol S. Dweck"}
+{"id": 3451, "name": "Spencer Quinn"}
+{"id": 3452, "name": "Ruud van der Rol"}
+{"id": 3453, "name": "Michael Shaara"}
+{"id": 3454, "name": "Madeline Miller"}
+{"id": 3455, "name": "David Byrne"}
+{"id": 3456, "name": "Anne Morrow Lindbergh"}
+{"id": 3457, "name": "Benjamin Alire S\u00e1enz"}
+{"id": 3458, "name": "Nicky Charles"}
+{"id": 3459, "name": "M. Scott Peck"}
+{"id": 3460, "name": "Jackie Collins"}
+{"id": 3461, "name": "G.P. Ching"}
+{"id": 3462, "name": "Sophia Amoruso"}
+{"id": 3463, "name": "Leah Remini"}
+{"id": 3464, "name": "Mar\u00eda Due\u00f1as"}
+{"id": 3465, "name": "Naomi Wolf"}
+{"id": 3466, "name": "Leslye Walton"}
+{"id": 3467, "name": "Nicci French"}
+{"id": 3468, "name": "Joseph Fink"}
+{"id": 3469, "name": "Sarah McCoy"}
+{"id": 3470, "name": "Stefan Zweig"}
+{"id": 3471, "name": "Olive Ann Burns"}
+{"id": 3472, "name": "Adam Smith"}
+{"id": 3473, "name": "Beth Fantaskey"}
+{"id": 3474, "name": "Rhoda Janzen"}
+{"id": 3475, "name": "Michael Blake"}
+{"id": 3476, "name": "Jim Loehr"}
+{"id": 3477, "name": "Carolyn Mackler"}
+{"id": 3478, "name": "Ashwin Sanghi"}
+{"id": 3479, "name": "Sarah Thornton"}
+{"id": 3480, "name": "Spencer W. Kimball"}
+{"id": 3481, "name": "Victoria Hislop"}
+{"id": 3482, "name": "E.L. Doctorow"}
+{"id": 3483, "name": "Catherine Gilbert Murdock"}
+{"id": 3484, "name": "Barbara Robinson"}
+{"id": 3485, "name": "Robert Henri"}
+{"id": 3486, "name": "Jessica Anthony"}
+{"id": 3487, "name": "James Lincoln Collier"}
+{"id": 3488, "name": "Wallace D. Wattles"}
+{"id": 3489, "name": "Helene Wecker"}
+{"id": 3490, "name": "Maria Dahvana Headley"}
+{"id": 3491, "name": "Kimberly Rae Miller"}
+{"id": 3492, "name": "Confucius"}
+{"id": 3493, "name": "Tiffany Reisz"}
+{"id": 3494, "name": "Thomas A. Harris"}
+{"id": 3495, "name": "Jenna Miscavige Hill"}
+{"id": 3496, "name": "Liz Moore"}
+{"id": 3497, "name": "Jenny  Lawson"}
+{"id": 3498, "name": "Andrea Levy"}
+{"id": 3499, "name": "Steve Martini"}
+{"id": 3500, "name": "Mark Helprin"}
+{"id": 3501, "name": "Susan Sontag"}
+{"id": 3502, "name": "Elmore Leonard"}
+{"id": 3503, "name": "\u062e\u0627\u0644\u062f \u0627\u0644\u0628\u0627\u062a\u0644\u064a"}
+{"id": 3504, "name": "Esther Earl"}
+{"id": 3505, "name": "Eve Ensler"}
+{"id": 3506, "name": "Drew Daywalt"}
+{"id": 3507, "name": "Nevada Barr"}
+{"id": 3508, "name": "Emily St. John Mandel"}
+{"id": 3509, "name": "Robert Lynn Asprin"}
+{"id": 3510, "name": "Bill Finger"}
+{"id": 3511, "name": "Oswald Chambers"}
+{"id": 3512, "name": "Scott Cunningham"}
+{"id": 3513, "name": "Ha Jin"}
+{"id": 3514, "name": "Lawrence Ferlinghetti"}
+{"id": 3515, "name": "Kentaro Miura"}
+{"id": 3516, "name": "Richard Yates"}
+{"id": 3517, "name": "Michelle Paver"}
+{"id": 3518, "name": "Nina George"}
+{"id": 3519, "name": "Judi Barrett"}
+{"id": 3520, "name": "Katie Klein"}
+{"id": 3521, "name": "Kerrelyn Sparks"}
+{"id": 3522, "name": "Adam Gidwitz"}
+{"id": 3523, "name": "Jacquelyn Mitchard"}
+{"id": 3524, "name": "Jacqueline Susann"}
+{"id": 3525, "name": "Ramit Sethi"}
+{"id": 3526, "name": "Jodi Meadows"}
+{"id": 3527, "name": "Andrea Cremer"}
+{"id": 3528, "name": "Richard Paige"}
+{"id": 3529, "name": "David Farland"}
+{"id": 3530, "name": "Shiv Khera"}
+{"id": 3531, "name": "Michael Thomas Ford"}
+{"id": 3532, "name": "A.P.J. Abdul Kalam"}
+{"id": 3533, "name": "Bret Lott"}
+{"id": 3534, "name": "Seanan McGuire"}
+{"id": 3535, "name": "Gemma Burgess"}
+{"id": 3536, "name": "Carlos Fuentes"}
+{"id": 3537, "name": "Laura C. Schlessinger"}
+{"id": 3538, "name": "Monica Ali"}
+{"id": 3539, "name": "Richard Brautigan"}
+{"id": 3540, "name": "Robert Goolrick"}
+{"id": 3541, "name": "Brunonia Barry"}
+{"id": 3542, "name": "Kathleen Kent"}
+{"id": 3543, "name": "Carl R. Rogers"}
+{"id": 3544, "name": "Catherine Hardwicke"}
+{"id": 3545, "name": "John Brunner"}
+{"id": 3546, "name": "Betty White"}
+{"id": 3547, "name": "Vera B. Williams"}
+{"id": 3548, "name": "Phaidon Press"}
+{"id": 3549, "name": "Meca Tanaka"}
+{"id": 3550, "name": "Neil Shubin"}
+{"id": 3551, "name": "Andre Dubus III"}
+{"id": 3552, "name": "Vikram Seth"}
+{"id": 3553, "name": "Rolf Dobelli"}
+{"id": 3554, "name": "Bill Dedman"}
+{"id": 3555, "name": "Carol Lynch Williams"}
+{"id": 3556, "name": "Patty Lovell"}
+{"id": 3557, "name": "Jordan Sonnenblick"}
+{"id": 3558, "name": "Kim Karr"}
+{"id": 3559, "name": "Alan Hollinghurst"}
+{"id": 3560, "name": "Sister Souljah"}
+{"id": 3561, "name": "Kiyohiko Azuma"}
+{"id": 3562, "name": "Thor Heyerdahl"}
+{"id": 3563, "name": "Lambert M. Surhone"}
+{"id": 3564, "name": "Donna Russo Morin"}
+{"id": 3565, "name": "Lance Armstrong"}
+{"id": 3566, "name": "Jessi Klein"}
+{"id": 3567, "name": "Norman Doidge"}
+{"id": 3568, "name": "Ben Sherwood"}
+{"id": 3569, "name": "Henryk Sienkiewicz"}
+{"id": 3570, "name": "Isak Dinesen"}
+{"id": 3571, "name": "Anderson Cooper"}
+{"id": 3572, "name": "Geoffrey Crayon"}
+{"id": 3573, "name": "Bryan J.L. Glass"}
+{"id": 3574, "name": "James Dickey"}
+{"id": 3575, "name": "Susan Crandall"}
+{"id": 3576, "name": "Clare Mackintosh"}
+{"id": 3577, "name": "Tim Harford"}
+{"id": 3578, "name": "Ben Fountain"}
+{"id": 3579, "name": "Edwidge Danticat"}
+{"id": 3580, "name": "David Guterson"}
+{"id": 3581, "name": "Emmuska Orczy"}
+{"id": 3582, "name": "Allison Pearson"}
+{"id": 3583, "name": "Joanna Weaver"}
+{"id": 3584, "name": "Philip Gourevitch"}
+{"id": 3585, "name": "Nujood Ali"}
+{"id": 3586, "name": "Anita Brookner"}
+{"id": 3587, "name": "Laura  McBride"}
+{"id": 3588, "name": "John Ajvide Lindqvist"}
+{"id": 3589, "name": "Elaine N. Aron"}
+{"id": 3590, "name": "Elly Griffiths"}
+{"id": 3591, "name": "Isabel Wilkerson"}
+{"id": 3592, "name": "Sh\u016bsaku End\u014d"}
+{"id": 3593, "name": "Mark  Edwards"}
+{"id": 3594, "name": "Katie MacAlister"}
+{"id": 3595, "name": "Pierre-Ambroise Choderlos de Laclos"}
+{"id": 3596, "name": "Masha"}
+{"id": 3597, "name": "Eric Jerome Dickey"}
+{"id": 3598, "name": "Jane Carruth"}
+{"id": 3599, "name": "John Corey Whaley"}
+{"id": 3600, "name": "Felix Salten"}
+{"id": 3601, "name": "John Banville"}
+{"id": 3602, "name": "Julee Rosso"}
+{"id": 3603, "name": "Stephanie Dray"}
+{"id": 3604, "name": "Tim Tebow"}
+{"id": 3605, "name": "W.P. Kinsella"}
+{"id": 3606, "name": "Daniel Todd Gilbert"}
+{"id": 3607, "name": "Elizabeth   Hunter"}
+{"id": 3608, "name": "Caroline Knapp"}
+{"id": 3609, "name": "Robert Descharnes"}
+{"id": 3610, "name": "Holly Madison"}
+{"id": 3611, "name": "Andy Weir"}
+{"id": 3612, "name": "Helen Gardner"}
+{"id": 3613, "name": "Scott Sigler"}
+{"id": 3614, "name": "Thomas E. Sniegoski"}
+{"id": 3615, "name": "Laurence Sterne"}
+{"id": 3616, "name": "Elizabeth Norris"}
+{"id": 3617, "name": "Rebecca Donovan"}
+{"id": 3618, "name": "Paul  Hoffman"}
+{"id": 3619, "name": "Thomas Cahill"}
+{"id": 3620, "name": "B.A. Paris"}
+{"id": 3621, "name": "John Kennedy Toole"}
+{"id": 3622, "name": "Alex   Sanchez"}
+{"id": 3623, "name": "Stephen Hunter"}
+{"id": 3624, "name": "Diablo Cody"}
+{"id": 3625, "name": "David J. Schwartz"}
+{"id": 3626, "name": "Walter M. Miller Jr."}
+{"id": 3627, "name": "John Hodgman"}
+{"id": 3628, "name": "Antoine de Saint-Exup\u00e9ry"}
+{"id": 3629, "name": "Steve Coll"}
+{"id": 3630, "name": "Michael E. Gerber"}
+{"id": 3631, "name": "Alan Paton"}
+{"id": 3632, "name": "Dean Hughes"}
+{"id": 3633, "name": "Henry Marsh"}
+{"id": 3634, "name": "Melissa Landers"}
+{"id": 3635, "name": "Jack Ketchum"}
+{"id": 3636, "name": "Chinua Achebe"}
+{"id": 3637, "name": "Eleanor Catton"}
+{"id": 3638, "name": "John P. Kotter"}
+{"id": 3639, "name": "Dan Abnett"}
+{"id": 3640, "name": "Newt Scamander"}
+{"id": 3641, "name": "Andrea Kettenmann"}
+{"id": 3642, "name": "Kurtis J. Wiebe"}
+{"id": 3643, "name": "Rory Stewart"}
+{"id": 3644, "name": "Noah Hawley"}
+{"id": 3645, "name": "Steven Tyler"}
+{"id": 3646, "name": "William March"}
+{"id": 3647, "name": "Aimee Bender"}
+{"id": 3648, "name": "Peter H\u00f8eg"}
+{"id": 3649, "name": "Jacqueline Davies"}
+{"id": 3650, "name": "John Searles"}
+{"id": 3651, "name": "Michael D. Watkins"}
+{"id": 3652, "name": "Bram Stoker"}
+{"id": 3653, "name": "John Boyne"}
+{"id": 3654, "name": "Andrew Loomis"}
+{"id": 3655, "name": "Maggie Nelson"}
+{"id": 3656, "name": "Susan  Jeffers"}
+{"id": 3657, "name": "Gregg Hurwitz"}
+{"id": 3658, "name": "Giuseppe Tomasi di Lampedusa"}
+{"id": 3659, "name": "Sheila Turnage"}
+{"id": 3660, "name": "Shauna Niequist"}
+{"id": 3661, "name": "The Harvard Lampoon"}
+{"id": 3662, "name": "Roland Merullo"}
+{"id": 3663, "name": "N.H. Kleinbaum"}
+{"id": 3664, "name": "Knut Hamsun"}
+{"id": 3665, "name": "Irin Carmon"}
+{"id": 3666, "name": "Norman Maclean"}
+{"id": 3667, "name": "Paula H. Deen"}
+{"id": 3668, "name": "Catherine Ryan Hyde"}
+{"id": 3669, "name": "Nickolas Butler"}
+{"id": 3670, "name": "Teri Terry"}
+{"id": 3671, "name": "Mordicai Gerstein"}
+{"id": 3672, "name": "Alwyn Hamilton"}
+{"id": 3673, "name": "Niccol\u00f2 Machiavelli"}
+{"id": 3674, "name": "Charles M. Sheldon"}
+{"id": 3675, "name": "Amy Gentry"}
+{"id": 3676, "name": "Bill Buford"}
+{"id": 3677, "name": "Fran\u00e7oise Sagan"}
+{"id": 3678, "name": "Ben Mikaelsen"}
+{"id": 3679, "name": "Indu Sundaresan"}
+{"id": 3680, "name": "Cynthia Lord"}
+{"id": 3681, "name": "Helen Hooven Santmyer"}
+{"id": 3682, "name": "Randy Susan Meyers"}
+{"id": 3683, "name": "Jeff Wheeler"}
+{"id": 3684, "name": "Sherwood Smith"}
+{"id": 3685, "name": "William P\u00e8ne du Bois"}
+{"id": 3686, "name": "Lauren Henderson"}
+{"id": 3687, "name": "Julie Powell"}
+{"id": 3688, "name": "Tim Hamilton"}
+{"id": 3689, "name": "Lauren Myracle"}
+{"id": 3690, "name": "Richard A. Knaak"}
+{"id": 3691, "name": "Tom Sniegoski"}
+{"id": 3692, "name": "Robert Shea"}
+{"id": 3693, "name": "Misty Bernall"}
+{"id": 3694, "name": "H.G. Bissinger"}
+{"id": 3695, "name": "Howard Schultz"}
