@@ -1,6 +1,8 @@
 {
     "multi_match": {
         "query": "{{q}}",
-        "fields": ["title^3", "description", "author_searchable^2"]
+        "fields": ["title^3", "description", "author_searchable^2"],
+        "type": "most_fields",
+        "fuzziness": "AUTO"
     }
 }

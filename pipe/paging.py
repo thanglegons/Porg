@@ -2,7 +2,7 @@ class Paging(object):
 
     def __init__(self, container):
         self.container = container
-        self.item_per_page = 5
+        self.item_per_page = 20
 
     def process(self):
         if self.container['pretty_result']['success'] == 0:

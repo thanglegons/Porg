@@ -1,21 +1,45 @@
-from elasticsearch import Elasticsearch
-import json
+from time import sleep
 
-from flask import jsonify
+from cache.LRU_cache import LRUCache
 
-from pipe.build_query_pipe import *
+cache = LRUCache(5, 10)
 
-print(build_function())
+cache.insert_item({5: 1}, 7)
+cache.insert_item({6: 2}, 8)
+cache.insert_item({1: 2}, 9)
+cache.insert_item({5: 2}, 10)
+cache.insert_item({12: 2}, 11)
 
-params = {'q': 'star wars'}
-container = {'params': params}
-b = BuildQuery(container)
 
-body = b.process()
-body = json.loads(body)
+def print_cache(cache):
+    tail = cache.tail
+    head = cache.head
+    while tail is not head:
+        print(tail.value)
+        tail = tail.nxt
+    if head is not None:
+        print(head.value)
 
-es = Elasticsearch([{'host': 'localhost', 'port': 9200}])
 
-res = es.search(index="prod_books_3", body=json.loads(body))
+def print_cache_rev(cache):
+    tail = cache.tail
+    head = cache.head
+    while tail is not head:
+        print(head.value)
+        head = head.prev
+    if tail is not None:
+        print(tail.value)
 
-print(jsonify(res))
+
+print_cache(cache)
+print('------')
+# print_cache_rev(cache)
+cache.insert_item({13: 2}, 13)
+cache.insert_item({13: 5}, 15)
+# print(cache.get_item({5: 1}).value)
+# cache.get_item({})
+print('------')
+cache.get_item({5: 2})
+print_cache(cache)
+print('------')
+# print_cache_rev(cache)

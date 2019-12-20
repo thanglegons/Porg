@@ -28,7 +28,7 @@ def simple_search():
     # res = ESGateway.es.search(index="prod_books_3", body=body)
     # # print(type(res))
     container = SearchPipe(params).process()
-    print(container)
+    # print(container)
     return container['pretty_result']
 
 
