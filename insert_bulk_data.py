@@ -23,6 +23,8 @@ for author_data in authors_data:
     data = json.loads(author_data)
     id_to_author[data['id']] = data['name']
 
+count = 0
+
 for book_data in books_data:
     es_query_body = {}
     to_json = json.loads(book_data)
@@ -36,5 +38,9 @@ for book_data in books_data:
     es_query_body['author_searchable'] = id_to_author[to_json['author_id']]
     es_query_body['lenders_number'] = 0
     _id = int(to_json['isbn13'])
+    count += 1
 
-    result = es.index(index='prod_books_4', doc_type='title', id=_id, body=es_query_body)
+    if count % 100 == 0:
+        print(count, "loaded")
+
+    result = es.index(index='prod_books_5', doc_type='title', id=_id, body=es_query_body)
