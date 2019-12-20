@@ -42,7 +42,7 @@ class BuildQuery(object):
         build_dict.update({"size": 1000})
         build_dict.update(build_sort())
         build_dict.update(build_aggs(self.params))
-        full_query_path = './template/full_query.mustache'
+        full_query_path = './search/template/full_query.mustache'
         result = self.renderer.render_path(full_query_path, build_dict)
         result = result.replace('&quot;', '"')
         result = result.replace('&#x27;', '\'')
@@ -56,14 +56,13 @@ class BuildQuery(object):
             q = params["q"]
             if "search_filter" in params.keys():
                 q_filter = params["search_filter"]
-                all_queries.append(self.renderer.render_path('./template/query/query_filter.mustache',
+                all_queries.append(self.renderer.render_path('./search/template/query/query_filter.mustache',
                                                              {"field": q_filter, "q": q}))
             else:
-                all_queries.append(self.renderer.render_path('./template/query/query_all.mustache',
-                                                         {"q": q}))
+                all_queries.append(self.renderer.render_path('./search/template/query/query_all.mustache',
+                                                             {"q": q}))
         if "category" in params.keys():
             q_category = params["category"]
-            all_queries.append(self.renderer.render_path('./template/query/query_category.mustache',
+            all_queries.append(self.renderer.render_path('./search/template/query/query_category.mustache',
                                                          {"category_id": q_category}))
-
         return {"queries": ','.join(all_queries)}

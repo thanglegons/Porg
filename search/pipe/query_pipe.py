@@ -1,4 +1,4 @@
-from gateway.es_gateway import ESGateway
+from search.gateway.es_gateway import ESGateway
 
 
 class Query(object):

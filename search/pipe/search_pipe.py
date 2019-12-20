@@ -1,9 +1,9 @@
 import copy
 
-from pipe.build_query_pipe import BuildQuery
-from pipe.query_pipe import Query
-from pipe.transform import Transform
-from pipe.paging import Paging
+from search.pipe.build_query_pipe import BuildQuery
+from search.pipe.query_pipe import Query
+from search.pipe.transform import Transform
+from search.pipe.paging import Paging
 from cache.search_cache import SearchCache
 from datetime import datetime
 
