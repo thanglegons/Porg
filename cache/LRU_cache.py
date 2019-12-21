@@ -91,7 +91,7 @@ class LRUCache(object):
         while len(self.current_cache) > 1:
             cur_tail = self.tail
             cur_tail_key = cur_tail.key
-            if (datetime.now() - cur_tail.time).seconds > LRUCache.MAX_ITEMS_IN_CACHE:
+            if (datetime.now() - cur_tail.time).seconds > LRUCache.MAX_TIME_IN_CACHE:
                 nxt_tail = cur_tail.nxt
                 nxt_tail.set_prev(None)
                 self.tail = nxt_tail

@@ -9,6 +9,7 @@ class RecommenderSystem(object):
 
     def __init__(self, params):
         self.params = params
+        self.cache = RecommendCache.cache
 
     @staticmethod
     def calculate_diff(hash1, hash2):
@@ -42,6 +43,10 @@ class RecommenderSystem(object):
         return transformed_data
 
     def process(self):
+        get_from_cache = copy.deepcopy(self.cache.get_item(self.params))
+        if get_from_cache is not None:
+            print('Get result from cache')
+            return get_from_cache
         if 'id' not in self.params:
             return helper.FAILED_MESSAGE
         if not helper.is_non_negative_integer(self.params['id']):
@@ -58,4 +63,6 @@ class RecommenderSystem(object):
 
         response = copy.deepcopy(helper.SUCCESS_MESSAGE)
         response['book_ids'] = RecommenderSystem.transform(RecommenderSystem.get_top_recommend(book_id, top))
+        # Cache response
+        self.cache.insert_item(self.params, copy.deepcopy(response))
         return response
