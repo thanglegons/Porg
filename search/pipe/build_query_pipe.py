@@ -3,7 +3,7 @@ import pystache
 
 def build_function():
     prefer_high_lender = """
-    "source": "Math.log(2 + (doc['lenders_number'].value + 1) * (doc['average_rating'].value))"
+    "source": "Math.log(2 + (1000000 * doc['lenders_number'].value + 1) * (2 * doc['average_rating'].value))"
     """
     return {"function": prefer_high_lender}
 

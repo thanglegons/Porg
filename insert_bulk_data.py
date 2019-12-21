@@ -10,8 +10,8 @@ app = Flask(__name__)
 userful_names = ['description', 'title', 'average_rating', 'author_id', 'categories', 'isbn13', 'original_publication_year']
 additional_names = ['author_searchable', 'lenders_number']
 
-books_data_path = 'search/data/books13.json'
-author_data_path = 'search/data/authors.json'
+books_data_path = 'data/books13.json'
+author_data_path = 'data/authors.json'
 
 books_data = open(books_data_path, 'r').readlines()
 authors_data = open(author_data_path, 'r').readlines()

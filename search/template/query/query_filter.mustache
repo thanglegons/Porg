@@ -1,5 +1,8 @@
 {
-    "match_phrase": {
-        "{{field}}" : "{{q}}"
+    "match": {
+        "{{field}}" : {
+            "query": "{{q}}",
+            "fuzziness": "AUTO"
+        }
     }
 }
