@@ -1,7 +1,7 @@
 # Project Porg
 
 A **porg** is a tiny creature that appears in Star Wars movie.
-![enter image description here](https://static1.srcdn.com/wordpress/wp-content/uploads/2019/11/Star-Wars-Last-Jedi-Porg-Terbus.jpg)
+![enter image description here](https://jedibusiness.com/images/actionFigures/Disney-Elite-Series-Die-Cast/Porg-2_Big_6.jpg)
 # Description
 
 This project contains: **Search engine** and **Recommender System** used for Book rental website ([FRONT-END](https://github.com/truongdo619/UET_BookRentalLibrary) , [BACK-END](https://github.com/dhphong/UET_BookRentalLibrary_Backend)) 
