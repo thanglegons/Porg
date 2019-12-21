@@ -3,6 +3,7 @@ import copy
 from cache.recommend_cache import RecommendCache
 import helper.helper as helper
 import recommend.prepare_data as recommend_data
+import numpy as np
 
 
 class RecommenderSystem(object):
@@ -13,9 +14,9 @@ class RecommenderSystem(object):
 
     @staticmethod
     def calculate_diff(hash1, hash2):
-        num_diff = 0
+        num_diff = 0.0
         for i in range(len(hash1)):
-            num_diff += (hash1[i] != hash2[i])
+            num_diff += float(hash1[i] != hash2[i]) * recommend_data.random_weight[i]
         return num_diff
 
     @staticmethod
@@ -26,8 +27,12 @@ class RecommenderSystem(object):
             if isbn13 == book_isbn:
                 continue
             num_diff = RecommenderSystem.calculate_diff(book_hash, hash_feature)
+            num_diff = num_diff + np.random.rand() / 2.0
             if recommend_data.book_data[isbn13]['author_id'] == recommend_data.book_data[book_isbn]['author_id']:
                 num_diff -= 3
+            if recommend_data.book_data[book_isbn][
+                'image_url'] == 'https://s.gr-assets.com/assets/nophoto/book/111x148-bcc042a9c91a29c1d680899eff700a03.png':
+                num_diff += 1000
             result.append([num_diff, recommend_data.book_data[book_isbn]['title'], book_isbn,
                            recommend_data.book_data[book_isbn]['image_url']])
         result = sorted(result)
@@ -43,6 +48,7 @@ class RecommenderSystem(object):
         return transformed_data
 
     def process(self):
+        recommend_data.change_random_weight_time_by_time()
         get_from_cache = copy.deepcopy(self.cache.get_item(self.params))
         if get_from_cache is not None:
             print('Get result from cache')

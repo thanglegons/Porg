@@ -1,10 +1,11 @@
 import json
 
 import numpy as np
+from datetime import datetime
 
 books_data_path = './data/books13.json'
 num_cat = 38
-num_random_vec = 25
+num_random_vec = 38
 
 
 def feature_transform(vec):
@@ -51,6 +52,16 @@ def generate_hash_table():
     return _book_hash
 
 
+def change_random_weight_time_by_time():
+    current_time = datetime.now()
+    if (current_time - last_time_changed).seconds > MAX_TIME_RANDOM:
+        global random_weight
+        random_weight = np.random.rand(num_random_vec)
+
+
+MAX_TIME_RANDOM = 10 * 60
+last_time_changed = datetime.now()
+random_weight = np.random.rand(num_random_vec)
 max_book, book_feature, book_data = load_feature_vector()
 random_vec = load_random_vec()
 book_hash = generate_hash_table()
