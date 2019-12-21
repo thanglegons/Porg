@@ -28,7 +28,8 @@ class Transform(object):
                 'average_rating': 'rating',
                 'lenders_number': 'lenders',
                 'title': 'title',
-                'original_publication_year': 'public_year'
+                'original_publication_year': 'public_year',
+                'image_url': 'image_url'
             }
             pretty_data = []
             data['data'] = pretty_data

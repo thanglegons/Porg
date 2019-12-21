@@ -7,7 +7,8 @@ print(es)
 
 app = Flask(__name__)
 
-userful_names = ['description', 'title', 'average_rating', 'author_id', 'categories', 'isbn13', 'original_publication_year']
+userful_names = ['image_url', 'description', 'title', 'average_rating', 'author_id', 'categories', 'isbn13',
+                 'original_publication_year']
 additional_names = ['author_searchable', 'lenders_number']
 
 books_data_path = 'data/books13.json'
@@ -43,4 +44,4 @@ for book_data in books_data:
     if count % 100 == 0:
         print(count, "loaded")
 
-    result = es.index(index='prod_books_5', doc_type='title', id=_id, body=es_query_body)
+    result = es.index(index=ESGateway.es_index, doc_type='title', id=_id, body=es_query_body)
