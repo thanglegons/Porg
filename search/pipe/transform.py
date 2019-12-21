@@ -23,8 +23,8 @@ class Transform(object):
             data_from_es = hits['hits']
             needed_field = {
                 'id': 'id',
-                'author_searchable': 'author.name',
-                'author_id': 'author.id',
+                'author_searchable': 'author_name',
+                'author_id': 'author_id',
                 'average_rating': 'rating',
                 'lenders_number': 'lenders',
                 'title': 'title',
