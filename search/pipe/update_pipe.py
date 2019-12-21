@@ -17,7 +17,7 @@ class UpdatePipe(object):
                 return helper.FAILED_MESSAGE
             body_doc['lenders_number'] = int(params['lenders'])
         if 'rating' in params.keys():
-            if not helper.is_non_negative_float(params['lenders']):
+            if not helper.is_non_negative_float(params['rating']):
                 return helper.FAILED_MESSAGE
             if float(params['rating']) > 5.0:
                 return helper.FAILED_MESSAGE
