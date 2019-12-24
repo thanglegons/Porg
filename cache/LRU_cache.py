@@ -75,6 +75,7 @@ class LRUCache(object):
                 self.head = self.current_cache[norm_key]
 
         self.update_cache()
+        return 1
 
     def update_cache(self):
 
